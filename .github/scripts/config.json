@@ -1,0 +1,94 @@
+{
+  "repo": "Senior-Software-Engineer-Jobs",
+  "owner": "dreamworkhq",
+  "title": "Senior Software Engineer Jobs",
+  "tagline": "Senior, staff, principal, and lead software engineering roles in the United States. No management, junior, new-grad, or internship listings.",
+  "description": "Senior software engineer jobs in the US, updated daily. Staff, principal, lead, platform, data, ML, security, cloud, and DevOps roles.",
+  "homepage": "https://www.dreamworkhq.com/?utm_source=github&utm_medium=repo_homepage&utm_campaign=gh-senior-swe",
+  "topics": [
+    "senior-software-engineer",
+    "senior-developer",
+    "staff-engineer",
+    "principal-engineer",
+    "software-engineering",
+    "experienced-developers",
+    "jobs",
+    "job-search",
+    "jobboard",
+    "careers",
+    "tech-jobs",
+    "developer-jobs",
+    "engineering-jobs",
+    "hiring",
+    "software-jobs"
+  ],
+  "utmCampaign": "gh-senior-swe",
+  "keywords": "senior, staff, principal, and lead software engineering roles in the United States",
+  "sources": [
+    {
+      "seniorityExact": "SENIOR",
+      "function": "Engineering",
+      "countryExact": "US"
+    },
+    {
+      "seniorityExact": "STAFF",
+      "function": "Engineering",
+      "countryExact": "US"
+    },
+    {
+      "seniorityExact": "PRINCIPAL",
+      "function": "Engineering",
+      "countryExact": "US"
+    }
+  ],
+  "usOnly": true,
+  "titleInclude": "software|developer|\\bswe\\b|front[- ]?end|back[- ]?end|full[- ]?stack|mobile engineer|\\bios\\b|android|devops|site reliability|\\bsre\\b|data engineer|machine learning|ml engineer|ai engineer|security engineer|cloud engineer|firmware engineer|embedded software|platform engineer|infrastructure engineer|test automation engineer|software test|quality assurance engineer|qa engineer|database engineer|software architect|web develop",
+  "titleExclude": "manager|director|\\bvp\\b|head of|intern(ship)?|co-?op|student|new grad|graduate|junior|entry[- ]level|sales|solutions? consultant",
+  "maxRows": 600,
+  "minRows": 200,
+  "maxPagesPerSource": 45,
+  "groupBy": "seniorityLevel",
+  "groupLabels": {
+    "SENIOR": "Senior",
+    "STAFF": "Staff and lead",
+    "PRINCIPAL": "Principal"
+  },
+  "showAiColumn": false,
+  "siblings": [
+    {
+      "repo": "dreamworkhq/New-Grad-Software-Engineer-Jobs",
+      "label": "New Grad Software Engineer Jobs: entry-level roles for graduates"
+    },
+    {
+      "repo": "dreamworkhq/Tech-Internships-2027",
+      "label": "2026–2027 Tech Internships: SWE, data, security, product, and design internships"
+    },
+    {
+      "repo": "dreamworkhq/Remote-Tech-Jobs",
+      "label": "Remote Tech Jobs: fully remote engineering roles"
+    }
+  ],
+  "faq": [
+    {
+      "q": "How often is this list updated?",
+      "a": "Once a day. A GitHub Action pulls newly verified roles from Dreamwork's public API, which crawls company career pages directly (Greenhouse, Lever, Ashby, Workday, and others). Closed roles drop off automatically."
+    },
+    {
+      "q": "What counts as a senior software engineering role?",
+      "a": "Roles classified senior, staff, or principal in software development, frontend, backend, full-stack, mobile, DevOps, site reliability, data engineering, ML, security, cloud, platform, infrastructure, firmware, and related disciplines. Engineering management, sales, junior, new-grad, and internship roles are excluded."
+    },
+    {
+      "q": "Where does the salary data come from?",
+      "a": "From the job posting itself. Inferred salary bands are hidden. When an employer does not disclose compensation, the salary column is blank."
+    },
+    {
+      "q": "Earlier in your career?",
+      "a": "Use <a href=\"https://github.com/dreamworkhq/New-Grad-Software-Engineer-Jobs\">New Grad Software Engineer Jobs</a> for entry-level full-time roles, or <a href=\"https://github.com/dreamworkhq/Tech-Internships-2027\">Tech Internships 2027</a> for internships."
+    },
+    {
+      "q": "Can Dreamwork rank these roles for my experience?",
+      "a": "Yes. <a href=\"https://www.dreamworkhq.com/?utm_source=github&utm_medium=faq&utm_campaign=gh-senior-swe\">Dreamwork</a> ranks every role against your resume, skills, seniority, goals, and location. Seeing your matches is free."
+    }
+  ],
+  "mode": "fresh"
+}
