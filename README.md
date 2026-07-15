@@ -48,7 +48,7 @@ Last updated: **2026-07-15**. Showing the **600** most recently indexed roles, c
 
 ### Senior (336)
 
-| Company | Role | Location | Salary | Age |
+| Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
 | **[Sandvik](https://www.dreamworkhq.com/c/sandvik.coromant.com?utm_source=github&utm_campaign=gh-senior-swe)** | [Senior Embedded Software Engineer](https://www.dreamworkhq.com/job/9a046da4-7bae-44e0-b211-00d75d0fa4cd?utm_source=github&utm_campaign=gh-senior-swe) | USA, CA, Camarillo | $120K–$160K | 0d |
 | **[Google](https://www.dreamworkhq.com/c/google.com?utm_source=github&utm_campaign=gh-senior-swe)** | [AI Engineer, Advanced Solutions Lab, Google Cloud](https://www.dreamworkhq.com/job/a0dea7d2-cd2a-4eb1-b77b-c74b2a5d79ef?utm_source=github&utm_campaign=gh-senior-swe) | Chicago, IL, USA, Atlanta, GA, USA, Austin,… (Hybrid) | $152K–$222K | 0d |
@@ -389,7 +389,7 @@ Last updated: **2026-07-15**. Showing the **600** most recently indexed roles, c
 
 ### Staff and lead (151)
 
-| Company | Role | Location | Salary | Age |
+| Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
 | **[Google](https://www.dreamworkhq.com/c/google.com?utm_source=github&utm_campaign=gh-senior-swe)** | [iOS SDK Technical Lead, Android XR](https://www.dreamworkhq.com/job/5c89906e-445a-4c09-ba2f-055445274e32?utm_source=github&utm_campaign=gh-senior-swe) | Waterloo, ON, Canada, San José, CA, USA (Hybrid) | $207K–$301K | 0d |
 | **[Google](https://www.dreamworkhq.com/c/google.com?utm_source=github&utm_campaign=gh-senior-swe)** | [Staff Software Engineer, Knowledge Catalog Search and Discovery](https://www.dreamworkhq.com/job/4b44d6c5-5434-4bff-b774-0b7d3c962400?utm_source=github&utm_campaign=gh-senior-swe) | Sunnyvale, CA, USA, Kirkland, WA, USA (Hybrid) | $207K–$301K | 0d |
@@ -545,7 +545,7 @@ Last updated: **2026-07-15**. Showing the **600** most recently indexed roles, c
 
 ### Principal (113)
 
-| Company | Role | Location | Salary | Age |
+| Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
 | **[Verint](https://www.dreamworkhq.com/c/verint.com?utm_source=github&utm_campaign=gh-senior-swe)** | [Principal Engineer, Software](https://www.dreamworkhq.com/job/fdef31aa-907f-4220-8bb7-727d61a8065e?utm_source=github&utm_campaign=gh-senior-swe) | Remote (Remote, United States) | $166K–$206K | 0d |
 | **[State Street](https://www.dreamworkhq.com/c/statestreet.com?utm_source=github&utm_campaign=gh-senior-swe)** | [Principal Software Engineer](https://www.dreamworkhq.com/job/4c0e348a-557d-4917-8a52-1d6a2962376a?utm_source=github&utm_campaign=gh-senior-swe) | Burlington Massachusetts (Hybrid) | $178K–$230K | 0d |
