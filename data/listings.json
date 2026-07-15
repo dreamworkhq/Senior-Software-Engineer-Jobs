@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-15T05:08:06.321Z",
+  "generatedAt": "2026-07-15T05:13:50.620Z",
   "source": "https://www.dreamworkhq.com",
   "list": "Senior-Software-Engineer-Jobs",
-  "count": 1021,
+  "count": 1023,
   "listings": [
     {
       "id": "9a046da4-7bae-44e0-b211-00d75d0fa4cd",
@@ -229,7 +229,7 @@
       "url": "https://www.dreamworkhq.com/job/699fdc16-b238-42de-a59f-ee3d25841e92?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
-      "id": "a92bd936-f6b7-4357-9cd9-141b466fb861",
+      "id": "5553445c-61d2-4a31-8811-8b91035156db",
       "title": "Software Engineer - Level 02 - FULLY CLEARED with POLYGRAPH REQUIRED",
       "company": "Cti Md",
       "companyDomain": "cti-md.com",
@@ -238,23 +238,9 @@
       "salaryMin": 150000,
       "salaryMax": 200000,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-07-13T13:02:23.305Z",
+      "postedAt": "2026-07-13T14:28:46.796Z",
       "firstIndexedAt": "2026-07-14T09:14:19.846Z",
-      "url": "https://www.dreamworkhq.com/job/a92bd936-f6b7-4357-9cd9-141b466fb861?utm_source=github&utm_campaign=gh-senior-swe"
-    },
-    {
-      "id": "4d6da67b-e6d6-4377-a299-10789d3c1fc6",
-      "title": "Software Engineer - Level 03 - FULLY CLEARED with POLYGRAPH REQUIRED",
-      "company": "Cti Md",
-      "companyDomain": "cti-md.com",
-      "location": "Fort Meade, MD",
-      "remoteType": "onsite",
-      "salaryMin": 230000,
-      "salaryMax": 250000,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-07-13T12:38:03.676Z",
-      "firstIndexedAt": "2026-07-14T09:14:19.846Z",
-      "url": "https://www.dreamworkhq.com/job/4d6da67b-e6d6-4377-a299-10789d3c1fc6?utm_source=github&utm_campaign=gh-senior-swe"
+      "url": "https://www.dreamworkhq.com/job/5553445c-61d2-4a31-8811-8b91035156db?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
       "id": "7cc677b0-6b60-49b2-9e0e-15ecaa92087e",
@@ -269,6 +255,20 @@
       "postedAt": "2026-07-13T14:50:55.734Z",
       "firstIndexedAt": "2026-07-14T09:14:19.846Z",
       "url": "https://www.dreamworkhq.com/job/7cc677b0-6b60-49b2-9e0e-15ecaa92087e?utm_source=github&utm_campaign=gh-senior-swe"
+    },
+    {
+      "id": "4d6da67b-e6d6-4377-a299-10789d3c1fc6",
+      "title": "Software Engineer - Level 03 - FULLY CLEARED with POLYGRAPH REQUIRED",
+      "company": "Cti Md",
+      "companyDomain": "cti-md.com",
+      "location": "Fort Meade, MD",
+      "remoteType": "onsite",
+      "salaryMin": 230000,
+      "salaryMax": 250000,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-07-13T12:38:03.676Z",
+      "firstIndexedAt": "2026-07-14T09:14:19.846Z",
+      "url": "https://www.dreamworkhq.com/job/4d6da67b-e6d6-4377-a299-10789d3c1fc6?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
       "id": "146a713c-c7e8-4d8c-9ee8-fff8de175b55",
@@ -439,48 +439,6 @@
       "url": "https://www.dreamworkhq.com/job/31b6ed70-f580-460c-99fe-948e1dc6a9e1?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
-      "id": "38c47519-c417-4939-a75f-08196c1b96f2",
-      "title": "(USA) Software Engineer III",
-      "company": "Walmart",
-      "companyDomain": "walmart.com",
-      "location": "Bentonville, AR",
-      "remoteType": "hybrid",
-      "salaryMin": 90000,
-      "salaryMax": 180000,
-      "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-07-13T08:53:19.384Z",
-      "firstIndexedAt": "2026-07-14T08:53:25.291Z",
-      "url": "https://www.dreamworkhq.com/job/38c47519-c417-4939-a75f-08196c1b96f2?utm_source=github&utm_campaign=gh-senior-swe"
-    },
-    {
-      "id": "6ef17fb3-a778-409d-b966-dc7e86bcba3a",
-      "title": "Software Engineer III",
-      "company": "Walmart",
-      "companyDomain": "walmart.com",
-      "location": "(USA) Crossman Service Building CA SUNNYVALE Home Office",
-      "remoteType": "onsite",
-      "salaryMin": 117000,
-      "salaryMax": 234000,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-07-13T08:53:19.275Z",
-      "firstIndexedAt": "2026-07-14T08:53:25.291Z",
-      "url": "https://www.dreamworkhq.com/job/6ef17fb3-a778-409d-b966-dc7e86bcba3a?utm_source=github&utm_campaign=gh-senior-swe"
-    },
-    {
-      "id": "a0ce3c5b-e425-46e7-bf29-cae4ef3d2785",
-      "title": "(USA) Senior, Software Engineer",
-      "company": "Walmart",
-      "companyDomain": "walmart.com",
-      "location": "(USA) Crossman Service Building CA SUNNYVALE Home Office",
-      "remoteType": "hybrid",
-      "salaryMin": 117000,
-      "salaryMax": 234000,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-07-13T08:53:19.188Z",
-      "firstIndexedAt": "2026-07-14T08:53:25.291Z",
-      "url": "https://www.dreamworkhq.com/job/a0ce3c5b-e425-46e7-bf29-cae4ef3d2785?utm_source=github&utm_campaign=gh-senior-swe"
-    },
-    {
       "id": "8af91fbc-bcc5-4da1-8e2c-e136b6cdd163",
       "title": "Senior, Software Engineer",
       "company": "Walmart",
@@ -507,6 +465,48 @@
       "postedAt": "2026-07-13T08:53:19.245Z",
       "firstIndexedAt": "2026-07-14T08:53:25.291Z",
       "url": "https://www.dreamworkhq.com/job/8d8f87f5-b1b0-4589-8eca-bdfda3ed740b?utm_source=github&utm_campaign=gh-senior-swe"
+    },
+    {
+      "id": "38c47519-c417-4939-a75f-08196c1b96f2",
+      "title": "(USA) Software Engineer III",
+      "company": "Walmart",
+      "companyDomain": "walmart.com",
+      "location": "Bentonville, AR",
+      "remoteType": "hybrid",
+      "salaryMin": 90000,
+      "salaryMax": 180000,
+      "aiRoleKind": "ai_explicit",
+      "postedAt": "2026-07-13T08:53:19.384Z",
+      "firstIndexedAt": "2026-07-14T08:53:25.291Z",
+      "url": "https://www.dreamworkhq.com/job/38c47519-c417-4939-a75f-08196c1b96f2?utm_source=github&utm_campaign=gh-senior-swe"
+    },
+    {
+      "id": "a0ce3c5b-e425-46e7-bf29-cae4ef3d2785",
+      "title": "(USA) Senior, Software Engineer",
+      "company": "Walmart",
+      "companyDomain": "walmart.com",
+      "location": "(USA) Crossman Service Building CA SUNNYVALE Home Office",
+      "remoteType": "hybrid",
+      "salaryMin": 117000,
+      "salaryMax": 234000,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-07-13T08:53:19.188Z",
+      "firstIndexedAt": "2026-07-14T08:53:25.291Z",
+      "url": "https://www.dreamworkhq.com/job/a0ce3c5b-e425-46e7-bf29-cae4ef3d2785?utm_source=github&utm_campaign=gh-senior-swe"
+    },
+    {
+      "id": "6ef17fb3-a778-409d-b966-dc7e86bcba3a",
+      "title": "Software Engineer III",
+      "company": "Walmart",
+      "companyDomain": "walmart.com",
+      "location": "(USA) Crossman Service Building CA SUNNYVALE Home Office",
+      "remoteType": "onsite",
+      "salaryMin": 117000,
+      "salaryMax": 234000,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-07-13T08:53:19.275Z",
+      "firstIndexedAt": "2026-07-14T08:53:25.291Z",
+      "url": "https://www.dreamworkhq.com/job/6ef17fb3-a778-409d-b966-dc7e86bcba3a?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
       "id": "cca0eb19-06cd-4515-9d60-267e780203b8",
@@ -985,20 +985,6 @@
       "url": "https://www.dreamworkhq.com/job/9f14c991-324e-4055-8c45-949d16e60c90?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
-      "id": "7f234c88-7246-4d59-8ef5-5731c869a3a9",
-      "title": "Software Engineer III",
-      "company": "ZoomInfo",
-      "companyDomain": "zoominfo.com",
-      "location": "Bethesda, Maryland, United States; Waltham, Massachusetts, United States",
-      "remoteType": "hybrid",
-      "salaryMin": 112000,
-      "salaryMax": 176000,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-07-13T18:45:36.000Z",
-      "firstIndexedAt": "2026-07-14T08:20:37.269Z",
-      "url": "https://www.dreamworkhq.com/job/7f234c88-7246-4d59-8ef5-5731c869a3a9?utm_source=github&utm_campaign=gh-senior-swe"
-    },
-    {
       "id": "909fe603-9418-459c-94cf-c899d952461a",
       "title": "Software Engineer III ",
       "company": "ZoomInfo",
@@ -1011,6 +997,20 @@
       "postedAt": "2026-07-13T22:31:34.000Z",
       "firstIndexedAt": "2026-07-14T08:20:37.269Z",
       "url": "https://www.dreamworkhq.com/job/909fe603-9418-459c-94cf-c899d952461a?utm_source=github&utm_campaign=gh-senior-swe"
+    },
+    {
+      "id": "7f234c88-7246-4d59-8ef5-5731c869a3a9",
+      "title": "Software Engineer III",
+      "company": "ZoomInfo",
+      "companyDomain": "zoominfo.com",
+      "location": "Bethesda, Maryland, United States; Waltham, Massachusetts, United States",
+      "remoteType": "hybrid",
+      "salaryMin": 112000,
+      "salaryMax": 176000,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-07-13T18:45:36.000Z",
+      "firstIndexedAt": "2026-07-14T08:20:37.269Z",
+      "url": "https://www.dreamworkhq.com/job/7f234c88-7246-4d59-8ef5-5731c869a3a9?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
       "id": "adbc1081-1361-4474-8520-d0ea08693c87",
@@ -1111,20 +1111,6 @@
       "url": "https://www.dreamworkhq.com/job/d3514db6-5718-48f0-87ba-d2956da7ef1f?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
-      "id": "b65f27ca-1683-4742-9e1c-0174775b1fc0",
-      "title": "Senior Software Engineer, Developer Platform",
-      "company": "Anduril",
-      "companyDomain": "anduril.com",
-      "location": "Seattle, Washington, United States",
-      "remoteType": "onsite",
-      "salaryMin": 191000,
-      "salaryMax": 253000,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-07-13T21:34:37.000Z",
-      "firstIndexedAt": "2026-07-14T08:17:17.951Z",
-      "url": "https://www.dreamworkhq.com/job/b65f27ca-1683-4742-9e1c-0174775b1fc0?utm_source=github&utm_campaign=gh-senior-swe"
-    },
-    {
       "id": "ce7acd6c-ebe3-4455-b1e7-a1e445c07bb4",
       "title": "Senior Software Engineer, Developer Platform",
       "company": "Anduril",
@@ -1139,18 +1125,18 @@
       "url": "https://www.dreamworkhq.com/job/ce7acd6c-ebe3-4455-b1e7-a1e445c07bb4?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
-      "id": "16be37d0-aebd-48ac-9599-f0714399ac44",
+      "id": "b65f27ca-1683-4742-9e1c-0174775b1fc0",
       "title": "Senior Software Engineer, Developer Platform",
       "company": "Anduril",
       "companyDomain": "anduril.com",
-      "location": "Boston, Massachusetts, United States",
+      "location": "Seattle, Washington, United States",
       "remoteType": "onsite",
       "salaryMin": 191000,
       "salaryMax": 253000,
       "aiRoleKind": "non_ai",
       "postedAt": "2026-07-13T21:34:37.000Z",
       "firstIndexedAt": "2026-07-14T08:17:17.951Z",
-      "url": "https://www.dreamworkhq.com/job/16be37d0-aebd-48ac-9599-f0714399ac44?utm_source=github&utm_campaign=gh-senior-swe"
+      "url": "https://www.dreamworkhq.com/job/b65f27ca-1683-4742-9e1c-0174775b1fc0?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
       "id": "9b02cb8c-cad1-4d4a-8d28-45e01a89f1f3",
@@ -1165,6 +1151,20 @@
       "postedAt": "2026-07-13T21:34:38.000Z",
       "firstIndexedAt": "2026-07-14T08:17:17.951Z",
       "url": "https://www.dreamworkhq.com/job/9b02cb8c-cad1-4d4a-8d28-45e01a89f1f3?utm_source=github&utm_campaign=gh-senior-swe"
+    },
+    {
+      "id": "16be37d0-aebd-48ac-9599-f0714399ac44",
+      "title": "Senior Software Engineer, Developer Platform",
+      "company": "Anduril",
+      "companyDomain": "anduril.com",
+      "location": "Boston, Massachusetts, United States",
+      "remoteType": "onsite",
+      "salaryMin": 191000,
+      "salaryMax": 253000,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-07-13T21:34:37.000Z",
+      "firstIndexedAt": "2026-07-14T08:17:17.951Z",
+      "url": "https://www.dreamworkhq.com/job/16be37d0-aebd-48ac-9599-f0714399ac44?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
       "id": "97b22cd9-b9ea-4060-9617-b77b74db5928",
@@ -1265,7 +1265,7 @@
       "url": "https://www.dreamworkhq.com/job/81320d9c-c753-44c2-a711-5d7f06a9eba1?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
-      "id": "4dabbc1f-86ff-499f-9daa-4fc6aa05fa43",
+      "id": "df54f155-f9bd-484e-94b8-0ff358356e16",
       "title": "Senior Software Engineer (Onsite)",
       "company": "RTX (Raytheon)",
       "companyDomain": "rtx.com",
@@ -1274,9 +1274,9 @@
       "salaryMin": 86800,
       "salaryMax": 165200,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-07-06T08:11:29.823Z",
+      "postedAt": "2026-07-06T08:11:29.770Z",
       "firstIndexedAt": "2026-07-14T08:12:22.692Z",
-      "url": "https://www.dreamworkhq.com/job/4dabbc1f-86ff-499f-9daa-4fc6aa05fa43?utm_source=github&utm_campaign=gh-senior-swe"
+      "url": "https://www.dreamworkhq.com/job/df54f155-f9bd-484e-94b8-0ff358356e16?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
       "id": "92653de1-40fb-45b9-b893-31346383194a",
@@ -1293,7 +1293,7 @@
       "url": "https://www.dreamworkhq.com/job/92653de1-40fb-45b9-b893-31346383194a?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
-      "id": "0ffdfd83-ac48-4d6e-8b2e-7b4857a72f6d",
+      "id": "9a5c8669-4258-4e53-9c0c-97b5337f0cdd",
       "title": "Principal Software Engineer (Onsite)",
       "company": "RTX (Raytheon)",
       "companyDomain": "rtx.com",
@@ -1302,9 +1302,9 @@
       "salaryMin": 107500,
       "salaryMax": 204500,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-07-06T08:11:30.739Z",
+      "postedAt": "2026-07-06T08:11:30.827Z",
       "firstIndexedAt": "2026-07-14T08:12:22.692Z",
-      "url": "https://www.dreamworkhq.com/job/0ffdfd83-ac48-4d6e-8b2e-7b4857a72f6d?utm_source=github&utm_campaign=gh-senior-swe"
+      "url": "https://www.dreamworkhq.com/job/9a5c8669-4258-4e53-9c0c-97b5337f0cdd?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
       "id": "35d77b94-28c9-4a4d-9c34-420efb1963ab",
@@ -1405,20 +1405,6 @@
       "url": "https://www.dreamworkhq.com/job/b719c876-1a08-400b-aeb4-70fae800a57c?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
-      "id": "105eb950-f086-42ee-8c6b-5412f0302dcc",
-      "title": "Sr AI Engineer",
-      "company": "eBay",
-      "companyDomain": "ebay.com",
-      "location": "San Jose",
-      "remoteType": "hybrid",
-      "salaryMin": 196800,
-      "salaryMax": 262700,
-      "aiRoleKind": "ai_first",
-      "postedAt": "2026-07-13T08:11:47.431Z",
-      "firstIndexedAt": "2026-07-14T08:12:02.677Z",
-      "url": "https://www.dreamworkhq.com/job/105eb950-f086-42ee-8c6b-5412f0302dcc?utm_source=github&utm_campaign=gh-senior-swe"
-    },
-    {
       "id": "355eab77-c601-4f7a-9de5-4f8057ddbcb1",
       "title": "AI Native MTS1 Software Engineer, Risk",
       "company": "eBay",
@@ -1431,6 +1417,20 @@
       "postedAt": "2026-07-13T08:11:46.942Z",
       "firstIndexedAt": "2026-07-14T08:12:02.677Z",
       "url": "https://www.dreamworkhq.com/job/355eab77-c601-4f7a-9de5-4f8057ddbcb1?utm_source=github&utm_campaign=gh-senior-swe"
+    },
+    {
+      "id": "105eb950-f086-42ee-8c6b-5412f0302dcc",
+      "title": "Sr AI Engineer",
+      "company": "eBay",
+      "companyDomain": "ebay.com",
+      "location": "San Jose",
+      "remoteType": "hybrid",
+      "salaryMin": 196800,
+      "salaryMax": 262700,
+      "aiRoleKind": "ai_first",
+      "postedAt": "2026-07-13T08:11:47.431Z",
+      "firstIndexedAt": "2026-07-14T08:12:02.677Z",
+      "url": "https://www.dreamworkhq.com/job/105eb950-f086-42ee-8c6b-5412f0302dcc?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
       "id": "5445e8a7-f641-41ec-89e9-aeac168f8762",
@@ -1531,20 +1531,6 @@
       "url": "https://www.dreamworkhq.com/job/ac514bd6-886f-43ac-bdaf-a8abd20ac32a?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
-      "id": "f69c30d7-59bd-456e-b6c6-4af6dc9614fd",
-      "title": "Engineer 3, Software Development & Engineering-8710",
-      "company": "Comcast",
-      "companyDomain": "comcast.com",
-      "location": "PA - Philadelphia, 1800 Arch St",
-      "remoteType": "hybrid",
-      "salaryMin": 155000,
-      "salaryMax": 205000,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-07-13T08:10:23.260Z",
-      "firstIndexedAt": "2026-07-14T08:11:01.388Z",
-      "url": "https://www.dreamworkhq.com/job/f69c30d7-59bd-456e-b6c6-4af6dc9614fd?utm_source=github&utm_campaign=gh-senior-swe"
-    },
-    {
       "id": "6024d742-1465-4367-8ed5-a7887823bd93",
       "title": "Lead Software Engineer-0341",
       "company": "Comcast",
@@ -1557,6 +1543,20 @@
       "postedAt": "2026-07-13T08:10:23.169Z",
       "firstIndexedAt": "2026-07-14T08:11:01.388Z",
       "url": "https://www.dreamworkhq.com/job/6024d742-1465-4367-8ed5-a7887823bd93?utm_source=github&utm_campaign=gh-senior-swe"
+    },
+    {
+      "id": "f69c30d7-59bd-456e-b6c6-4af6dc9614fd",
+      "title": "Engineer 3, Software Development & Engineering-8710",
+      "company": "Comcast",
+      "companyDomain": "comcast.com",
+      "location": "PA - Philadelphia, 1800 Arch St",
+      "remoteType": "hybrid",
+      "salaryMin": 155000,
+      "salaryMax": 205000,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-07-13T08:10:23.260Z",
+      "firstIndexedAt": "2026-07-14T08:11:01.388Z",
+      "url": "https://www.dreamworkhq.com/job/f69c30d7-59bd-456e-b6c6-4af6dc9614fd?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
       "id": "5bdd7f74-ce7f-451e-97e5-623203c420ed",
@@ -1601,20 +1601,6 @@
       "url": "https://www.dreamworkhq.com/job/c6bcbbb0-706e-4d8e-8f37-8e545dc7d01c?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
-      "id": "e14fee24-5dfb-4d80-a9d2-5cfaa8faf221",
-      "title": "Senior Platform Engineer, Workday Extend & Integrations",
-      "company": "Lyft",
-      "companyDomain": "lyft.com",
-      "location": "San Francisco, CA",
-      "remoteType": "hybrid",
-      "salaryMin": 148000,
-      "salaryMax": 185000,
-      "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-07-13T22:36:01.000Z",
-      "firstIndexedAt": "2026-07-14T08:07:17.645Z",
-      "url": "https://www.dreamworkhq.com/job/e14fee24-5dfb-4d80-a9d2-5cfaa8faf221?utm_source=github&utm_campaign=gh-senior-swe"
-    },
-    {
       "id": "f6e43a09-567a-45fe-9e4f-b4600dcdeea5",
       "title": "Software Engineer, Async Platform",
       "company": "Lyft",
@@ -1629,18 +1615,18 @@
       "url": "https://www.dreamworkhq.com/job/f6e43a09-567a-45fe-9e4f-b4600dcdeea5?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
-      "id": "1b8d09ff-8265-4ac9-a7eb-1bfd8df986f3",
-      "title": "MCCO Software Developer SME | Active TS/SCI CI Poly",
-      "company": "Gdit",
-      "companyDomain": "gdit.com",
-      "location": "USA MD Fort Meade",
-      "remoteType": "onsite",
-      "salaryMin": 170000,
-      "salaryMax": 230000,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-07-13T08:06:47.468Z",
-      "firstIndexedAt": "2026-07-14T08:07:12.740Z",
-      "url": "https://www.dreamworkhq.com/job/1b8d09ff-8265-4ac9-a7eb-1bfd8df986f3?utm_source=github&utm_campaign=gh-senior-swe"
+      "id": "e14fee24-5dfb-4d80-a9d2-5cfaa8faf221",
+      "title": "Senior Platform Engineer, Workday Extend & Integrations",
+      "company": "Lyft",
+      "companyDomain": "lyft.com",
+      "location": "San Francisco, CA",
+      "remoteType": "hybrid",
+      "salaryMin": 148000,
+      "salaryMax": 185000,
+      "aiRoleKind": "ai_explicit",
+      "postedAt": "2026-07-13T22:36:01.000Z",
+      "firstIndexedAt": "2026-07-14T08:07:17.645Z",
+      "url": "https://www.dreamworkhq.com/job/e14fee24-5dfb-4d80-a9d2-5cfaa8faf221?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
       "id": "be647049-25d1-4b1e-91a8-e3555b36ccb2",
@@ -1657,18 +1643,18 @@
       "url": "https://www.dreamworkhq.com/job/be647049-25d1-4b1e-91a8-e3555b36ccb2?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
-      "id": "4590bef1-16fe-4964-8874-d12a6068d7c5",
-      "title": "Senior DevOps Engineer",
+      "id": "1b8d09ff-8265-4ac9-a7eb-1bfd8df986f3",
+      "title": "MCCO Software Developer SME | Active TS/SCI CI Poly",
       "company": "Gdit",
       "companyDomain": "gdit.com",
-      "location": "Any Location / Remote",
-      "remoteType": "remote",
-      "salaryMin": 131750,
-      "salaryMax": 178250,
+      "location": "USA MD Fort Meade",
+      "remoteType": "onsite",
+      "salaryMin": 170000,
+      "salaryMax": 230000,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-07-13T08:06:47.047Z",
-      "firstIndexedAt": "2026-07-14T08:07:10.930Z",
-      "url": "https://www.dreamworkhq.com/job/4590bef1-16fe-4964-8874-d12a6068d7c5?utm_source=github&utm_campaign=gh-senior-swe"
+      "postedAt": "2026-07-13T08:06:47.468Z",
+      "firstIndexedAt": "2026-07-14T08:07:12.740Z",
+      "url": "https://www.dreamworkhq.com/job/1b8d09ff-8265-4ac9-a7eb-1bfd8df986f3?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
       "id": "a743d080-3030-4e6a-8525-5d9ef558b0c6",
@@ -1685,6 +1671,20 @@
       "url": "https://www.dreamworkhq.com/job/a743d080-3030-4e6a-8525-5d9ef558b0c6?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
+      "id": "4590bef1-16fe-4964-8874-d12a6068d7c5",
+      "title": "Senior DevOps Engineer",
+      "company": "Gdit",
+      "companyDomain": "gdit.com",
+      "location": "Any Location / Remote",
+      "remoteType": "remote",
+      "salaryMin": 131750,
+      "salaryMax": 178250,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-07-13T08:06:47.047Z",
+      "firstIndexedAt": "2026-07-14T08:07:10.930Z",
+      "url": "https://www.dreamworkhq.com/job/4590bef1-16fe-4964-8874-d12a6068d7c5?utm_source=github&utm_campaign=gh-senior-swe"
+    },
+    {
       "id": "5fba146c-29c6-450b-8036-6f4c960e96a2",
       "title": "Cloud Engineer, Sr.",
       "company": "Gdit",
@@ -1697,20 +1697,6 @@
       "postedAt": "2026-07-13T08:06:46.301Z",
       "firstIndexedAt": "2026-07-14T08:07:10.930Z",
       "url": "https://www.dreamworkhq.com/job/5fba146c-29c6-450b-8036-6f4c960e96a2?utm_source=github&utm_campaign=gh-senior-swe"
-    },
-    {
-      "id": "58a66aa4-8a3a-43cb-a0a7-2d250dc4e0c6",
-      "title": "Software Engineer - TS/SCI with Polygraph",
-      "company": "Gdit",
-      "companyDomain": "gdit.com",
-      "location": "USA VA Chantilly",
-      "remoteType": "onsite",
-      "salaryMin": 185057,
-      "salaryMax": 250371,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-07-13T08:06:46.588Z",
-      "firstIndexedAt": "2026-07-14T08:07:10.930Z",
-      "url": "https://www.dreamworkhq.com/job/58a66aa4-8a3a-43cb-a0a7-2d250dc4e0c6?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
       "id": "7c42d935-5939-4c84-a124-ae59cc7f60a8",
@@ -1783,18 +1769,18 @@
       "url": "https://www.dreamworkhq.com/job/42e00118-07ec-4e1f-bfa4-d0636ef2912c?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
-      "id": "44aad89f-c60c-4572-9e16-b193b84934aa",
-      "title": "Senior Full Stack Software Engineer",
+      "id": "2acce83a-ea4f-4569-b796-11e31ec17fd6",
+      "title": "Sr. Machine Learning Platform Engineer ",
       "company": "Dave",
       "companyDomain": "dave.com",
       "location": "United States",
       "remoteType": "remote",
-      "salaryMin": 155000,
-      "salaryMax": 205000,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-07-13T20:07:47.686Z",
+      "salaryMin": 150000,
+      "salaryMax": 187000,
+      "aiRoleKind": "ai_first",
+      "postedAt": "2026-04-07T15:36:08.381Z",
       "firstIndexedAt": "2026-07-14T08:02:59.581Z",
-      "url": "https://www.dreamworkhq.com/job/44aad89f-c60c-4572-9e16-b193b84934aa?utm_source=github&utm_campaign=gh-senior-swe"
+      "url": "https://www.dreamworkhq.com/job/2acce83a-ea4f-4569-b796-11e31ec17fd6?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
       "id": "2a366457-dcd7-429b-82ad-f980a41ae3ef",
@@ -1811,32 +1797,18 @@
       "url": "https://www.dreamworkhq.com/job/2a366457-dcd7-429b-82ad-f980a41ae3ef?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
-      "id": "2acce83a-ea4f-4569-b796-11e31ec17fd6",
-      "title": "Sr. Machine Learning Platform Engineer ",
+      "id": "44aad89f-c60c-4572-9e16-b193b84934aa",
+      "title": "Senior Full Stack Software Engineer",
       "company": "Dave",
       "companyDomain": "dave.com",
       "location": "United States",
       "remoteType": "remote",
-      "salaryMin": 150000,
-      "salaryMax": 187000,
-      "aiRoleKind": "ai_first",
-      "postedAt": "2026-04-07T15:36:08.381Z",
-      "firstIndexedAt": "2026-07-14T08:02:59.581Z",
-      "url": "https://www.dreamworkhq.com/job/2acce83a-ea4f-4569-b796-11e31ec17fd6?utm_source=github&utm_campaign=gh-senior-swe"
-    },
-    {
-      "id": "781ffefd-7dc4-46cd-840a-3abc63a87230",
-      "title": "Senior Software Developer (.NET Core / Azure Cloud Solution) ",
-      "company": "9thwayinsignia",
-      "companyDomain": "9thwayinsignia.com",
-      "location": "United States - Remote",
-      "remoteType": "remote",
-      "salaryMin": 98135,
-      "salaryMax": 147000,
+      "salaryMin": 155000,
+      "salaryMax": 205000,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-07-13T21:18:09.000Z",
-      "firstIndexedAt": "2026-07-14T08:01:50.655Z",
-      "url": "https://www.dreamworkhq.com/job/781ffefd-7dc4-46cd-840a-3abc63a87230?utm_source=github&utm_campaign=gh-senior-swe"
+      "postedAt": "2026-07-13T20:07:47.686Z",
+      "firstIndexedAt": "2026-07-14T08:02:59.581Z",
+      "url": "https://www.dreamworkhq.com/job/44aad89f-c60c-4572-9e16-b193b84934aa?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
       "id": "2ae98e8c-29bb-4d38-b5cb-6eff13452562",
@@ -1853,6 +1825,20 @@
       "url": "https://www.dreamworkhq.com/job/2ae98e8c-29bb-4d38-b5cb-6eff13452562?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
+      "id": "781ffefd-7dc4-46cd-840a-3abc63a87230",
+      "title": "Senior Software Developer (.NET Core / Azure Cloud Solution) ",
+      "company": "9thwayinsignia",
+      "companyDomain": "9thwayinsignia.com",
+      "location": "United States - Remote",
+      "remoteType": "remote",
+      "salaryMin": 98135,
+      "salaryMax": 147000,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-07-13T21:18:09.000Z",
+      "firstIndexedAt": "2026-07-14T08:01:50.655Z",
+      "url": "https://www.dreamworkhq.com/job/781ffefd-7dc4-46cd-840a-3abc63a87230?utm_source=github&utm_campaign=gh-senior-swe"
+    },
+    {
       "id": "d6901fc9-7e57-4660-9e32-e73ce167b1a9",
       "title": "Sr. Staff IT SWE AI",
       "company": "Palo Alto Networks",
@@ -1867,20 +1853,6 @@
       "url": "https://www.dreamworkhq.com/job/d6901fc9-7e57-4660-9e32-e73ce167b1a9?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
-      "id": "8d39e5fd-8ffd-49f3-b8c6-9203492de1f0",
-      "title": "Principal Engineer Software, Tools & Platforms (Cortex)",
-      "company": "Palo Alto Networks",
-      "companyDomain": "paloaltonetworks.com",
-      "location": "Office - USA - CA - Headquarters",
-      "remoteType": "hybrid",
-      "salaryMin": 147000,
-      "salaryMax": 237500,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-07-13T07:59:15.785Z",
-      "firstIndexedAt": "2026-07-14T07:59:51.235Z",
-      "url": "https://www.dreamworkhq.com/job/8d39e5fd-8ffd-49f3-b8c6-9203492de1f0?utm_source=github&utm_campaign=gh-senior-swe"
-    },
-    {
       "id": "68965c13-adfb-437e-a14f-b224ac1f1f51",
       "title": "Senior Principal Software Engineer (Cloud Management)",
       "company": "Palo Alto Networks",
@@ -1893,6 +1865,20 @@
       "postedAt": "2026-07-13T07:59:15.980Z",
       "firstIndexedAt": "2026-07-14T07:59:51.235Z",
       "url": "https://www.dreamworkhq.com/job/68965c13-adfb-437e-a14f-b224ac1f1f51?utm_source=github&utm_campaign=gh-senior-swe"
+    },
+    {
+      "id": "8d39e5fd-8ffd-49f3-b8c6-9203492de1f0",
+      "title": "Principal Engineer Software, Tools & Platforms (Cortex)",
+      "company": "Palo Alto Networks",
+      "companyDomain": "paloaltonetworks.com",
+      "location": "Office - USA - CA - Headquarters",
+      "remoteType": "hybrid",
+      "salaryMin": 147000,
+      "salaryMax": 237500,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-07-13T07:59:15.785Z",
+      "firstIndexedAt": "2026-07-14T07:59:51.235Z",
+      "url": "https://www.dreamworkhq.com/job/8d39e5fd-8ffd-49f3-b8c6-9203492de1f0?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
       "id": "f73dfd6e-a270-4b06-b731-10269d70816c",
@@ -2063,20 +2049,6 @@
       "url": "https://www.dreamworkhq.com/job/079e017b-f717-4ef6-a33c-6493247bf167?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
-      "id": "e7133e27-a064-4e75-84d7-80213bf15d53",
-      "title": "Data Systems Software Engineering Architect",
-      "company": "Oracle",
-      "companyDomain": "oracle.com",
-      "location": "United States",
-      "remoteType": "remote",
-      "salaryMin": 169800,
-      "salaryMax": 355400,
-      "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-07-13T20:50:20.000Z",
-      "firstIndexedAt": "2026-07-14T07:54:48.967Z",
-      "url": "https://www.dreamworkhq.com/job/e7133e27-a064-4e75-84d7-80213bf15d53?utm_source=github&utm_campaign=gh-senior-swe"
-    },
-    {
       "id": "7a43683f-0955-438a-911c-5101075a0f16",
       "title": "Software Developer 4",
       "company": "Oracle",
@@ -2091,18 +2063,18 @@
       "url": "https://www.dreamworkhq.com/job/7a43683f-0955-438a-911c-5101075a0f16?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
-      "id": "e03e87d4-0e0d-4a61-8642-c38d05315853",
-      "title": "Principal Data Engineer",
+      "id": "e7133e27-a064-4e75-84d7-80213bf15d53",
+      "title": "Data Systems Software Engineering Architect",
       "company": "Oracle",
       "companyDomain": "oracle.com",
       "location": "United States",
       "remoteType": "remote",
-      "salaryMin": 114600,
-      "salaryMax": 234600,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-07-13T13:27:18.000Z",
+      "salaryMin": 169800,
+      "salaryMax": 355400,
+      "aiRoleKind": "ai_explicit",
+      "postedAt": "2026-07-13T20:50:20.000Z",
       "firstIndexedAt": "2026-07-14T07:54:48.967Z",
-      "url": "https://www.dreamworkhq.com/job/e03e87d4-0e0d-4a61-8642-c38d05315853?utm_source=github&utm_campaign=gh-senior-swe"
+      "url": "https://www.dreamworkhq.com/job/e7133e27-a064-4e75-84d7-80213bf15d53?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
       "id": "5980fbbb-1e9c-40b2-9fda-5454f9261bee",
@@ -2117,6 +2089,20 @@
       "postedAt": "2026-07-13T20:26:19.000Z",
       "firstIndexedAt": "2026-07-14T07:54:48.967Z",
       "url": "https://www.dreamworkhq.com/job/5980fbbb-1e9c-40b2-9fda-5454f9261bee?utm_source=github&utm_campaign=gh-senior-swe"
+    },
+    {
+      "id": "e03e87d4-0e0d-4a61-8642-c38d05315853",
+      "title": "Principal Data Engineer",
+      "company": "Oracle",
+      "companyDomain": "oracle.com",
+      "location": "United States",
+      "remoteType": "remote",
+      "salaryMin": 114600,
+      "salaryMax": 234600,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-07-13T13:27:18.000Z",
+      "firstIndexedAt": "2026-07-14T07:54:48.967Z",
+      "url": "https://www.dreamworkhq.com/job/e03e87d4-0e0d-4a61-8642-c38d05315853?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
       "id": "2c306b5f-2f0c-4620-ae27-562085aa61a0",
@@ -2301,20 +2287,6 @@
       "url": "https://www.dreamworkhq.com/job/da523a2f-dd83-4833-8abd-3fdca0cdfb9b?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
-      "id": "160ef87f-e3cf-4846-83be-4b3166796530",
-      "title": "Staff Software Build Engineer",
-      "company": "Intuitive",
-      "companyDomain": "intuitive.com",
-      "location": "Sunnyvale, CA, United States",
-      "remoteType": "onsite",
-      "salaryMin": 223900,
-      "salaryMax": 322100,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-07-13T17:45:37.598Z",
-      "firstIndexedAt": "2026-07-14T07:39:08.644Z",
-      "url": "https://www.dreamworkhq.com/job/160ef87f-e3cf-4846-83be-4b3166796530?utm_source=github&utm_campaign=gh-senior-swe"
-    },
-    {
       "id": "83418e32-d11c-4086-a33c-cec178bec591",
       "title": "Staff Software Engineer, Platform",
       "company": "Intuitive",
@@ -2329,18 +2301,32 @@
       "url": "https://www.dreamworkhq.com/job/83418e32-d11c-4086-a33c-cec178bec591?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
-      "id": "f7426c58-d531-4e8e-bab9-8739a34d7cbf",
-      "title": "UI and iOS Platform Software Engineer, Safari",
+      "id": "160ef87f-e3cf-4846-83be-4b3166796530",
+      "title": "Staff Software Build Engineer",
+      "company": "Intuitive",
+      "companyDomain": "intuitive.com",
+      "location": "Sunnyvale, CA, United States",
+      "remoteType": "onsite",
+      "salaryMin": 223900,
+      "salaryMax": 322100,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-07-13T17:45:37.598Z",
+      "firstIndexedAt": "2026-07-14T07:39:08.644Z",
+      "url": "https://www.dreamworkhq.com/job/160ef87f-e3cf-4846-83be-4b3166796530?utm_source=github&utm_campaign=gh-senior-swe"
+    },
+    {
+      "id": "4592655c-8d54-4850-9300-fbde0c176c16",
+      "title": "Software Development Engineer - Applications",
       "company": "Apple",
       "companyDomain": "apple.com",
-      "location": "Cupertino",
+      "location": "Austin",
       "remoteType": "onsite",
-      "salaryMin": 150400,
-      "salaryMax": 277600,
+      "salaryMin": 205000,
+      "salaryMax": 260000,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-07-13T18:42:48.887Z",
+      "postedAt": "2026-07-13T19:09:51.635Z",
       "firstIndexedAt": "2026-07-14T07:38:14.474Z",
-      "url": "https://www.dreamworkhq.com/job/f7426c58-d531-4e8e-bab9-8739a34d7cbf?utm_source=github&utm_campaign=gh-senior-swe"
+      "url": "https://www.dreamworkhq.com/job/4592655c-8d54-4850-9300-fbde0c176c16?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
       "id": "9c452c75-8f97-4eb1-abf3-376c8b961977",
@@ -2371,20 +2357,6 @@
       "url": "https://www.dreamworkhq.com/job/5aa12e70-6d4e-45d4-8971-a452890b140a?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
-      "id": "4592655c-8d54-4850-9300-fbde0c176c16",
-      "title": "Software Development Engineer - Applications",
-      "company": "Apple",
-      "companyDomain": "apple.com",
-      "location": "Austin",
-      "remoteType": "onsite",
-      "salaryMin": 205000,
-      "salaryMax": 260000,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-07-13T19:09:51.635Z",
-      "firstIndexedAt": "2026-07-14T07:38:14.474Z",
-      "url": "https://www.dreamworkhq.com/job/4592655c-8d54-4850-9300-fbde0c176c16?utm_source=github&utm_campaign=gh-senior-swe"
-    },
-    {
       "id": "fd1661f2-a60e-48ea-aad6-0be17fa5c7bf",
       "title": "Senior iOS Engineer, Ads",
       "company": "Apple",
@@ -2397,6 +2369,20 @@
       "postedAt": "2026-07-13T18:19:16.285Z",
       "firstIndexedAt": "2026-07-14T07:38:14.474Z",
       "url": "https://www.dreamworkhq.com/job/fd1661f2-a60e-48ea-aad6-0be17fa5c7bf?utm_source=github&utm_campaign=gh-senior-swe"
+    },
+    {
+      "id": "f7426c58-d531-4e8e-bab9-8739a34d7cbf",
+      "title": "UI and iOS Platform Software Engineer, Safari",
+      "company": "Apple",
+      "companyDomain": "apple.com",
+      "location": "Cupertino",
+      "remoteType": "onsite",
+      "salaryMin": 150400,
+      "salaryMax": 277600,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-07-13T18:42:48.887Z",
+      "firstIndexedAt": "2026-07-14T07:38:14.474Z",
+      "url": "https://www.dreamworkhq.com/job/f7426c58-d531-4e8e-bab9-8739a34d7cbf?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
       "id": "a313f0a8-ef6e-40cf-af52-032666d1fda1",
@@ -2413,18 +2399,18 @@
       "url": "https://www.dreamworkhq.com/job/a313f0a8-ef6e-40cf-af52-032666d1fda1?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
-      "id": "9b278282-98dd-4650-8d83-8a21470df2cb",
+      "id": "6085542c-89be-4392-8815-016b8f5b2f3b",
       "title": "Kernel Software Development Engineer - Core Drivers Architecture",
       "company": "Apple",
       "companyDomain": "apple.com",
       "location": "Cupertino",
       "remoteType": "onsite",
-      "salaryMin": 129300,
-      "salaryMax": 225300,
+      "salaryMin": 150400,
+      "salaryMax": 277600,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-07-14T00:32:37.684Z",
+      "postedAt": "2026-07-13T23:06:46.319Z",
       "firstIndexedAt": "2026-07-14T07:38:10.913Z",
-      "url": "https://www.dreamworkhq.com/job/9b278282-98dd-4650-8d83-8a21470df2cb?utm_source=github&utm_campaign=gh-senior-swe"
+      "url": "https://www.dreamworkhq.com/job/6085542c-89be-4392-8815-016b8f5b2f3b?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
       "id": "42019fc6-470e-4971-b35f-47889698b24a",
@@ -2469,8 +2455,8 @@
       "url": "https://www.dreamworkhq.com/job/93f1815a-ff4e-4b75-aec9-b21d34650af5?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
-      "id": "baa563a4-5d4e-4099-9ae9-3e49cf25c538",
-      "title": "Software Engineer III-Generative AI Platform Engineering",
+      "id": "67eada66-1d68-4d42-8574-8a3c726989ed",
+      "title": "Software Engineer III – Generative AI Platform Engineering",
       "company": "Lateral US",
       "companyDomain": "lateral.io",
       "location": "Addison",
@@ -2478,23 +2464,9 @@
       "salaryMin": 170000,
       "salaryMax": 210000,
       "aiRoleKind": "ai_first",
-      "postedAt": "2026-07-13T07:37:25.553Z",
+      "postedAt": "2026-07-13T07:37:25.515Z",
       "firstIndexedAt": "2026-07-14T07:37:28.446Z",
-      "url": "https://www.dreamworkhq.com/job/baa563a4-5d4e-4099-9ae9-3e49cf25c538?utm_source=github&utm_campaign=gh-senior-swe"
-    },
-    {
-      "id": "36f7dd8a-8949-4fa2-bb31-7d0d598d532e",
-      "title": "Senior Software Engineer – Kubernetes Platform Engineering, Service Mesh & Developer Platforms (Golang APIs)",
-      "company": "Lateral US",
-      "companyDomain": "lateral.io",
-      "location": "Jersey City",
-      "remoteType": "hybrid",
-      "salaryMin": 122000,
-      "salaryMax": 200000,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-07-11T07:37:25.545Z",
-      "firstIndexedAt": "2026-07-14T07:37:28.446Z",
-      "url": "https://www.dreamworkhq.com/job/36f7dd8a-8949-4fa2-bb31-7d0d598d532e?utm_source=github&utm_campaign=gh-senior-swe"
+      "url": "https://www.dreamworkhq.com/job/67eada66-1d68-4d42-8574-8a3c726989ed?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
       "id": "b83f5a2e-e085-4e4b-8ce3-6bb5cdc6f218",
@@ -2511,8 +2483,22 @@
       "url": "https://www.dreamworkhq.com/job/b83f5a2e-e085-4e4b-8ce3-6bb5cdc6f218?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
-      "id": "67eada66-1d68-4d42-8574-8a3c726989ed",
-      "title": "Software Engineer III – Generative AI Platform Engineering",
+      "id": "36f7dd8a-8949-4fa2-bb31-7d0d598d532e",
+      "title": "Senior Software Engineer – Kubernetes Platform Engineering, Service Mesh & Developer Platforms (Golang APIs)",
+      "company": "Lateral US",
+      "companyDomain": "lateral.io",
+      "location": "Jersey City",
+      "remoteType": "hybrid",
+      "salaryMin": 122000,
+      "salaryMax": 200000,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-07-11T07:37:25.545Z",
+      "firstIndexedAt": "2026-07-14T07:37:28.446Z",
+      "url": "https://www.dreamworkhq.com/job/36f7dd8a-8949-4fa2-bb31-7d0d598d532e?utm_source=github&utm_campaign=gh-senior-swe"
+    },
+    {
+      "id": "baa563a4-5d4e-4099-9ae9-3e49cf25c538",
+      "title": "Software Engineer III-Generative AI Platform Engineering",
       "company": "Lateral US",
       "companyDomain": "lateral.io",
       "location": "Addison",
@@ -2520,9 +2506,9 @@
       "salaryMin": 170000,
       "salaryMax": 210000,
       "aiRoleKind": "ai_first",
-      "postedAt": "2026-07-13T07:37:25.515Z",
+      "postedAt": "2026-07-13T07:37:25.553Z",
       "firstIndexedAt": "2026-07-14T07:37:28.446Z",
-      "url": "https://www.dreamworkhq.com/job/67eada66-1d68-4d42-8574-8a3c726989ed?utm_source=github&utm_campaign=gh-senior-swe"
+      "url": "https://www.dreamworkhq.com/job/baa563a4-5d4e-4099-9ae9-3e49cf25c538?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
       "id": "e89e8bed-00ae-4e8c-828b-afea59b07178",
@@ -2607,6 +2593,20 @@
       "postedAt": "2026-07-07T07:32:13.840Z",
       "firstIndexedAt": "2026-07-14T07:32:53.859Z",
       "url": "https://www.dreamworkhq.com/job/ec47dc91-0b42-4edd-a53d-105b865c4982?utm_source=github&utm_campaign=gh-senior-swe"
+    },
+    {
+      "id": "02a0ee0a-4bac-4a83-9d62-1954bb8150a2",
+      "title": "Principal Electronics Engineer – Hardware/Software Integration",
+      "company": "Northrop Grumman",
+      "companyDomain": "northropgrumman.com",
+      "location": "United States-California-San Diego",
+      "remoteType": "onsite",
+      "salaryMin": 114000,
+      "salaryMax": 171000,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-07-10T07:32:00.954Z",
+      "firstIndexedAt": "2026-07-14T07:32:42.965Z",
+      "url": "https://www.dreamworkhq.com/job/02a0ee0a-4bac-4a83-9d62-1954bb8150a2?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
       "id": "2e6ff2c8-942b-4e95-b0d6-7f58174debf6",
@@ -2735,20 +2735,6 @@
       "url": "https://www.dreamworkhq.com/job/1ccce133-e5b4-4fad-be2b-60a0ca2f4489?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
-      "id": "86f765ec-5cf4-4357-9e25-a82420c5b12f",
-      "title": "Simulation Software Engineer",
-      "company": "Flyzipline",
-      "companyDomain": "zipline.com",
-      "location": "South San Francisco, California, USA",
-      "remoteType": "onsite",
-      "salaryMin": 185000,
-      "salaryMax": 245000,
-      "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-07-13T22:08:03.000Z",
-      "firstIndexedAt": "2026-07-14T07:28:07.287Z",
-      "url": "https://www.dreamworkhq.com/job/86f765ec-5cf4-4357-9e25-a82420c5b12f?utm_source=github&utm_campaign=gh-senior-swe"
-    },
-    {
       "id": "0cfbf1cf-e8a8-4e0f-aeeb-9c510eb6ce8b",
       "title": "Senior Embedded Firmware Engineer - Long Range Platform",
       "company": "Flyzipline",
@@ -2763,20 +2749,6 @@
       "url": "https://www.dreamworkhq.com/job/0cfbf1cf-e8a8-4e0f-aeeb-9c510eb6ce8b?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
-      "id": "5692220e-8e9d-45b5-9360-9d33b9b990d1",
-      "title": "Senior RF Front-End Design Engineer",
-      "company": "Flyzipline",
-      "companyDomain": "zipline.com",
-      "location": "South San Francisco, California, USA",
-      "remoteType": "onsite",
-      "salaryMin": 185000,
-      "salaryMax": 255000,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-07-14T03:28:09.000Z",
-      "firstIndexedAt": "2026-07-14T07:28:07.287Z",
-      "url": "https://www.dreamworkhq.com/job/5692220e-8e9d-45b5-9360-9d33b9b990d1?utm_source=github&utm_campaign=gh-senior-swe"
-    },
-    {
       "id": "74775f1f-abc2-4aa5-90a1-9453dc762e60",
       "title": "Senior Motion Planning Software Engineer",
       "company": "Flyzipline",
@@ -2789,6 +2761,34 @@
       "postedAt": "2026-07-13T22:08:14.000Z",
       "firstIndexedAt": "2026-07-14T07:28:07.287Z",
       "url": "https://www.dreamworkhq.com/job/74775f1f-abc2-4aa5-90a1-9453dc762e60?utm_source=github&utm_campaign=gh-senior-swe"
+    },
+    {
+      "id": "86f765ec-5cf4-4357-9e25-a82420c5b12f",
+      "title": "Simulation Software Engineer",
+      "company": "Flyzipline",
+      "companyDomain": "zipline.com",
+      "location": "South San Francisco, California, USA",
+      "remoteType": "onsite",
+      "salaryMin": 185000,
+      "salaryMax": 245000,
+      "aiRoleKind": "ai_explicit",
+      "postedAt": "2026-07-13T22:08:03.000Z",
+      "firstIndexedAt": "2026-07-14T07:28:07.287Z",
+      "url": "https://www.dreamworkhq.com/job/86f765ec-5cf4-4357-9e25-a82420c5b12f?utm_source=github&utm_campaign=gh-senior-swe"
+    },
+    {
+      "id": "5692220e-8e9d-45b5-9360-9d33b9b990d1",
+      "title": "Senior RF Front-End Design Engineer",
+      "company": "Flyzipline",
+      "companyDomain": "zipline.com",
+      "location": "South San Francisco, California, USA",
+      "remoteType": "onsite",
+      "salaryMin": 185000,
+      "salaryMax": 255000,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-07-14T03:28:09.000Z",
+      "firstIndexedAt": "2026-07-14T07:28:07.287Z",
+      "url": "https://www.dreamworkhq.com/job/5692220e-8e9d-45b5-9360-9d33b9b990d1?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
       "id": "41b2b853-ec19-413e-b5c5-9abdabf33f6a",
@@ -2861,20 +2861,6 @@
       "url": "https://www.dreamworkhq.com/job/73875356-96ec-4be1-992d-5d843a0c6db4?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
-      "id": "635f575d-de7b-49c3-924a-39ba973ae20f",
-      "title": "Senior Systems Software Engineer - CI/CD Infrastructure for Open-Source Accelerated Computing Software",
-      "company": "Nvidia",
-      "companyDomain": "nvidia.com",
-      "location": "US, CA, Santa Clara",
-      "remoteType": "onsite",
-      "salaryMin": 152000,
-      "salaryMax": 287500,
-      "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-07-13T08:04:40.557Z",
-      "firstIndexedAt": "2026-07-14T07:27:33.377Z",
-      "url": "https://www.dreamworkhq.com/job/635f575d-de7b-49c3-924a-39ba973ae20f?utm_source=github&utm_campaign=gh-senior-swe"
-    },
-    {
       "id": "39f22ffb-ba12-4bb7-8cb0-374cd65ee23f",
       "title": "Senior Deep Learning Software Engineer, Inference",
       "company": "Nvidia",
@@ -2887,6 +2873,20 @@
       "postedAt": "2026-07-13T08:04:41.096Z",
       "firstIndexedAt": "2026-07-14T07:27:33.377Z",
       "url": "https://www.dreamworkhq.com/job/39f22ffb-ba12-4bb7-8cb0-374cd65ee23f?utm_source=github&utm_campaign=gh-senior-swe"
+    },
+    {
+      "id": "652a03ee-dac4-48e7-8578-540a1a297b4f",
+      "title": "Senior Systems Software Engineer - CI/CD Infrastructure for Open-Source Accelerated Computing Software",
+      "company": "Nvidia",
+      "companyDomain": "nvidia.com",
+      "location": "US, CA, Santa Clara",
+      "remoteType": "onsite",
+      "salaryMin": 184000,
+      "salaryMax": 356500,
+      "aiRoleKind": "ai_explicit",
+      "postedAt": "2026-07-14T08:04:40.375Z",
+      "firstIndexedAt": "2026-07-14T07:27:33.377Z",
+      "url": "https://www.dreamworkhq.com/job/652a03ee-dac4-48e7-8578-540a1a297b4f?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
       "id": "d9a0253a-3763-40ed-a54a-e25b4f1c5db9",
@@ -2957,20 +2957,6 @@
       "postedAt": "2026-07-14T01:49:09.000Z",
       "firstIndexedAt": "2026-07-14T07:22:02.102Z",
       "url": "https://www.dreamworkhq.com/job/9e5cace8-8ae3-4612-a922-51cbc1da879d?utm_source=github&utm_campaign=gh-senior-swe"
-    },
-    {
-      "id": "3e4629b9-d7ef-4ab4-9d07-fdcb95bdf629",
-      "title": "Java Backend Engineer-AZ/Remote",
-      "company": "Photon",
-      "companyDomain": "photon.com",
-      "location": "United States",
-      "remoteType": "remote",
-      "salaryMin": 40000,
-      "salaryMax": 140000,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-07-14T02:11:25.000Z",
-      "firstIndexedAt": "2026-07-14T07:22:02.102Z",
-      "url": "https://www.dreamworkhq.com/job/3e4629b9-d7ef-4ab4-9d07-fdcb95bdf629?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
       "id": "4850456f-78a4-4304-8e38-c7b6341db21c",
@@ -3057,20 +3043,6 @@
       "url": "https://www.dreamworkhq.com/job/18b4fd9a-1697-4593-98fa-3ac3a956ad03?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
-      "id": "b6a371d6-1e9a-4543-8edb-e3a146ebaa02",
-      "title": "Software Engineer, Feedback & Learning Systems — Meta Factory",
-      "company": "Adobe",
-      "companyDomain": "adobe.com",
-      "location": "San Jose",
-      "remoteType": "onsite",
-      "salaryMin": 177900,
-      "salaryMax": 257550,
-      "aiRoleKind": "ai_first",
-      "postedAt": "2026-07-13T07:19:32.901Z",
-      "firstIndexedAt": "2026-07-14T07:20:13.339Z",
-      "url": "https://www.dreamworkhq.com/job/b6a371d6-1e9a-4543-8edb-e3a146ebaa02?utm_source=github&utm_campaign=gh-senior-swe"
-    },
-    {
       "id": "ac8fa3a4-373f-4fea-be22-e266da7663d9",
       "title": "Senior Software Engineer, Meta Factory Skills",
       "company": "Adobe",
@@ -3083,6 +3055,20 @@
       "postedAt": "2026-07-13T07:19:32.850Z",
       "firstIndexedAt": "2026-07-14T07:20:13.339Z",
       "url": "https://www.dreamworkhq.com/job/ac8fa3a4-373f-4fea-be22-e266da7663d9?utm_source=github&utm_campaign=gh-senior-swe"
+    },
+    {
+      "id": "b6a371d6-1e9a-4543-8edb-e3a146ebaa02",
+      "title": "Software Engineer, Feedback & Learning Systems — Meta Factory",
+      "company": "Adobe",
+      "companyDomain": "adobe.com",
+      "location": "San Jose",
+      "remoteType": "onsite",
+      "salaryMin": 177900,
+      "salaryMax": 257550,
+      "aiRoleKind": "ai_first",
+      "postedAt": "2026-07-13T07:19:32.901Z",
+      "firstIndexedAt": "2026-07-14T07:20:13.339Z",
+      "url": "https://www.dreamworkhq.com/job/b6a371d6-1e9a-4543-8edb-e3a146ebaa02?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
       "id": "76b24b9a-4802-4c36-8c97-c5767c9a33c0",
@@ -3239,20 +3225,6 @@
       "url": "https://www.dreamworkhq.com/job/79bd5195-b907-4990-aca7-a404703a2b6a?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
-      "id": "7f060371-58f9-4621-b74c-3e8bb6222b09",
-      "title": "Data Engineer Seniors III (Databricks)",
-      "company": "Fisglobal",
-      "companyDomain": "fisglobal.com",
-      "location": "US FL JAX 347",
-      "remoteType": "hybrid",
-      "salaryMin": 150000,
-      "salaryMax": 190000,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-07-13T07:12:58.174Z",
-      "firstIndexedAt": "2026-07-14T07:13:08.531Z",
-      "url": "https://www.dreamworkhq.com/job/7f060371-58f9-4621-b74c-3e8bb6222b09?utm_source=github&utm_campaign=gh-senior-swe"
-    },
-    {
       "id": "636a130a-282e-4a29-9df1-6455306728c1",
       "title": "Software Engineer Specialists-Payments API Platform (Real Time & Event Driven)",
       "company": "Fisglobal",
@@ -3265,6 +3237,20 @@
       "postedAt": "2026-07-13T07:12:58.282Z",
       "firstIndexedAt": "2026-07-14T07:13:08.531Z",
       "url": "https://www.dreamworkhq.com/job/636a130a-282e-4a29-9df1-6455306728c1?utm_source=github&utm_campaign=gh-senior-swe"
+    },
+    {
+      "id": "7f060371-58f9-4621-b74c-3e8bb6222b09",
+      "title": "Data Engineer Seniors III (Databricks)",
+      "company": "Fisglobal",
+      "companyDomain": "fisglobal.com",
+      "location": "US FL JAX 347",
+      "remoteType": "hybrid",
+      "salaryMin": 150000,
+      "salaryMax": 190000,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-07-13T07:12:58.174Z",
+      "firstIndexedAt": "2026-07-14T07:13:08.531Z",
+      "url": "https://www.dreamworkhq.com/job/7f060371-58f9-4621-b74c-3e8bb6222b09?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
       "id": "bf31d3ac-a28b-43d7-a11c-7d64d5aa6772",
@@ -3393,20 +3379,6 @@
       "url": "https://www.dreamworkhq.com/job/0f271354-28fd-4009-b21a-407c4e2e7560?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
-      "id": "4da7c18a-0257-4c49-bbad-631893cbb8c8",
-      "title": "Sr. Firmware Engineer",
-      "company": "Xylem",
-      "companyDomain": "xylem.com",
-      "location": "Morrisville, North Carolina (Office)",
-      "remoteType": "hybrid",
-      "salaryMin": 125000,
-      "salaryMax": 175000,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-07-13T07:06:06.611Z",
-      "firstIndexedAt": "2026-07-14T07:06:12.799Z",
-      "url": "https://www.dreamworkhq.com/job/4da7c18a-0257-4c49-bbad-631893cbb8c8?utm_source=github&utm_campaign=gh-senior-swe"
-    },
-    {
       "id": "d6e9b516-88fe-4cc4-9dfa-ee6d3fc56cdd",
       "title": "Sr Software Developer",
       "company": "Xylem",
@@ -3419,6 +3391,20 @@
       "postedAt": "2026-07-13T07:06:06.373Z",
       "firstIndexedAt": "2026-07-14T07:06:12.799Z",
       "url": "https://www.dreamworkhq.com/job/d6e9b516-88fe-4cc4-9dfa-ee6d3fc56cdd?utm_source=github&utm_campaign=gh-senior-swe"
+    },
+    {
+      "id": "4da7c18a-0257-4c49-bbad-631893cbb8c8",
+      "title": "Sr. Firmware Engineer",
+      "company": "Xylem",
+      "companyDomain": "xylem.com",
+      "location": "Morrisville, North Carolina (Office)",
+      "remoteType": "hybrid",
+      "salaryMin": 125000,
+      "salaryMax": 175000,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-07-13T07:06:06.611Z",
+      "firstIndexedAt": "2026-07-14T07:06:12.799Z",
+      "url": "https://www.dreamworkhq.com/job/4da7c18a-0257-4c49-bbad-631893cbb8c8?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
       "id": "cfbf431a-ce31-47f6-b141-a077b43a1102",
@@ -3687,20 +3673,6 @@
       "url": "https://www.dreamworkhq.com/job/577d33ae-2859-43bb-8aa4-6b13b1cdcf3d?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
-      "id": "2df2647a-bab0-4374-be1f-c42e2a63f38f",
-      "title": "Staff Software Engineer (Applied AI)",
-      "company": "Traba",
-      "companyDomain": "traba.com",
-      "location": "New York City, NY",
-      "remoteType": "onsite",
-      "salaryMin": 240000,
-      "salaryMax": 300000,
-      "aiRoleKind": "ai_first",
-      "postedAt": "2026-07-13T13:31:43.981Z",
-      "firstIndexedAt": "2026-07-14T06:40:32.640Z",
-      "url": "https://www.dreamworkhq.com/job/2df2647a-bab0-4374-be1f-c42e2a63f38f?utm_source=github&utm_campaign=gh-senior-swe"
-    },
-    {
       "id": "93fdb203-a11b-4325-9a40-423829ec90b5",
       "title": "Staff Software Engineer (AI Agents)",
       "company": "Traba",
@@ -3713,6 +3685,20 @@
       "postedAt": "2026-07-13T13:31:05.793Z",
       "firstIndexedAt": "2026-07-14T06:40:32.640Z",
       "url": "https://www.dreamworkhq.com/job/93fdb203-a11b-4325-9a40-423829ec90b5?utm_source=github&utm_campaign=gh-senior-swe"
+    },
+    {
+      "id": "2df2647a-bab0-4374-be1f-c42e2a63f38f",
+      "title": "Staff Software Engineer (Applied AI)",
+      "company": "Traba",
+      "companyDomain": "traba.com",
+      "location": "New York City, NY",
+      "remoteType": "onsite",
+      "salaryMin": 240000,
+      "salaryMax": 300000,
+      "aiRoleKind": "ai_first",
+      "postedAt": "2026-07-13T13:31:43.981Z",
+      "firstIndexedAt": "2026-07-14T06:40:32.640Z",
+      "url": "https://www.dreamworkhq.com/job/2df2647a-bab0-4374-be1f-c42e2a63f38f?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
       "id": "ff720046-8e5d-4a57-9034-e7e34782d896",
@@ -3813,20 +3799,6 @@
       "url": "https://www.dreamworkhq.com/job/6e0c9ebc-3d28-46e2-a7b7-c2f2403ada86?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
-      "id": "a75c8f59-2d9a-46f9-8914-0fe38fd731f1",
-      "title": "LoopNet - Senior Software Engineer",
-      "company": "Costar",
-      "companyDomain": "costargroup.com",
-      "location": "Orange County - CA",
-      "remoteType": "hybrid",
-      "salaryMin": 124000,
-      "salaryMax": 187000,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-07-14T06:32:42.406Z",
-      "firstIndexedAt": "2026-07-14T06:32:49.073Z",
-      "url": "https://www.dreamworkhq.com/job/a75c8f59-2d9a-46f9-8914-0fe38fd731f1?utm_source=github&utm_campaign=gh-senior-swe"
-    },
-    {
       "id": "34f4ccd4-3104-4315-afb3-f3f8a179212b",
       "title": "Senior Software Engineer",
       "company": "Costar",
@@ -3839,6 +3811,20 @@
       "postedAt": "2026-07-14T06:32:42.373Z",
       "firstIndexedAt": "2026-07-14T06:32:49.073Z",
       "url": "https://www.dreamworkhq.com/job/34f4ccd4-3104-4315-afb3-f3f8a179212b?utm_source=github&utm_campaign=gh-senior-swe"
+    },
+    {
+      "id": "a75c8f59-2d9a-46f9-8914-0fe38fd731f1",
+      "title": "LoopNet - Senior Software Engineer",
+      "company": "Costar",
+      "companyDomain": "costargroup.com",
+      "location": "Orange County - CA",
+      "remoteType": "hybrid",
+      "salaryMin": 124000,
+      "salaryMax": 187000,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-07-14T06:32:42.406Z",
+      "firstIndexedAt": "2026-07-14T06:32:49.073Z",
+      "url": "https://www.dreamworkhq.com/job/a75c8f59-2d9a-46f9-8914-0fe38fd731f1?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
       "id": "5fd5adc1-6fa9-495d-b069-fd5f906a31ad",
@@ -3869,20 +3855,6 @@
       "url": "https://www.dreamworkhq.com/job/4567324c-0f84-4c83-b99e-a43485e715ce?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
-      "id": "910cd378-6c3b-4fab-be7b-c86ff87fb752",
-      "title": "Lead Software Engineer - Full stack",
-      "company": "JPMorgan Chase",
-      "companyDomain": "careers.jpmorgan.com",
-      "location": "Jersey City, NJ, United States",
-      "remoteType": "onsite",
-      "salaryMin": 152000,
-      "salaryMax": 215000,
-      "aiRoleKind": "ai_enabled",
-      "postedAt": "2026-07-13T12:37:53.000Z",
-      "firstIndexedAt": "2026-07-14T06:31:35.225Z",
-      "url": "https://www.dreamworkhq.com/job/910cd378-6c3b-4fab-be7b-c86ff87fb752?utm_source=github&utm_campaign=gh-senior-swe"
-    },
-    {
       "id": "0903998c-70a3-4d43-84b5-228c49804b8a",
       "title": "Software Engineer III - Python/AWS/AI",
       "company": "JPMorgan Chase",
@@ -3895,6 +3867,20 @@
       "postedAt": "2026-07-13T17:59:48.000Z",
       "firstIndexedAt": "2026-07-14T06:31:35.225Z",
       "url": "https://www.dreamworkhq.com/job/0903998c-70a3-4d43-84b5-228c49804b8a?utm_source=github&utm_campaign=gh-senior-swe"
+    },
+    {
+      "id": "910cd378-6c3b-4fab-be7b-c86ff87fb752",
+      "title": "Lead Software Engineer - Full stack",
+      "company": "JPMorgan Chase",
+      "companyDomain": "careers.jpmorgan.com",
+      "location": "Jersey City, NJ, United States",
+      "remoteType": "onsite",
+      "salaryMin": 152000,
+      "salaryMax": 215000,
+      "aiRoleKind": "ai_enabled",
+      "postedAt": "2026-07-13T12:37:53.000Z",
+      "firstIndexedAt": "2026-07-14T06:31:35.225Z",
+      "url": "https://www.dreamworkhq.com/job/910cd378-6c3b-4fab-be7b-c86ff87fb752?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
       "id": "f92a4f47-0ed4-4fae-9211-0d1e9f8ad625",
@@ -3925,20 +3911,6 @@
       "url": "https://www.dreamworkhq.com/job/3443cd85-b346-43cc-b658-879624d06a95?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
-      "id": "f17a87dc-f118-4e63-b284-8d71cb503f00",
-      "title": "Lead Software Engineer - Python",
-      "company": "JPMorgan Chase",
-      "companyDomain": "careers.jpmorgan.com",
-      "location": "Houston, TX, United States",
-      "remoteType": "onsite",
-      "salaryMin": 180000,
-      "salaryMax": 230000,
-      "aiRoleKind": "ai_enabled",
-      "postedAt": "2026-07-13T13:45:20.000Z",
-      "firstIndexedAt": "2026-07-14T06:31:32.372Z",
-      "url": "https://www.dreamworkhq.com/job/f17a87dc-f118-4e63-b284-8d71cb503f00?utm_source=github&utm_campaign=gh-senior-swe"
-    },
-    {
       "id": "3ed57e02-f6d7-47a4-b06c-043b740daed7",
       "title": "Lead Software Engineer - Sr. Full Stack Java/Python Engineer",
       "company": "JPMorgan Chase",
@@ -3953,18 +3925,18 @@
       "url": "https://www.dreamworkhq.com/job/3ed57e02-f6d7-47a4-b06c-043b740daed7?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
-      "id": "e50fb9ab-4c00-4d25-a68b-b11cd69430c5",
-      "title": "Lead Site Reliability Engineer",
+      "id": "f17a87dc-f118-4e63-b284-8d71cb503f00",
+      "title": "Lead Software Engineer - Python",
       "company": "JPMorgan Chase",
       "companyDomain": "careers.jpmorgan.com",
-      "location": "OH, United States",
+      "location": "Houston, TX, United States",
       "remoteType": "onsite",
-      "salaryMin": 185000,
-      "salaryMax": 245000,
-      "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-07-13T17:51:15.000Z",
+      "salaryMin": 180000,
+      "salaryMax": 230000,
+      "aiRoleKind": "ai_enabled",
+      "postedAt": "2026-07-13T13:45:20.000Z",
       "firstIndexedAt": "2026-07-14T06:31:32.372Z",
-      "url": "https://www.dreamworkhq.com/job/e50fb9ab-4c00-4d25-a68b-b11cd69430c5?utm_source=github&utm_campaign=gh-senior-swe"
+      "url": "https://www.dreamworkhq.com/job/f17a87dc-f118-4e63-b284-8d71cb503f00?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
       "id": "b79bf4a2-0cfb-452e-b74e-b26ae8b41cd4",
@@ -3979,6 +3951,20 @@
       "postedAt": "2026-07-13T13:54:50.000Z",
       "firstIndexedAt": "2026-07-14T06:31:32.372Z",
       "url": "https://www.dreamworkhq.com/job/b79bf4a2-0cfb-452e-b74e-b26ae8b41cd4?utm_source=github&utm_campaign=gh-senior-swe"
+    },
+    {
+      "id": "e50fb9ab-4c00-4d25-a68b-b11cd69430c5",
+      "title": "Lead Site Reliability Engineer",
+      "company": "JPMorgan Chase",
+      "companyDomain": "careers.jpmorgan.com",
+      "location": "OH, United States",
+      "remoteType": "onsite",
+      "salaryMin": 185000,
+      "salaryMax": 245000,
+      "aiRoleKind": "ai_explicit",
+      "postedAt": "2026-07-13T17:51:15.000Z",
+      "firstIndexedAt": "2026-07-14T06:31:32.372Z",
+      "url": "https://www.dreamworkhq.com/job/e50fb9ab-4c00-4d25-a68b-b11cd69430c5?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
       "id": "cdfdc7e6-e9c7-4a65-8b02-36bff50d3053",
@@ -4093,90 +4079,6 @@
       "url": "https://www.dreamworkhq.com/job/fcfb1993-de54-4a2d-bbd8-2fde55de42fb?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
-      "id": "c8da817b-7d27-4023-9fa5-2424310efa16",
-      "title": "Software Engineer III - AI/ML Deep Learning & GPU ML Serving",
-      "company": "Alumni",
-      "companyDomain": "careers.jpmorgan.com",
-      "location": "Palo Alto, CA, United States",
-      "remoteType": "onsite",
-      "salaryMin": 117040,
-      "salaryMax": 199800,
-      "aiRoleKind": "ai_first",
-      "postedAt": "2026-03-27T21:03:10.000Z",
-      "firstIndexedAt": "2026-07-14T06:27:02.000Z",
-      "url": "https://www.dreamworkhq.com/job/c8da817b-7d27-4023-9fa5-2424310efa16?utm_source=github&utm_campaign=gh-senior-swe"
-    },
-    {
-      "id": "dbe21b00-2ef6-431f-95f9-793fc15851b6",
-      "title": "Lead Software Engineer - Java/Python/AWS",
-      "company": "Alumni",
-      "companyDomain": "careers.jpmorgan.com",
-      "location": "OH, United States",
-      "remoteType": "onsite",
-      "salaryMin": 175000,
-      "salaryMax": 225000,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-04-03T19:45:02.000Z",
-      "firstIndexedAt": "2026-07-14T06:27:02.000Z",
-      "url": "https://www.dreamworkhq.com/job/dbe21b00-2ef6-431f-95f9-793fc15851b6?utm_source=github&utm_campaign=gh-senior-swe"
-    },
-    {
-      "id": "87db3c22-fc85-41e5-be6a-3f948087e2e4",
-      "title": "Software Engineer III - C#/.Net -Capital markets IT systems",
-      "company": "Alumni",
-      "companyDomain": "careers.jpmorgan.com",
-      "location": "New York, NY, United States",
-      "remoteType": "onsite",
-      "salaryMin": 117040,
-      "salaryMax": 199800,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-04-03T17:15:06.000Z",
-      "firstIndexedAt": "2026-07-14T06:27:02.000Z",
-      "url": "https://www.dreamworkhq.com/job/87db3c22-fc85-41e5-be6a-3f948087e2e4?utm_source=github&utm_campaign=gh-senior-swe"
-    },
-    {
-      "id": "df61e433-1c54-478b-b071-0f42d66b36fc",
-      "title": "Lead Software Engineer - Middleware",
-      "company": "Alumni",
-      "companyDomain": "careers.jpmorgan.com",
-      "location": "New York, NY, United States",
-      "remoteType": "onsite",
-      "salaryMin": 133760,
-      "salaryMax": 232200,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-04-21T15:04:58.000Z",
-      "firstIndexedAt": "2026-07-14T06:27:02.000Z",
-      "url": "https://www.dreamworkhq.com/job/df61e433-1c54-478b-b071-0f42d66b36fc?utm_source=github&utm_campaign=gh-senior-swe"
-    },
-    {
-      "id": "c605f3f8-e302-4553-98b7-423a908fa6ef",
-      "title": "Lead Software Engineer - AI/ML Deep Learning & GPU ML Serving",
-      "company": "Alumni",
-      "companyDomain": "careers.jpmorgan.com",
-      "location": "Palo Alto, CA, United States",
-      "remoteType": "onsite",
-      "salaryMin": 133760,
-      "salaryMax": 232200,
-      "aiRoleKind": "ai_first",
-      "postedAt": "2026-03-27T21:03:37.000Z",
-      "firstIndexedAt": "2026-07-14T06:27:02.000Z",
-      "url": "https://www.dreamworkhq.com/job/c605f3f8-e302-4553-98b7-423a908fa6ef?utm_source=github&utm_campaign=gh-senior-swe"
-    },
-    {
-      "id": "d647e09a-f674-41ee-8d6a-c484518b00b1",
-      "title": "Lead Software Engineer - AI/ML, Java / Python",
-      "company": "Alumni",
-      "companyDomain": "careers.jpmorgan.com",
-      "location": "Plano, TX, United States",
-      "remoteType": "onsite",
-      "salaryMin": 175000,
-      "salaryMax": 225000,
-      "aiRoleKind": "ai_first",
-      "postedAt": "2026-03-25T21:12:11.000Z",
-      "firstIndexedAt": "2026-07-14T06:27:02.000Z",
-      "url": "https://www.dreamworkhq.com/job/d647e09a-f674-41ee-8d6a-c484518b00b1?utm_source=github&utm_campaign=gh-senior-swe"
-    },
-    {
       "id": "ee2f9f6d-2eb1-478a-bdb0-e89b105a105d",
       "title": "Lead Software Engineer",
       "company": "Alumni",
@@ -4205,6 +4107,48 @@
       "url": "https://www.dreamworkhq.com/job/3fc371d2-b552-40dd-bdde-25505e936332?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
+      "id": "c8da817b-7d27-4023-9fa5-2424310efa16",
+      "title": "Software Engineer III - AI/ML Deep Learning & GPU ML Serving",
+      "company": "Alumni",
+      "companyDomain": "careers.jpmorgan.com",
+      "location": "Palo Alto, CA, United States",
+      "remoteType": "onsite",
+      "salaryMin": 117040,
+      "salaryMax": 199800,
+      "aiRoleKind": "ai_first",
+      "postedAt": "2026-03-27T21:03:10.000Z",
+      "firstIndexedAt": "2026-07-14T06:27:02.000Z",
+      "url": "https://www.dreamworkhq.com/job/c8da817b-7d27-4023-9fa5-2424310efa16?utm_source=github&utm_campaign=gh-senior-swe"
+    },
+    {
+      "id": "df61e433-1c54-478b-b071-0f42d66b36fc",
+      "title": "Lead Software Engineer - Middleware",
+      "company": "Alumni",
+      "companyDomain": "careers.jpmorgan.com",
+      "location": "New York, NY, United States",
+      "remoteType": "onsite",
+      "salaryMin": 133760,
+      "salaryMax": 232200,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-04-21T15:04:58.000Z",
+      "firstIndexedAt": "2026-07-14T06:27:02.000Z",
+      "url": "https://www.dreamworkhq.com/job/df61e433-1c54-478b-b071-0f42d66b36fc?utm_source=github&utm_campaign=gh-senior-swe"
+    },
+    {
+      "id": "87db3c22-fc85-41e5-be6a-3f948087e2e4",
+      "title": "Software Engineer III - C#/.Net -Capital markets IT systems",
+      "company": "Alumni",
+      "companyDomain": "careers.jpmorgan.com",
+      "location": "New York, NY, United States",
+      "remoteType": "onsite",
+      "salaryMin": 117040,
+      "salaryMax": 199800,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-04-03T17:15:06.000Z",
+      "firstIndexedAt": "2026-07-14T06:27:02.000Z",
+      "url": "https://www.dreamworkhq.com/job/87db3c22-fc85-41e5-be6a-3f948087e2e4?utm_source=github&utm_campaign=gh-senior-swe"
+    },
+    {
       "id": "84a858a5-be57-4081-bf8c-e38e234b53f1",
       "title": "Senior Lead Software Engineer, Cloud Platforms",
       "company": "Alumni",
@@ -4217,6 +4161,62 @@
       "postedAt": "2026-04-13T03:38:23.000Z",
       "firstIndexedAt": "2026-07-14T06:27:02.000Z",
       "url": "https://www.dreamworkhq.com/job/84a858a5-be57-4081-bf8c-e38e234b53f1?utm_source=github&utm_campaign=gh-senior-swe"
+    },
+    {
+      "id": "dbe21b00-2ef6-431f-95f9-793fc15851b6",
+      "title": "Lead Software Engineer - Java/Python/AWS",
+      "company": "Alumni",
+      "companyDomain": "careers.jpmorgan.com",
+      "location": "OH, United States",
+      "remoteType": "onsite",
+      "salaryMin": 175000,
+      "salaryMax": 225000,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-04-03T19:45:02.000Z",
+      "firstIndexedAt": "2026-07-14T06:27:02.000Z",
+      "url": "https://www.dreamworkhq.com/job/dbe21b00-2ef6-431f-95f9-793fc15851b6?utm_source=github&utm_campaign=gh-senior-swe"
+    },
+    {
+      "id": "d647e09a-f674-41ee-8d6a-c484518b00b1",
+      "title": "Lead Software Engineer - AI/ML, Java / Python",
+      "company": "Alumni",
+      "companyDomain": "careers.jpmorgan.com",
+      "location": "Plano, TX, United States",
+      "remoteType": "onsite",
+      "salaryMin": 175000,
+      "salaryMax": 225000,
+      "aiRoleKind": "ai_first",
+      "postedAt": "2026-03-25T21:12:11.000Z",
+      "firstIndexedAt": "2026-07-14T06:27:02.000Z",
+      "url": "https://www.dreamworkhq.com/job/d647e09a-f674-41ee-8d6a-c484518b00b1?utm_source=github&utm_campaign=gh-senior-swe"
+    },
+    {
+      "id": "c605f3f8-e302-4553-98b7-423a908fa6ef",
+      "title": "Lead Software Engineer - AI/ML Deep Learning & GPU ML Serving",
+      "company": "Alumni",
+      "companyDomain": "careers.jpmorgan.com",
+      "location": "Palo Alto, CA, United States",
+      "remoteType": "onsite",
+      "salaryMin": 133760,
+      "salaryMax": 232200,
+      "aiRoleKind": "ai_first",
+      "postedAt": "2026-03-27T21:03:37.000Z",
+      "firstIndexedAt": "2026-07-14T06:27:02.000Z",
+      "url": "https://www.dreamworkhq.com/job/c605f3f8-e302-4553-98b7-423a908fa6ef?utm_source=github&utm_campaign=gh-senior-swe"
+    },
+    {
+      "id": "9cec38db-b337-45d7-8811-8139e0e5efda",
+      "title": "Lead Software Engineer - Platform Architect",
+      "company": "Alumni",
+      "companyDomain": "careers.jpmorgan.com",
+      "location": "Palo Alto, CA, United States",
+      "remoteType": "onsite",
+      "salaryMin": 133760,
+      "salaryMax": 232200,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-04-02T21:22:33.000Z",
+      "firstIndexedAt": "2026-07-14T06:27:02.000Z",
+      "url": "https://www.dreamworkhq.com/job/9cec38db-b337-45d7-8811-8139e0e5efda?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
       "id": "a6ed9129-4cfc-4318-9636-8a800c6baf1b",
@@ -4233,18 +4233,18 @@
       "url": "https://www.dreamworkhq.com/job/a6ed9129-4cfc-4318-9636-8a800c6baf1b?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
-      "id": "9cec38db-b337-45d7-8811-8139e0e5efda",
-      "title": "Lead Software Engineer - Platform Architect",
+      "id": "771ca1bd-3116-48ac-b022-e93da60c49d0",
+      "title": "Lead Software Engineer – Java/Back-End",
       "company": "Alumni",
       "companyDomain": "careers.jpmorgan.com",
-      "location": "Palo Alto, CA, United States",
+      "location": "Houston, TX, United States",
       "remoteType": "onsite",
-      "salaryMin": 133760,
-      "salaryMax": 232200,
+      "salaryMin": 170000,
+      "salaryMax": 220000,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-04-02T21:22:33.000Z",
-      "firstIndexedAt": "2026-07-14T06:27:02.000Z",
-      "url": "https://www.dreamworkhq.com/job/9cec38db-b337-45d7-8811-8139e0e5efda?utm_source=github&utm_campaign=gh-senior-swe"
+      "postedAt": "2026-04-01T14:23:57.000Z",
+      "firstIndexedAt": "2026-07-14T06:26:58.539Z",
+      "url": "https://www.dreamworkhq.com/job/771ca1bd-3116-48ac-b022-e93da60c49d0?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
       "id": "a2d94fc5-cc6f-46f9-9117-caa1f35711b0",
@@ -4275,34 +4275,6 @@
       "url": "https://www.dreamworkhq.com/job/2c1a37b2-ad4e-4f90-a9b3-f03b5d9967b4?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
-      "id": "e49b2fe0-4610-44df-a0a7-4a431d9bd417",
-      "title": "Sr Lead Software Engineer - AI/ML",
-      "company": "Alumni",
-      "companyDomain": "careers.jpmorgan.com",
-      "location": "Plano, TX, United States",
-      "remoteType": "onsite",
-      "salaryMin": 170000,
-      "salaryMax": 220000,
-      "aiRoleKind": "ai_first",
-      "postedAt": "2026-03-21T05:17:07.000Z",
-      "firstIndexedAt": "2026-07-14T06:26:58.539Z",
-      "url": "https://www.dreamworkhq.com/job/e49b2fe0-4610-44df-a0a7-4a431d9bd417?utm_source=github&utm_campaign=gh-senior-swe"
-    },
-    {
-      "id": "771ca1bd-3116-48ac-b022-e93da60c49d0",
-      "title": "Lead Software Engineer – Java/Back-End",
-      "company": "Alumni",
-      "companyDomain": "careers.jpmorgan.com",
-      "location": "Houston, TX, United States",
-      "remoteType": "onsite",
-      "salaryMin": 170000,
-      "salaryMax": 220000,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-04-01T14:23:57.000Z",
-      "firstIndexedAt": "2026-07-14T06:26:58.539Z",
-      "url": "https://www.dreamworkhq.com/job/771ca1bd-3116-48ac-b022-e93da60c49d0?utm_source=github&utm_campaign=gh-senior-swe"
-    },
-    {
       "id": "89d04cf5-26b0-4a4f-9c24-7f8e3c5c9916",
       "title": "Lead Software Engineer",
       "company": "Alumni",
@@ -4317,18 +4289,32 @@
       "url": "https://www.dreamworkhq.com/job/89d04cf5-26b0-4a4f-9c24-7f8e3c5c9916?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
-      "id": "d32236f6-f7de-40b1-b837-549d60994ccd",
-      "title": "Sr Lead Software Engineer - Java & Databricks",
+      "id": "e49b2fe0-4610-44df-a0a7-4a431d9bd417",
+      "title": "Sr Lead Software Engineer - AI/ML",
       "company": "Alumni",
       "companyDomain": "careers.jpmorgan.com",
-      "location": "OH, United States",
+      "location": "Plano, TX, United States",
       "remoteType": "onsite",
-      "salaryMin": 175000,
-      "salaryMax": 225000,
-      "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-03-23T12:39:36.000Z",
+      "salaryMin": 170000,
+      "salaryMax": 220000,
+      "aiRoleKind": "ai_first",
+      "postedAt": "2026-03-21T05:17:07.000Z",
+      "firstIndexedAt": "2026-07-14T06:26:58.539Z",
+      "url": "https://www.dreamworkhq.com/job/e49b2fe0-4610-44df-a0a7-4a431d9bd417?utm_source=github&utm_campaign=gh-senior-swe"
+    },
+    {
+      "id": "58cfa95d-3068-41da-a532-63ca0a54d9f6",
+      "title": "Lead Software Engineer - Java, Kafka and AWS",
+      "company": "Alumni",
+      "companyDomain": "careers.jpmorgan.com",
+      "location": "Chicago, IL, United States",
+      "remoteType": "onsite",
+      "salaryMin": 117040,
+      "salaryMax": 199800,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-04-23T15:20:03.000Z",
       "firstIndexedAt": "2026-07-14T06:26:54.820Z",
-      "url": "https://www.dreamworkhq.com/job/d32236f6-f7de-40b1-b837-549d60994ccd?utm_source=github&utm_campaign=gh-senior-swe"
+      "url": "https://www.dreamworkhq.com/job/58cfa95d-3068-41da-a532-63ca0a54d9f6?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
       "id": "d8eb888e-2ee7-4d29-a088-97ad30bb7a90",
@@ -4345,18 +4331,18 @@
       "url": "https://www.dreamworkhq.com/job/d8eb888e-2ee7-4d29-a088-97ad30bb7a90?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
-      "id": "58cfa95d-3068-41da-a532-63ca0a54d9f6",
-      "title": "Lead Software Engineer - Java, Kafka and AWS",
+      "id": "d32236f6-f7de-40b1-b837-549d60994ccd",
+      "title": "Sr Lead Software Engineer - Java & Databricks",
       "company": "Alumni",
       "companyDomain": "careers.jpmorgan.com",
-      "location": "Chicago, IL, United States",
+      "location": "OH, United States",
       "remoteType": "onsite",
-      "salaryMin": 117040,
-      "salaryMax": 199800,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-04-23T15:20:03.000Z",
+      "salaryMin": 175000,
+      "salaryMax": 225000,
+      "aiRoleKind": "ai_explicit",
+      "postedAt": "2026-03-23T12:39:36.000Z",
       "firstIndexedAt": "2026-07-14T06:26:54.820Z",
-      "url": "https://www.dreamworkhq.com/job/58cfa95d-3068-41da-a532-63ca0a54d9f6?utm_source=github&utm_campaign=gh-senior-swe"
+      "url": "https://www.dreamworkhq.com/job/d32236f6-f7de-40b1-b837-549d60994ccd?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
       "id": "5afa146b-dd62-42b8-8510-2ebef9e4ac6d",
@@ -4527,32 +4513,18 @@
       "url": "https://www.dreamworkhq.com/job/f8eb22df-5b4d-4460-a8cd-8d1f5c2bc10e?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
-      "id": "d45809a8-becd-4f0e-9faa-5d231c394eab",
-      "title": "Data Engineer",
+      "id": "fed4a6f9-42b7-4b99-82c1-c0e1d57c287d",
+      "title": "Software Test Automation Engineer",
       "company": "Booz Allen Hamilton",
       "companyDomain": "boozallen.com",
-      "location": "Honolulu, HI",
+      "location": "Alexandria, VA",
       "remoteType": "hybrid",
-      "salaryMin": 99000,
-      "salaryMax": 225000,
-      "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-07-14T06:29:22.706Z",
-      "firstIndexedAt": "2026-07-14T06:22:03.427Z",
-      "url": "https://www.dreamworkhq.com/job/d45809a8-becd-4f0e-9faa-5d231c394eab?utm_source=github&utm_campaign=gh-senior-swe"
-    },
-    {
-      "id": "d2cb2743-8b18-4c5e-9b06-2c28086098c7",
-      "title": "Frontend C2 Systems Full Stack Developer",
-      "company": "Booz Allen Hamilton",
-      "companyDomain": "boozallen.com",
-      "location": "Hanscom AFB, MA",
-      "remoteType": "hybrid",
-      "salaryMin": 112900,
-      "salaryMax": 257000,
+      "salaryMin": 62000,
+      "salaryMax": 141000,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-07-14T06:29:22.915Z",
+      "postedAt": "2026-07-14T06:29:22.555Z",
       "firstIndexedAt": "2026-07-14T06:22:03.427Z",
-      "url": "https://www.dreamworkhq.com/job/d2cb2743-8b18-4c5e-9b06-2c28086098c7?utm_source=github&utm_campaign=gh-senior-swe"
+      "url": "https://www.dreamworkhq.com/job/fed4a6f9-42b7-4b99-82c1-c0e1d57c287d?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
       "id": "60b677ef-ddf0-4ca2-aab5-cf387a42664e",
@@ -4569,20 +4541,6 @@
       "url": "https://www.dreamworkhq.com/job/60b677ef-ddf0-4ca2-aab5-cf387a42664e?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
-      "id": "fed4a6f9-42b7-4b99-82c1-c0e1d57c287d",
-      "title": "Software Test Automation Engineer",
-      "company": "Booz Allen Hamilton",
-      "companyDomain": "boozallen.com",
-      "location": "Alexandria, VA",
-      "remoteType": "hybrid",
-      "salaryMin": 62000,
-      "salaryMax": 141000,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-07-14T06:29:22.555Z",
-      "firstIndexedAt": "2026-07-14T06:22:03.427Z",
-      "url": "https://www.dreamworkhq.com/job/fed4a6f9-42b7-4b99-82c1-c0e1d57c287d?utm_source=github&utm_campaign=gh-senior-swe"
-    },
-    {
       "id": "8512a4c9-18e7-48a8-b9ea-baa42d815d59",
       "title": "Backend C2 Systems Full Stack Developer",
       "company": "Booz Allen Hamilton",
@@ -4595,6 +4553,20 @@
       "postedAt": "2026-07-14T06:29:22.445Z",
       "firstIndexedAt": "2026-07-14T06:22:03.427Z",
       "url": "https://www.dreamworkhq.com/job/8512a4c9-18e7-48a8-b9ea-baa42d815d59?utm_source=github&utm_campaign=gh-senior-swe"
+    },
+    {
+      "id": "d2cb2743-8b18-4c5e-9b06-2c28086098c7",
+      "title": "Frontend C2 Systems Full Stack Developer",
+      "company": "Booz Allen Hamilton",
+      "companyDomain": "boozallen.com",
+      "location": "Hanscom AFB, MA",
+      "remoteType": "hybrid",
+      "salaryMin": 112900,
+      "salaryMax": 257000,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-07-14T06:29:22.915Z",
+      "firstIndexedAt": "2026-07-14T06:22:03.427Z",
+      "url": "https://www.dreamworkhq.com/job/d2cb2743-8b18-4c5e-9b06-2c28086098c7?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
       "id": "fe41a47e-7a3c-4d29-9075-14936f478dd0",
@@ -4793,20 +4765,6 @@
       "url": "https://www.dreamworkhq.com/job/721dd317-f32f-4291-9dcc-96ef5179a6e3?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
-      "id": "9e32503a-c551-4958-ac65-f1fd3cef2b3b",
-      "title": "Sr. Software Development Engineer, OISL",
-      "company": "Amazon",
-      "companyDomain": "amazon.com",
-      "location": "US, WA, Redmond",
-      "remoteType": "onsite",
-      "salaryMin": 168100,
-      "salaryMax": 227400,
-      "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-07-13T00:00:00.000Z",
-      "firstIndexedAt": "2026-07-14T06:16:55.254Z",
-      "url": "https://www.dreamworkhq.com/job/9e32503a-c551-4958-ac65-f1fd3cef2b3b?utm_source=github&utm_campaign=gh-senior-swe"
-    },
-    {
       "id": "2a503d34-ff2a-43b8-a5b6-de93d7abee15",
       "title": "Sr Software Development Engineer, AWS Aurora Database",
       "company": "Amazon",
@@ -4819,6 +4777,20 @@
       "postedAt": "2026-07-13T00:00:00.000Z",
       "firstIndexedAt": "2026-07-14T06:16:55.254Z",
       "url": "https://www.dreamworkhq.com/job/2a503d34-ff2a-43b8-a5b6-de93d7abee15?utm_source=github&utm_campaign=gh-senior-swe"
+    },
+    {
+      "id": "9e32503a-c551-4958-ac65-f1fd3cef2b3b",
+      "title": "Sr. Software Development Engineer, OISL",
+      "company": "Amazon",
+      "companyDomain": "amazon.com",
+      "location": "US, WA, Redmond",
+      "remoteType": "onsite",
+      "salaryMin": 168100,
+      "salaryMax": 227400,
+      "aiRoleKind": "ai_explicit",
+      "postedAt": "2026-07-13T00:00:00.000Z",
+      "firstIndexedAt": "2026-07-14T06:16:55.254Z",
+      "url": "https://www.dreamworkhq.com/job/9e32503a-c551-4958-ac65-f1fd3cef2b3b?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
       "id": "6ac5b7e8-1572-4cfb-b8ca-3eb13835bcb6",
@@ -4835,20 +4807,6 @@
       "url": "https://www.dreamworkhq.com/job/6ac5b7e8-1572-4cfb-b8ca-3eb13835bcb6?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
-      "id": "b5df815f-6093-4c01-8579-7aff94deb753",
-      "title": "Software Development Engineer, Sponsored Products and Brands",
-      "company": "Amazon",
-      "companyDomain": "amazon.com",
-      "location": "US, NY, New York",
-      "remoteType": "onsite",
-      "salaryMin": 205000,
-      "salaryMax": 245000,
-      "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-07-14T00:00:00.000Z",
-      "firstIndexedAt": "2026-07-14T06:16:38.613Z",
-      "url": "https://www.dreamworkhq.com/job/b5df815f-6093-4c01-8579-7aff94deb753?utm_source=github&utm_campaign=gh-senior-swe"
-    },
-    {
       "id": "70c64e39-530d-4a15-a4b9-d9f4ef0f602f",
       "title": "Software Development Engineer,  Aurora Open Source engines",
       "company": "Amazon",
@@ -4861,6 +4819,20 @@
       "postedAt": "2026-07-14T00:00:00.000Z",
       "firstIndexedAt": "2026-07-14T06:16:38.613Z",
       "url": "https://www.dreamworkhq.com/job/70c64e39-530d-4a15-a4b9-d9f4ef0f602f?utm_source=github&utm_campaign=gh-senior-swe"
+    },
+    {
+      "id": "b5df815f-6093-4c01-8579-7aff94deb753",
+      "title": "Software Development Engineer, Sponsored Products and Brands",
+      "company": "Amazon",
+      "companyDomain": "amazon.com",
+      "location": "US, NY, New York",
+      "remoteType": "onsite",
+      "salaryMin": 205000,
+      "salaryMax": 245000,
+      "aiRoleKind": "ai_explicit",
+      "postedAt": "2026-07-14T00:00:00.000Z",
+      "firstIndexedAt": "2026-07-14T06:16:38.613Z",
+      "url": "https://www.dreamworkhq.com/job/b5df815f-6093-4c01-8579-7aff94deb753?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
       "id": "8f1bf2e8-9b20-49a2-99be-2357fbbfac83",
@@ -4891,20 +4863,6 @@
       "url": "https://www.dreamworkhq.com/job/c54af95d-b804-4798-9c78-8655ff99fafd?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
-      "id": "820132fa-f42d-4fa0-9b53-7f123283c08b",
-      "title": "Senior Software Engineer",
-      "company": "Libertymutual",
-      "companyDomain": "libertymutual.com",
-      "location": "Plano, TX, US",
-      "remoteType": "hybrid",
-      "salaryMin": 106000,
-      "salaryMax": 197000,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2024-07-14T06:13:55.105Z",
-      "firstIndexedAt": "2026-07-14T06:14:00.260Z",
-      "url": "https://www.dreamworkhq.com/job/820132fa-f42d-4fa0-9b53-7f123283c08b?utm_source=github&utm_campaign=gh-senior-swe"
-    },
-    {
       "id": "67fbe0f3-5287-4b4e-b9b8-9089b8255108",
       "title": "Senior Software Engineer",
       "company": "Libertymutual",
@@ -4917,6 +4875,20 @@
       "postedAt": "2024-07-14T06:13:55.146Z",
       "firstIndexedAt": "2026-07-14T06:14:00.260Z",
       "url": "https://www.dreamworkhq.com/job/67fbe0f3-5287-4b4e-b9b8-9089b8255108?utm_source=github&utm_campaign=gh-senior-swe"
+    },
+    {
+      "id": "820132fa-f42d-4fa0-9b53-7f123283c08b",
+      "title": "Senior Software Engineer",
+      "company": "Libertymutual",
+      "companyDomain": "libertymutual.com",
+      "location": "Plano, TX, US",
+      "remoteType": "hybrid",
+      "salaryMin": 106000,
+      "salaryMax": 197000,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2024-07-14T06:13:55.105Z",
+      "firstIndexedAt": "2026-07-14T06:14:00.260Z",
+      "url": "https://www.dreamworkhq.com/job/820132fa-f42d-4fa0-9b53-7f123283c08b?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
       "id": "c8fb477e-bf72-426e-8f15-eb60d50c056c",
@@ -4961,6 +4933,20 @@
       "url": "https://www.dreamworkhq.com/job/8cc92ac0-4a59-4fa3-bcd9-ff0c107aade3?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
+      "id": "d01236f9-c5f5-4b1f-87b1-c982cd86e86e",
+      "title": "Sr. Software Developer",
+      "company": "Leidos",
+      "companyDomain": "leidos.com",
+      "location": "Gaithersburg, MD",
+      "remoteType": "onsite",
+      "salaryMin": 87100,
+      "salaryMax": 157450,
+      "aiRoleKind": "ai_enabled",
+      "postedAt": "2026-07-14T06:09:55.686Z",
+      "firstIndexedAt": "2026-07-14T06:10:29.598Z",
+      "url": "https://www.dreamworkhq.com/job/d01236f9-c5f5-4b1f-87b1-c982cd86e86e?utm_source=github&utm_campaign=gh-senior-swe"
+    },
+    {
       "id": "63756c5c-d0e9-4ddc-b12a-7cc395ccba5f",
       "title": "Senior Software Engineer",
       "company": "Leidos",
@@ -4975,18 +4961,18 @@
       "url": "https://www.dreamworkhq.com/job/63756c5c-d0e9-4ddc-b12a-7cc395ccba5f?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
-      "id": "d01236f9-c5f5-4b1f-87b1-c982cd86e86e",
-      "title": "Sr. Software Developer",
+      "id": "3036a98c-49e5-4699-b7f9-6deb8621dcf9",
+      "title": "Flight Software Development Lead",
       "company": "Leidos",
       "companyDomain": "leidos.com",
-      "location": "Gaithersburg, MD",
+      "location": "Huntsville, AL",
       "remoteType": "onsite",
-      "salaryMin": 87100,
-      "salaryMax": 157450,
-      "aiRoleKind": "ai_enabled",
-      "postedAt": "2026-07-14T06:09:55.686Z",
-      "firstIndexedAt": "2026-07-14T06:10:29.598Z",
-      "url": "https://www.dreamworkhq.com/job/d01236f9-c5f5-4b1f-87b1-c982cd86e86e?utm_source=github&utm_campaign=gh-senior-swe"
+      "salaryMin": 131300,
+      "salaryMax": 237350,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-07-14T06:09:54.886Z",
+      "firstIndexedAt": "2026-07-14T06:10:28.099Z",
+      "url": "https://www.dreamworkhq.com/job/3036a98c-49e5-4699-b7f9-6deb8621dcf9?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
       "id": "f05fd072-7a03-43aa-b8a7-9426aeec8a96",
@@ -5029,20 +5015,6 @@
       "postedAt": "2026-07-14T06:09:55.009Z",
       "firstIndexedAt": "2026-07-14T06:10:28.099Z",
       "url": "https://www.dreamworkhq.com/job/1caf4997-162e-4525-bf3c-c2e884f2ba21?utm_source=github&utm_campaign=gh-senior-swe"
-    },
-    {
-      "id": "3036a98c-49e5-4699-b7f9-6deb8621dcf9",
-      "title": "Flight Software Development Lead",
-      "company": "Leidos",
-      "companyDomain": "leidos.com",
-      "location": "Huntsville, AL",
-      "remoteType": "onsite",
-      "salaryMin": 131300,
-      "salaryMax": 237350,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-07-14T06:09:54.886Z",
-      "firstIndexedAt": "2026-07-14T06:10:28.099Z",
-      "url": "https://www.dreamworkhq.com/job/3036a98c-49e5-4699-b7f9-6deb8621dcf9?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
       "id": "ad154c1c-8e11-49b3-873d-20ceac056682",
@@ -5129,20 +5101,6 @@
       "url": "https://www.dreamworkhq.com/job/665b1ed9-8317-4a82-a9a2-491a0de5cf0c?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
-      "id": "53ffea5c-7c5f-42f8-bf7a-c397f4e19692",
-      "title": "Software Engineer–Developer, Phantom Works Weapons (Experienced or Senior)",
-      "company": "Boeing",
-      "companyDomain": "boeing.com",
-      "location": "USA - Saint Charles, MO",
-      "remoteType": "onsite",
-      "salaryMin": 126650,
-      "salaryMax": 217350,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-07-13T09:12:14.268Z",
-      "firstIndexedAt": "2026-07-14T06:03:23.374Z",
-      "url": "https://www.dreamworkhq.com/job/53ffea5c-7c5f-42f8-bf7a-c397f4e19692?utm_source=github&utm_campaign=gh-senior-swe"
-    },
-    {
       "id": "3b337ec5-1e84-4026-b9ba-6b55e8550b5b",
       "title": "Lead Software Engineer–Vehicle Management Systems (Virtual)",
       "company": "Boeing",
@@ -5155,6 +5113,20 @@
       "postedAt": "2026-07-13T09:12:14.474Z",
       "firstIndexedAt": "2026-07-14T06:03:23.374Z",
       "url": "https://www.dreamworkhq.com/job/3b337ec5-1e84-4026-b9ba-6b55e8550b5b?utm_source=github&utm_campaign=gh-senior-swe"
+    },
+    {
+      "id": "53ffea5c-7c5f-42f8-bf7a-c397f4e19692",
+      "title": "Software Engineer–Developer, Phantom Works Weapons (Experienced or Senior)",
+      "company": "Boeing",
+      "companyDomain": "boeing.com",
+      "location": "USA - Saint Charles, MO",
+      "remoteType": "onsite",
+      "salaryMin": 126650,
+      "salaryMax": 217350,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-07-13T09:12:14.268Z",
+      "firstIndexedAt": "2026-07-14T06:03:23.374Z",
+      "url": "https://www.dreamworkhq.com/job/53ffea5c-7c5f-42f8-bf7a-c397f4e19692?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
       "id": "b8ef358d-def7-40ea-b351-240046633d1c",
@@ -5171,20 +5143,6 @@
       "url": "https://www.dreamworkhq.com/job/b8ef358d-def7-40ea-b351-240046633d1c?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
-      "id": "692e2c99-bc26-49e5-b091-d7451cdb7c26",
-      "title": "BackEnd Software Engineer (Experienced or Senior)",
-      "company": "Boeing",
-      "companyDomain": "boeing.com",
-      "location": "USA - Berkeley, MO",
-      "remoteType": "onsite",
-      "salaryMin": 126650,
-      "salaryMax": 217350,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-07-13T09:12:13.615Z",
-      "firstIndexedAt": "2026-07-14T06:03:19.782Z",
-      "url": "https://www.dreamworkhq.com/job/692e2c99-bc26-49e5-b091-d7451cdb7c26?utm_source=github&utm_campaign=gh-senior-swe"
-    },
-    {
       "id": "93b0cd70-2c87-4374-8d1a-8bd608f0ff39",
       "title": "Embedded Software Engineer (Associate, Experienced, or Senior)",
       "company": "Boeing",
@@ -5197,6 +5155,20 @@
       "postedAt": "2026-07-13T09:12:13.927Z",
       "firstIndexedAt": "2026-07-14T06:03:19.782Z",
       "url": "https://www.dreamworkhq.com/job/93b0cd70-2c87-4374-8d1a-8bd608f0ff39?utm_source=github&utm_campaign=gh-senior-swe"
+    },
+    {
+      "id": "692e2c99-bc26-49e5-b091-d7451cdb7c26",
+      "title": "BackEnd Software Engineer (Experienced or Senior)",
+      "company": "Boeing",
+      "companyDomain": "boeing.com",
+      "location": "USA - Berkeley, MO",
+      "remoteType": "onsite",
+      "salaryMin": 126650,
+      "salaryMax": 217350,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-07-13T09:12:13.615Z",
+      "firstIndexedAt": "2026-07-14T06:03:19.782Z",
+      "url": "https://www.dreamworkhq.com/job/692e2c99-bc26-49e5-b091-d7451cdb7c26?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
       "id": "6e95f4cd-1858-42a3-816b-8cefa59e2132",
@@ -5239,6 +5211,34 @@
       "postedAt": "2026-06-24T00:00:00.000Z",
       "firstIndexedAt": "2026-07-14T06:01:36.117Z",
       "url": "https://www.dreamworkhq.com/job/f5b7c9c9-0c34-4d33-b46f-97d7b7340750?utm_source=github&utm_campaign=gh-senior-swe"
+    },
+    {
+      "id": "c90a9c04-5f57-452c-9cd3-59034ad847af",
+      "title": "Senior Software Engineer",
+      "company": "ZOLLMedical Corp",
+      "companyDomain": "zoll.com",
+      "location": "Chelmsford, MA",
+      "remoteType": "hybrid",
+      "salaryMin": 107000,
+      "salaryMax": 130000,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-06-24T08:06:17.692Z",
+      "firstIndexedAt": "2026-07-14T04:31:11.434Z",
+      "url": "https://www.dreamworkhq.com/job/c90a9c04-5f57-452c-9cd3-59034ad847af?utm_source=github&utm_campaign=gh-senior-swe"
+    },
+    {
+      "id": "31a79b7a-fa96-4fcb-8881-2383d1fbab75",
+      "title": "Senior Cloud Engineer",
+      "company": "ZOLLMedical Corp",
+      "companyDomain": "zoll.com",
+      "location": "Chelmsford, MA",
+      "remoteType": "remote",
+      "salaryMin": 135000,
+      "salaryMax": 185000,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-07-06T08:06:17.162Z",
+      "firstIndexedAt": "2026-07-14T04:31:11.434Z",
+      "url": "https://www.dreamworkhq.com/job/31a79b7a-fa96-4fcb-8881-2383d1fbab75?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
       "id": "20f832b6-0e9a-4d51-bc07-279fb6e5aa09",
@@ -5591,20 +5591,6 @@
       "url": "https://www.dreamworkhq.com/job/3dcf8ebf-09e3-452e-b2fc-625e640e5150?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
-      "id": "057a01e9-0102-44d5-8b39-0c7a8f7c0269",
-      "title": "Staff Software Engineer, AI Integrations",
-      "company": "Commure",
-      "companyDomain": "commure.com",
-      "location": "Mountain View, CA",
-      "remoteType": "onsite",
-      "salaryMin": 170000,
-      "salaryMax": 240000,
-      "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-07-13T02:29:29.852Z",
-      "firstIndexedAt": "2026-07-13T08:17:42.699Z",
-      "url": "https://www.dreamworkhq.com/job/057a01e9-0102-44d5-8b39-0c7a8f7c0269?utm_source=github&utm_campaign=gh-senior-swe"
-    },
-    {
       "id": "e47b61ae-5401-405c-8f7d-b5b1e7435df0",
       "title": "Staff Software Engineer, RCM Billing",
       "company": "Commure",
@@ -5631,6 +5617,20 @@
       "postedAt": "2026-07-13T02:30:27.145Z",
       "firstIndexedAt": "2026-07-13T08:17:42.699Z",
       "url": "https://www.dreamworkhq.com/job/742deb57-6088-4867-8dac-790ffa2f04d2?utm_source=github&utm_campaign=gh-senior-swe"
+    },
+    {
+      "id": "057a01e9-0102-44d5-8b39-0c7a8f7c0269",
+      "title": "Staff Software Engineer, AI Integrations",
+      "company": "Commure",
+      "companyDomain": "commure.com",
+      "location": "Mountain View, CA",
+      "remoteType": "onsite",
+      "salaryMin": 170000,
+      "salaryMax": 240000,
+      "aiRoleKind": "ai_explicit",
+      "postedAt": "2026-07-13T02:29:29.852Z",
+      "firstIndexedAt": "2026-07-13T08:17:42.699Z",
+      "url": "https://www.dreamworkhq.com/job/057a01e9-0102-44d5-8b39-0c7a8f7c0269?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
       "id": "4516b4f0-e211-4590-8449-deba37bed473",
@@ -5801,20 +5801,6 @@
       "url": "https://www.dreamworkhq.com/job/471ec5df-9e59-4baa-a602-1bc1c9da7875?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
-      "id": "81f746f5-c8aa-43dd-b443-15f9e1fed119",
-      "title": "Senior Principal Engineer - Foundation Software (Onsite)",
-      "company": "RTX (Raytheon)",
-      "companyDomain": "rtx.com",
-      "location": "US-IA-CEDAR RAPIDS-131 ~ 5450 C Ave NE ~ BLDG 131",
-      "remoteType": "hybrid",
-      "salaryMin": 132400,
-      "salaryMax": 251600,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-07-08T08:11:13.244Z",
-      "firstIndexedAt": "2026-07-13T07:46:06.662Z",
-      "url": "https://www.dreamworkhq.com/job/81f746f5-c8aa-43dd-b443-15f9e1fed119?utm_source=github&utm_campaign=gh-senior-swe"
-    },
-    {
       "id": "b94419a6-4171-485f-8e33-a4ddf3e968f3",
       "title": "Principal Embedded Software Engineer (Onsite)",
       "company": "RTX (Raytheon)",
@@ -5827,6 +5813,20 @@
       "postedAt": "2026-07-08T08:11:13.466Z",
       "firstIndexedAt": "2026-07-13T07:46:06.662Z",
       "url": "https://www.dreamworkhq.com/job/b94419a6-4171-485f-8e33-a4ddf3e968f3?utm_source=github&utm_campaign=gh-senior-swe"
+    },
+    {
+      "id": "81f746f5-c8aa-43dd-b443-15f9e1fed119",
+      "title": "Senior Principal Engineer - Foundation Software (Onsite)",
+      "company": "RTX (Raytheon)",
+      "companyDomain": "rtx.com",
+      "location": "US-IA-CEDAR RAPIDS-131 ~ 5450 C Ave NE ~ BLDG 131",
+      "remoteType": "hybrid",
+      "salaryMin": 132400,
+      "salaryMax": 251600,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-07-08T08:11:13.244Z",
+      "firstIndexedAt": "2026-07-13T07:46:06.662Z",
+      "url": "https://www.dreamworkhq.com/job/81f746f5-c8aa-43dd-b443-15f9e1fed119?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
       "id": "e08622eb-f47b-45c7-81c9-11b546ca6c89",
@@ -5871,20 +5871,6 @@
       "url": "https://www.dreamworkhq.com/job/8d79f9ac-a22c-4c49-9455-eb0f64350c30?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
-      "id": "eb26f674-d2cb-4cf8-98c9-1057002d19ee",
-      "title": "Sr. Machine Learning Engineer, AI Recommendation & Search",
-      "company": "Comcast",
-      "companyDomain": "comcast.com",
-      "location": "Virtual",
-      "remoteType": "onsite",
-      "salaryMin": 117098,
-      "salaryMax": 274449,
-      "aiRoleKind": "ai_first",
-      "postedAt": "2026-07-10T08:10:25.173Z",
-      "firstIndexedAt": "2026-07-13T07:44:57.952Z",
-      "url": "https://www.dreamworkhq.com/job/eb26f674-d2cb-4cf8-98c9-1057002d19ee?utm_source=github&utm_campaign=gh-senior-swe"
-    },
-    {
       "id": "67fb00ff-b555-4c35-8fcf-5901aee85f9e",
       "title": "Mobile Engineer- iOS and Flutter",
       "company": "Comcast",
@@ -5897,6 +5883,20 @@
       "postedAt": "2026-07-09T08:10:26.044Z",
       "firstIndexedAt": "2026-07-13T07:44:57.952Z",
       "url": "https://www.dreamworkhq.com/job/67fb00ff-b555-4c35-8fcf-5901aee85f9e?utm_source=github&utm_campaign=gh-senior-swe"
+    },
+    {
+      "id": "eb26f674-d2cb-4cf8-98c9-1057002d19ee",
+      "title": "Sr. Machine Learning Engineer, AI Recommendation & Search",
+      "company": "Comcast",
+      "companyDomain": "comcast.com",
+      "location": "Virtual",
+      "remoteType": "onsite",
+      "salaryMin": 117098,
+      "salaryMax": 274449,
+      "aiRoleKind": "ai_first",
+      "postedAt": "2026-07-10T08:10:25.173Z",
+      "firstIndexedAt": "2026-07-13T07:44:57.952Z",
+      "url": "https://www.dreamworkhq.com/job/eb26f674-d2cb-4cf8-98c9-1057002d19ee?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
       "id": "f88026a8-1b71-42c7-9c76-d8ccc94bc39d",
@@ -5997,6 +5997,20 @@
       "url": "https://www.dreamworkhq.com/job/5b25a22c-f2c1-451a-a531-4ee11a1c2ab5?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
+      "id": "326359a6-6cfe-4a07-a80d-1f77a3c471ee",
+      "title": "Software Developer/Web Master Senior",
+      "company": "Gdit",
+      "companyDomain": "gdit.com",
+      "location": "USA MD Fort Meade",
+      "remoteType": "onsite",
+      "salaryMin": 142792,
+      "salaryMax": 175950,
+      "aiRoleKind": "ai_explicit",
+      "postedAt": "2026-07-12T08:06:48.052Z",
+      "firstIndexedAt": "2026-07-13T07:37:57.396Z",
+      "url": "https://www.dreamworkhq.com/job/326359a6-6cfe-4a07-a80d-1f77a3c471ee?utm_source=github&utm_campaign=gh-senior-swe"
+    },
+    {
       "id": "8281ece7-d282-4bd8-81bd-189b355670b3",
       "title": "Senior Full‑Stack Web Developer & Data Modernization Lead",
       "company": "Gdit",
@@ -6011,18 +6025,18 @@
       "url": "https://www.dreamworkhq.com/job/8281ece7-d282-4bd8-81bd-189b355670b3?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
-      "id": "326359a6-6cfe-4a07-a80d-1f77a3c471ee",
-      "title": "Software Developer/Web Master Senior",
+      "id": "b6ac5e74-d461-44bd-89fb-a2548bb1f546",
+      "title": "Senior Software Developer",
       "company": "Gdit",
       "companyDomain": "gdit.com",
-      "location": "USA MD Fort Meade",
-      "remoteType": "onsite",
-      "salaryMin": 142792,
-      "salaryMax": 175950,
-      "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-07-12T08:06:48.052Z",
-      "firstIndexedAt": "2026-07-13T07:37:57.396Z",
-      "url": "https://www.dreamworkhq.com/job/326359a6-6cfe-4a07-a80d-1f77a3c471ee?utm_source=github&utm_campaign=gh-senior-swe"
+      "location": "USA NC Fort Bragg",
+      "remoteType": "hybrid",
+      "salaryMin": 110358,
+      "salaryMax": 149308,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-07-08T08:06:43.196Z",
+      "firstIndexedAt": "2026-07-13T07:37:55.529Z",
+      "url": "https://www.dreamworkhq.com/job/b6ac5e74-d461-44bd-89fb-a2548bb1f546?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
       "id": "fabfbe0f-56e3-431c-ac75-504f17b19b1f",
@@ -6053,20 +6067,6 @@
       "url": "https://www.dreamworkhq.com/job/2fa44137-bade-43b9-9ebe-a2b2b4fdb7df?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
-      "id": "f6392651-0d5f-4e52-b707-ca933151a0a6",
-      "title": "Sr. Infrastructure Engineer- Orchestration and Automation",
-      "company": "Usbank",
-      "companyDomain": "usbank.com",
-      "location": "Hopkins, MN",
-      "remoteType": "hybrid",
-      "salaryMin": 119765,
-      "salaryMax": 140900,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-07-09T07:14:04.603Z",
-      "firstIndexedAt": "2026-07-13T07:26:28.046Z",
-      "url": "https://www.dreamworkhq.com/job/f6392651-0d5f-4e52-b707-ca933151a0a6?utm_source=github&utm_campaign=gh-senior-swe"
-    },
-    {
       "id": "a3825ad8-6282-4369-b4c0-480c8a84b77e",
       "title": "Senior Software Engineer (Full Stack )",
       "company": "Usbank",
@@ -6079,6 +6079,20 @@
       "postedAt": "2026-07-07T07:14:05.333Z",
       "firstIndexedAt": "2026-07-13T07:26:28.046Z",
       "url": "https://www.dreamworkhq.com/job/a3825ad8-6282-4369-b4c0-480c8a84b77e?utm_source=github&utm_campaign=gh-senior-swe"
+    },
+    {
+      "id": "f6392651-0d5f-4e52-b707-ca933151a0a6",
+      "title": "Sr. Infrastructure Engineer- Orchestration and Automation",
+      "company": "Usbank",
+      "companyDomain": "usbank.com",
+      "location": "Hopkins, MN",
+      "remoteType": "hybrid",
+      "salaryMin": 119765,
+      "salaryMax": 140900,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-07-09T07:14:04.603Z",
+      "firstIndexedAt": "2026-07-13T07:26:28.046Z",
+      "url": "https://www.dreamworkhq.com/job/f6392651-0d5f-4e52-b707-ca933151a0a6?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
       "id": "06af51d1-465f-4cda-bea4-4e5da19f36cf",
@@ -6221,20 +6235,6 @@
       "url": "https://www.dreamworkhq.com/job/aabfbd3f-c8ae-4f76-864f-0f67a60e1474?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
-      "id": "611c935d-ba06-4735-bb31-2123cfb7eedc",
-      "title": "Full Stack Analytics DevOps Engineer",
-      "company": "Guidehouse",
-      "companyDomain": "guidehouse.com",
-      "location": "US - VA, McLean",
-      "remoteType": "hybrid",
-      "salaryMin": 98000,
-      "salaryMax": 163000,
-      "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-07-10T07:20:21.562Z",
-      "firstIndexedAt": "2026-07-13T07:08:31.893Z",
-      "url": "https://www.dreamworkhq.com/job/611c935d-ba06-4735-bb31-2123cfb7eedc?utm_source=github&utm_campaign=gh-senior-swe"
-    },
-    {
       "id": "6f160b8a-cf0c-451b-959c-33bebe516e44",
       "title": "Java Full Stack Engineer",
       "company": "Guidehouse",
@@ -6247,6 +6247,20 @@
       "postedAt": "2026-07-10T07:20:21.560Z",
       "firstIndexedAt": "2026-07-13T07:08:31.893Z",
       "url": "https://www.dreamworkhq.com/job/6f160b8a-cf0c-451b-959c-33bebe516e44?utm_source=github&utm_campaign=gh-senior-swe"
+    },
+    {
+      "id": "611c935d-ba06-4735-bb31-2123cfb7eedc",
+      "title": "Full Stack Analytics DevOps Engineer",
+      "company": "Guidehouse",
+      "companyDomain": "guidehouse.com",
+      "location": "US - VA, McLean",
+      "remoteType": "hybrid",
+      "salaryMin": 98000,
+      "salaryMax": 163000,
+      "aiRoleKind": "ai_explicit",
+      "postedAt": "2026-07-10T07:20:21.562Z",
+      "firstIndexedAt": "2026-07-13T07:08:31.893Z",
+      "url": "https://www.dreamworkhq.com/job/611c935d-ba06-4735-bb31-2123cfb7eedc?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
       "id": "602bdf27-b95c-4351-9f4f-f2f1dbf52324",
@@ -6347,20 +6361,6 @@
       "url": "https://www.dreamworkhq.com/job/fae839ac-c5a4-4136-95b5-a32facb97ff0?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
-      "id": "7bf74425-5f28-4f89-81b4-6c66c77bd5a4",
-      "title": "Software Application Architect",
-      "company": "Labcorp",
-      "companyDomain": "labcorp.com",
-      "location": "Durham NC",
-      "remoteType": "hybrid",
-      "salaryMin": 150000,
-      "salaryMax": 205000,
-      "aiRoleKind": "non_ai",
-      "postedAt": null,
-      "firstIndexedAt": "2026-07-13T06:44:07.254Z",
-      "url": "https://www.dreamworkhq.com/job/7bf74425-5f28-4f89-81b4-6c66c77bd5a4?utm_source=github&utm_campaign=gh-senior-swe"
-    },
-    {
       "id": "26b3d73c-60a7-4cdd-87c3-ad7f81fe0559",
       "title": "Sr Lead Systems Engineer / AWS Cloud Engineer",
       "company": "Labcorp",
@@ -6375,6 +6375,20 @@
       "url": "https://www.dreamworkhq.com/job/26b3d73c-60a7-4cdd-87c3-ad7f81fe0559?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
+      "id": "7bf74425-5f28-4f89-81b4-6c66c77bd5a4",
+      "title": "Software Application Architect",
+      "company": "Labcorp",
+      "companyDomain": "labcorp.com",
+      "location": "Durham NC",
+      "remoteType": "hybrid",
+      "salaryMin": 150000,
+      "salaryMax": 205000,
+      "aiRoleKind": "non_ai",
+      "postedAt": null,
+      "firstIndexedAt": "2026-07-13T06:44:07.254Z",
+      "url": "https://www.dreamworkhq.com/job/7bf74425-5f28-4f89-81b4-6c66c77bd5a4?utm_source=github&utm_campaign=gh-senior-swe"
+    },
+    {
       "id": "a6a96a30-8d9f-432e-8b01-bb64defab19a",
       "title": "Software Engineer III - Cloud Security - FCS Registration (Hybrid)",
       "company": "CrowdStrike",
@@ -6387,20 +6401,6 @@
       "postedAt": "2026-07-08T06:45:11.978Z",
       "firstIndexedAt": "2026-07-13T06:42:57.427Z",
       "url": "https://www.dreamworkhq.com/job/a6a96a30-8d9f-432e-8b01-bb64defab19a?utm_source=github&utm_campaign=gh-senior-swe"
-    },
-    {
-      "id": "138e88cb-4c0d-416e-9860-bbf04adb8f52",
-      "title": "Senior AI Infrastructure Engineer, LLM/AI Platforms",
-      "company": "CrowdStrike",
-      "companyDomain": "crowdstrike.com",
-      "location": "USA - Remote",
-      "remoteType": "remote",
-      "salaryMin": 140000,
-      "salaryMax": 215000,
-      "aiRoleKind": "ai_first",
-      "postedAt": "2026-07-08T06:45:12.477Z",
-      "firstIndexedAt": "2026-07-13T06:42:57.427Z",
-      "url": "https://www.dreamworkhq.com/job/138e88cb-4c0d-416e-9860-bbf04adb8f52?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
       "id": "fdea57f6-aaee-43a9-88a3-f42dd2993045",
@@ -6429,6 +6429,20 @@
       "postedAt": "2026-07-09T06:45:11.705Z",
       "firstIndexedAt": "2026-07-13T06:42:57.427Z",
       "url": "https://www.dreamworkhq.com/job/fe4396ca-a90e-499c-a3d5-b44ccc574164?utm_source=github&utm_campaign=gh-senior-swe"
+    },
+    {
+      "id": "138e88cb-4c0d-416e-9860-bbf04adb8f52",
+      "title": "Senior AI Infrastructure Engineer, LLM/AI Platforms",
+      "company": "CrowdStrike",
+      "companyDomain": "crowdstrike.com",
+      "location": "USA - Remote",
+      "remoteType": "remote",
+      "salaryMin": 140000,
+      "salaryMax": 215000,
+      "aiRoleKind": "ai_first",
+      "postedAt": "2026-07-08T06:45:12.477Z",
+      "firstIndexedAt": "2026-07-13T06:42:57.427Z",
+      "url": "https://www.dreamworkhq.com/job/138e88cb-4c0d-416e-9860-bbf04adb8f52?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
       "id": "f6210f4d-4615-43e1-b1de-599a2431e143",
@@ -6515,6 +6529,20 @@
       "url": "https://www.dreamworkhq.com/job/84e09356-d022-426e-ac00-9517efe60f18?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
+      "id": "3ec6c663-1fcd-46a2-9949-879bd62f8785",
+      "title": "Sr. Principal Embedded Software Engineer",
+      "company": "Northrop Grumman",
+      "companyDomain": "northropgrumman.com",
+      "location": "United States-Illinois-Rolling Meadows",
+      "remoteType": "onsite",
+      "salaryMin": 135800,
+      "salaryMax": 203600,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-07-08T07:32:10.918Z",
+      "firstIndexedAt": "2026-07-13T06:26:11.759Z",
+      "url": "https://www.dreamworkhq.com/job/3ec6c663-1fcd-46a2-9949-879bd62f8785?utm_source=github&utm_campaign=gh-senior-swe"
+    },
+    {
       "id": "ff814eb3-d881-4037-8c60-db66051ab20a",
       "title": "Sr Principal Engineer Software - Embedded and Real Time",
       "company": "Northrop Grumman",
@@ -6571,20 +6599,6 @@
       "url": "https://www.dreamworkhq.com/job/128524bd-b918-4cd1-bf88-e8f698a9f4ea?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
-      "id": "65531721-e172-4808-82ac-97ce895f6e9f",
-      "title": "Software Engineer / Principal Software Engineer (AHT)",
-      "company": "Northrop Grumman",
-      "companyDomain": "northropgrumman.com",
-      "location": "United States-Maryland-Hollywood",
-      "remoteType": "onsite",
-      "salaryMin": 91800,
-      "salaryMax": 171000,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-07-09T07:32:08.182Z",
-      "firstIndexedAt": "2026-07-13T06:26:03.443Z",
-      "url": "https://www.dreamworkhq.com/job/65531721-e172-4808-82ac-97ce895f6e9f?utm_source=github&utm_campaign=gh-senior-swe"
-    },
-    {
       "id": "2a56b605-8fd0-42fc-a13e-36ff40c2205f",
       "title": "Principal Embedded Software Engineer",
       "company": "Northrop Grumman",
@@ -6597,6 +6611,20 @@
       "postedAt": "2026-07-09T07:32:08.106Z",
       "firstIndexedAt": "2026-07-13T06:26:03.443Z",
       "url": "https://www.dreamworkhq.com/job/2a56b605-8fd0-42fc-a13e-36ff40c2205f?utm_source=github&utm_campaign=gh-senior-swe"
+    },
+    {
+      "id": "e8769713-a687-497c-849c-3c9a934b6fd1",
+      "title": "AI Software Engineer – Level 3",
+      "company": "Northrop Grumman",
+      "companyDomain": "northropgrumman.com",
+      "location": "United States-Virginia-Dulles",
+      "remoteType": "hybrid",
+      "salaryMin": 125300,
+      "salaryMax": 206800,
+      "aiRoleKind": "ai_first",
+      "postedAt": "2026-07-09T07:32:07.556Z",
+      "firstIndexedAt": "2026-07-13T06:26:03.443Z",
+      "url": "https://www.dreamworkhq.com/job/e8769713-a687-497c-849c-3c9a934b6fd1?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
       "id": "93570747-5b11-4731-8386-f83ae5978eae",
@@ -6613,18 +6641,18 @@
       "url": "https://www.dreamworkhq.com/job/93570747-5b11-4731-8386-f83ae5978eae?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
-      "id": "e8769713-a687-497c-849c-3c9a934b6fd1",
-      "title": "AI Software Engineer – Level 3",
+      "id": "65531721-e172-4808-82ac-97ce895f6e9f",
+      "title": "Software Engineer / Principal Software Engineer (AHT)",
       "company": "Northrop Grumman",
       "companyDomain": "northropgrumman.com",
-      "location": "United States-Virginia-Dulles",
-      "remoteType": "hybrid",
-      "salaryMin": 125300,
-      "salaryMax": 206800,
-      "aiRoleKind": "ai_first",
-      "postedAt": "2026-07-09T07:32:07.556Z",
+      "location": "United States-Maryland-Hollywood",
+      "remoteType": "onsite",
+      "salaryMin": 91800,
+      "salaryMax": 171000,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-07-09T07:32:08.182Z",
       "firstIndexedAt": "2026-07-13T06:26:03.443Z",
-      "url": "https://www.dreamworkhq.com/job/e8769713-a687-497c-849c-3c9a934b6fd1?utm_source=github&utm_campaign=gh-senior-swe"
+      "url": "https://www.dreamworkhq.com/job/65531721-e172-4808-82ac-97ce895f6e9f?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
       "id": "c064a2de-f126-48c6-b960-f686d096aa58",
@@ -6977,18 +7005,18 @@
       "url": "https://www.dreamworkhq.com/job/6bf49a1e-87ab-4b8d-b26a-b73aa849ad56?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
-      "id": "346fc9da-890f-4aab-a771-cce16333f6fc",
-      "title": "Lead Software Engineer",
+      "id": "a75ba1dc-aa7b-43cc-8217-e9bf42b4b915",
+      "title": "Lead Software Engineer - AIML/Python/AWS",
       "company": "Alumni",
       "companyDomain": "careers.jpmorgan.com",
-      "location": "Palo Alto, CA, United States",
+      "location": "Jersey City, NJ, United States",
       "remoteType": "onsite",
       "salaryMin": 133760,
       "salaryMax": 232200,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-03-10T17:59:48.000Z",
+      "aiRoleKind": "ai_explicit",
+      "postedAt": "2026-04-08T22:20:25.000Z",
       "firstIndexedAt": "2026-07-12T06:07:11.659Z",
-      "url": "https://www.dreamworkhq.com/job/346fc9da-890f-4aab-a771-cce16333f6fc?utm_source=github&utm_campaign=gh-senior-swe"
+      "url": "https://www.dreamworkhq.com/job/a75ba1dc-aa7b-43cc-8217-e9bf42b4b915?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
       "id": "8221033a-7d17-4766-8e5c-90d67ba9dac0",
@@ -7005,18 +7033,18 @@
       "url": "https://www.dreamworkhq.com/job/8221033a-7d17-4766-8e5c-90d67ba9dac0?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
-      "id": "a75ba1dc-aa7b-43cc-8217-e9bf42b4b915",
-      "title": "Lead Software Engineer - AIML/Python/AWS",
+      "id": "346fc9da-890f-4aab-a771-cce16333f6fc",
+      "title": "Lead Software Engineer",
       "company": "Alumni",
       "companyDomain": "careers.jpmorgan.com",
-      "location": "Jersey City, NJ, United States",
+      "location": "Palo Alto, CA, United States",
       "remoteType": "onsite",
       "salaryMin": 133760,
       "salaryMax": 232200,
-      "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-04-08T22:20:25.000Z",
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-03-10T17:59:48.000Z",
       "firstIndexedAt": "2026-07-12T06:07:11.659Z",
-      "url": "https://www.dreamworkhq.com/job/a75ba1dc-aa7b-43cc-8217-e9bf42b4b915?utm_source=github&utm_campaign=gh-senior-swe"
+      "url": "https://www.dreamworkhq.com/job/346fc9da-890f-4aab-a771-cce16333f6fc?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
       "id": "da87834d-e43c-4ca3-b893-1ec945a4ba0a",
@@ -7033,18 +7061,18 @@
       "url": "https://www.dreamworkhq.com/job/da87834d-e43c-4ca3-b893-1ec945a4ba0a?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
-      "id": "6064dda7-a26c-4b61-8283-1a408b48d1af",
-      "title": "Lead Software Engineer - Full Stack - Java, React, AWS",
+      "id": "c7c65c84-d3ca-4408-bfc8-952cfeaf3e4e",
+      "title": "AI Platform Engineer, Python - Lead Software Engineer",
       "company": "Alumni",
       "companyDomain": "careers.jpmorgan.com",
-      "location": "Chicago, IL, United States",
+      "location": "Wilmington, DE, United States",
       "remoteType": "onsite",
-      "salaryMin": 117040,
-      "salaryMax": 199800,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-03-18T21:24:28.000Z",
+      "salaryMin": 133760,
+      "salaryMax": 232200,
+      "aiRoleKind": "ai_first",
+      "postedAt": "2026-03-05T20:56:30.000Z",
       "firstIndexedAt": "2026-07-12T06:07:11.123Z",
-      "url": "https://www.dreamworkhq.com/job/6064dda7-a26c-4b61-8283-1a408b48d1af?utm_source=github&utm_campaign=gh-senior-swe"
+      "url": "https://www.dreamworkhq.com/job/c7c65c84-d3ca-4408-bfc8-952cfeaf3e4e?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
       "id": "13cf4ea0-ea54-4f94-9397-5c464b1ea06e",
@@ -7061,18 +7089,18 @@
       "url": "https://www.dreamworkhq.com/job/13cf4ea0-ea54-4f94-9397-5c464b1ea06e?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
-      "id": "c7c65c84-d3ca-4408-bfc8-952cfeaf3e4e",
-      "title": "AI Platform Engineer, Python - Lead Software Engineer",
+      "id": "6064dda7-a26c-4b61-8283-1a408b48d1af",
+      "title": "Lead Software Engineer - Full Stack - Java, React, AWS",
       "company": "Alumni",
       "companyDomain": "careers.jpmorgan.com",
-      "location": "Wilmington, DE, United States",
+      "location": "Chicago, IL, United States",
       "remoteType": "onsite",
-      "salaryMin": 133760,
-      "salaryMax": 232200,
-      "aiRoleKind": "ai_first",
-      "postedAt": "2026-03-05T20:56:30.000Z",
+      "salaryMin": 117040,
+      "salaryMax": 199800,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-03-18T21:24:28.000Z",
       "firstIndexedAt": "2026-07-12T06:07:11.123Z",
-      "url": "https://www.dreamworkhq.com/job/c7c65c84-d3ca-4408-bfc8-952cfeaf3e4e?utm_source=github&utm_campaign=gh-senior-swe"
+      "url": "https://www.dreamworkhq.com/job/6064dda7-a26c-4b61-8283-1a408b48d1af?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
       "id": "11ceb7f5-8603-4308-866a-3b59b2ddc820",
@@ -7271,20 +7299,6 @@
       "url": "https://www.dreamworkhq.com/job/4f0210e5-739a-42e5-aaa2-ea719eb95449?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
-      "id": "127c96e1-c17c-4608-a2d0-fe5614090e3f",
-      "title": "Principal System Engineering - SRE",
-      "company": "AT&T",
-      "companyDomain": "att.com",
-      "location": "USA:GA:Atlanta / 1057 Lenox Park Blvd Ne - Adm:1057 Lenox Park Blvd Ne",
-      "remoteType": "remote",
-      "salaryMin": 155400,
-      "salaryMax": 261100,
-      "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-07-09T07:05:33.582Z",
-      "firstIndexedAt": "2026-07-12T06:05:03.162Z",
-      "url": "https://www.dreamworkhq.com/job/127c96e1-c17c-4608-a2d0-fe5614090e3f?utm_source=github&utm_campaign=gh-senior-swe"
-    },
-    {
       "id": "d4ead2de-2c0e-447a-8c81-fa2bdba0f0b9",
       "title": "Principal Software Deliv Proj/Prog Mgmt",
       "company": "AT&T",
@@ -7297,6 +7311,20 @@
       "postedAt": "2026-07-09T07:05:33.528Z",
       "firstIndexedAt": "2026-07-12T06:05:03.162Z",
       "url": "https://www.dreamworkhq.com/job/d4ead2de-2c0e-447a-8c81-fa2bdba0f0b9?utm_source=github&utm_campaign=gh-senior-swe"
+    },
+    {
+      "id": "127c96e1-c17c-4608-a2d0-fe5614090e3f",
+      "title": "Principal System Engineering - SRE",
+      "company": "AT&T",
+      "companyDomain": "att.com",
+      "location": "USA:GA:Atlanta / 1057 Lenox Park Blvd Ne - Adm:1057 Lenox Park Blvd Ne",
+      "remoteType": "remote",
+      "salaryMin": 155400,
+      "salaryMax": 261100,
+      "aiRoleKind": "ai_explicit",
+      "postedAt": "2026-07-09T07:05:33.582Z",
+      "firstIndexedAt": "2026-07-12T06:05:03.162Z",
+      "url": "https://www.dreamworkhq.com/job/127c96e1-c17c-4608-a2d0-fe5614090e3f?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
       "id": "6a867a09-6ff2-459d-8c11-cee5fee14b16",
@@ -7341,20 +7369,6 @@
       "url": "https://www.dreamworkhq.com/job/a6e899cf-2c75-4c3c-b005-84a713be7566?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
-      "id": "1d203d01-eeda-4148-b31e-9a9cf571f8a1",
-      "title": "Principal or  Sr. Principal Software Engineer - Embedded",
-      "company": "Northrop Grumman",
-      "companyDomain": "northropgrumman.com",
-      "location": "United States-California-San Diego",
-      "remoteType": "onsite",
-      "salaryMin": 114000,
-      "salaryMax": 213400,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-07-09T07:32:04.831Z",
-      "firstIndexedAt": "2026-07-12T06:01:52.611Z",
-      "url": "https://www.dreamworkhq.com/job/1d203d01-eeda-4148-b31e-9a9cf571f8a1?utm_source=github&utm_campaign=gh-senior-swe"
-    },
-    {
       "id": "c171e85f-cf06-4dcd-a32e-9901edec9faa",
       "title": "Principal/Senior Principal Engineer Embedded Software Engineer",
       "company": "Northrop Grumman",
@@ -7367,6 +7381,20 @@
       "postedAt": "2026-07-09T07:32:05.372Z",
       "firstIndexedAt": "2026-07-12T06:01:52.611Z",
       "url": "https://www.dreamworkhq.com/job/c171e85f-cf06-4dcd-a32e-9901edec9faa?utm_source=github&utm_campaign=gh-senior-swe"
+    },
+    {
+      "id": "1d203d01-eeda-4148-b31e-9a9cf571f8a1",
+      "title": "Principal or  Sr. Principal Software Engineer - Embedded",
+      "company": "Northrop Grumman",
+      "companyDomain": "northropgrumman.com",
+      "location": "United States-California-San Diego",
+      "remoteType": "onsite",
+      "salaryMin": 114000,
+      "salaryMax": 213400,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-07-09T07:32:04.831Z",
+      "firstIndexedAt": "2026-07-12T06:01:52.611Z",
+      "url": "https://www.dreamworkhq.com/job/1d203d01-eeda-4148-b31e-9a9cf571f8a1?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
       "id": "2aa96d89-cd20-4c5a-b059-34d741fd9cfe",
@@ -7383,18 +7411,18 @@
       "url": "https://www.dreamworkhq.com/job/2aa96d89-cd20-4c5a-b059-34d741fd9cfe?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
-      "id": "9fb2206d-9e57-4983-89ab-0aae1aca2dae",
-      "title": "Principal Software Engineer - System Infrastructure Engineering",
+      "id": "ed81e865-acea-4d9c-a62f-e32ab25a7bb6",
+      "title": "Sr Principal Software Engineer – BM/SRM (26-325)",
       "company": "Northrop Grumman",
       "companyDomain": "northropgrumman.com",
-      "location": "United States-California-San Diego",
+      "location": "United States-Alabama-Huntsville",
       "remoteType": "onsite",
-      "salaryMin": 103600,
-      "salaryMax": 155400,
+      "salaryMin": 135800,
+      "salaryMax": 203600,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-07-10T07:32:01.089Z",
+      "postedAt": "2026-07-10T07:32:01.492Z",
       "firstIndexedAt": "2026-07-12T06:01:51.732Z",
-      "url": "https://www.dreamworkhq.com/job/9fb2206d-9e57-4983-89ab-0aae1aca2dae?utm_source=github&utm_campaign=gh-senior-swe"
+      "url": "https://www.dreamworkhq.com/job/ed81e865-acea-4d9c-a62f-e32ab25a7bb6?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
       "id": "a90797f4-3059-4422-ae4d-e31d81cd685a",
@@ -7411,6 +7439,20 @@
       "url": "https://www.dreamworkhq.com/job/a90797f4-3059-4422-ae4d-e31d81cd685a?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
+      "id": "1d299e6c-98c9-47ea-8bef-f5508483e9e1",
+      "title": "Principal Embedded Software Engineer-17488",
+      "company": "Northrop Grumman",
+      "companyDomain": "northropgrumman.com",
+      "location": "United States-Utah-Roy",
+      "remoteType": "onsite",
+      "salaryMin": 98400,
+      "salaryMax": 147600,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-07-10T07:32:03.161Z",
+      "firstIndexedAt": "2026-07-12T06:01:51.732Z",
+      "url": "https://www.dreamworkhq.com/job/1d299e6c-98c9-47ea-8bef-f5508483e9e1?utm_source=github&utm_campaign=gh-senior-swe"
+    },
+    {
       "id": "a269aea7-8278-4b31-9c1f-cbdd1fbd4b1f",
       "title": "Principal/Sr Principal Software Engineer*",
       "company": "Northrop Grumman",
@@ -7425,18 +7467,18 @@
       "url": "https://www.dreamworkhq.com/job/a269aea7-8278-4b31-9c1f-cbdd1fbd4b1f?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
-      "id": "ed81e865-acea-4d9c-a62f-e32ab25a7bb6",
-      "title": "Sr Principal Software Engineer – BM/SRM (26-325)",
+      "id": "9fb2206d-9e57-4983-89ab-0aae1aca2dae",
+      "title": "Principal Software Engineer - System Infrastructure Engineering",
       "company": "Northrop Grumman",
       "companyDomain": "northropgrumman.com",
-      "location": "United States-Alabama-Huntsville",
+      "location": "United States-California-San Diego",
       "remoteType": "onsite",
-      "salaryMin": 135800,
-      "salaryMax": 203600,
+      "salaryMin": 103600,
+      "salaryMax": 155400,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-07-10T07:32:01.492Z",
+      "postedAt": "2026-07-10T07:32:01.089Z",
       "firstIndexedAt": "2026-07-12T06:01:51.732Z",
-      "url": "https://www.dreamworkhq.com/job/ed81e865-acea-4d9c-a62f-e32ab25a7bb6?utm_source=github&utm_campaign=gh-senior-swe"
+      "url": "https://www.dreamworkhq.com/job/9fb2206d-9e57-4983-89ab-0aae1aca2dae?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
       "id": "6fd675df-c89a-449d-b503-3d12baa45da0",
@@ -7495,20 +7537,6 @@
       "url": "https://www.dreamworkhq.com/job/b8985350-b29c-4ab1-9ffb-399e7a302c56?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
-      "id": "392a6903-b643-480a-86cc-1ebf01738b61",
-      "title": "Principal Software Engineer, Car Audio Software Project Engineering",
-      "company": "Harman",
-      "companyDomain": "harman.com",
-      "location": "Novi - Michigan, USA - Cabot Drive",
-      "remoteType": "hybrid",
-      "salaryMin": 125250,
-      "salaryMax": 183700,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-06-29T07:49:58.922Z",
-      "firstIndexedAt": "2026-07-12T04:33:05.331Z",
-      "url": "https://www.dreamworkhq.com/job/392a6903-b643-480a-86cc-1ebf01738b61?utm_source=github&utm_campaign=gh-senior-swe"
-    },
-    {
       "id": "82c91b3b-2460-4caf-88a2-be6217cf8ffd",
       "title": "Principle AI Engineer",
       "company": "Harman",
@@ -7523,18 +7551,18 @@
       "url": "https://www.dreamworkhq.com/job/82c91b3b-2460-4caf-88a2-be6217cf8ffd?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
-      "id": "8f7996c1-d3a8-4beb-ad9e-6378c9e6bf90",
-      "title": "Staff Cluster Infrastructure Engineer",
-      "company": "Cssmerge",
-      "companyDomain": "cssmerge.app",
-      "location": "San Francisco, CA",
-      "remoteType": "onsite",
-      "salaryMin": 224000,
-      "salaryMax": 284000,
-      "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-06-26T21:24:35.000Z",
-      "firstIndexedAt": "2026-07-11T09:43:41.057Z",
-      "url": "https://www.dreamworkhq.com/job/8f7996c1-d3a8-4beb-ad9e-6378c9e6bf90?utm_source=github&utm_campaign=gh-senior-swe"
+      "id": "392a6903-b643-480a-86cc-1ebf01738b61",
+      "title": "Principal Software Engineer, Car Audio Software Project Engineering",
+      "company": "Harman",
+      "companyDomain": "harman.com",
+      "location": "Novi - Michigan, USA - Cabot Drive",
+      "remoteType": "hybrid",
+      "salaryMin": 125250,
+      "salaryMax": 183700,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-06-29T07:49:58.922Z",
+      "firstIndexedAt": "2026-07-12T04:33:05.331Z",
+      "url": "https://www.dreamworkhq.com/job/392a6903-b643-480a-86cc-1ebf01738b61?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
       "id": "d67d470b-db2c-4b8c-89ff-a7d19a242ce6",
@@ -7551,6 +7579,20 @@
       "url": "https://www.dreamworkhq.com/job/d67d470b-db2c-4b8c-89ff-a7d19a242ce6?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
+      "id": "8f7996c1-d3a8-4beb-ad9e-6378c9e6bf90",
+      "title": "Staff Cluster Infrastructure Engineer",
+      "company": "Cssmerge",
+      "companyDomain": "cssmerge.app",
+      "location": "San Francisco, CA",
+      "remoteType": "onsite",
+      "salaryMin": 224000,
+      "salaryMax": 284000,
+      "aiRoleKind": "ai_explicit",
+      "postedAt": "2026-06-26T21:24:35.000Z",
+      "firstIndexedAt": "2026-07-11T09:43:41.057Z",
+      "url": "https://www.dreamworkhq.com/job/8f7996c1-d3a8-4beb-ad9e-6378c9e6bf90?utm_source=github&utm_campaign=gh-senior-swe"
+    },
+    {
       "id": "7114263d-3df6-4d3a-867c-633ba9e5f6f9",
       "title": "Staff Backend Engineer",
       "company": "Cssmerge",
@@ -7565,20 +7607,6 @@
       "url": "https://www.dreamworkhq.com/job/7114263d-3df6-4d3a-867c-633ba9e5f6f9?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
-      "id": "90eb4154-e36e-48d7-8721-cd7444d82859",
-      "title": "Staff Machine Learning Engineer",
-      "company": "Cssmerge",
-      "companyDomain": "cssmerge.app",
-      "location": "San Francisco, CA",
-      "remoteType": "onsite",
-      "salaryMin": 273000,
-      "salaryMax": 345000,
-      "aiRoleKind": "ai_first",
-      "postedAt": "2026-06-26T22:00:37.000Z",
-      "firstIndexedAt": "2026-07-11T09:43:41.057Z",
-      "url": "https://www.dreamworkhq.com/job/90eb4154-e36e-48d7-8721-cd7444d82859?utm_source=github&utm_campaign=gh-senior-swe"
-    },
-    {
       "id": "958adcf9-33c2-468c-8945-7315f3c4c738",
       "title": "Staff Machine Learning Infrastructure Engineer",
       "company": "Cssmerge",
@@ -7591,6 +7619,20 @@
       "postedAt": "2026-07-01T20:09:44.000Z",
       "firstIndexedAt": "2026-07-11T09:43:41.057Z",
       "url": "https://www.dreamworkhq.com/job/958adcf9-33c2-468c-8945-7315f3c4c738?utm_source=github&utm_campaign=gh-senior-swe"
+    },
+    {
+      "id": "90eb4154-e36e-48d7-8721-cd7444d82859",
+      "title": "Staff Machine Learning Engineer",
+      "company": "Cssmerge",
+      "companyDomain": "cssmerge.app",
+      "location": "San Francisco, CA",
+      "remoteType": "onsite",
+      "salaryMin": 273000,
+      "salaryMax": 345000,
+      "aiRoleKind": "ai_first",
+      "postedAt": "2026-06-26T22:00:37.000Z",
+      "firstIndexedAt": "2026-07-11T09:43:41.057Z",
+      "url": "https://www.dreamworkhq.com/job/90eb4154-e36e-48d7-8721-cd7444d82859?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
       "id": "f4f9907c-5834-4476-83d2-479248810c50",
@@ -7621,20 +7663,6 @@
       "url": "https://www.dreamworkhq.com/job/0a11b96c-78a6-4468-ba49-76f6231cc0fd?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
-      "id": "9aeb41a5-b275-4831-b407-320aa9885a28",
-      "title": "Staff Software Engineer, Youtube Ads Surfaces and Experiences",
-      "company": "Google",
-      "companyDomain": "google.com",
-      "location": "Mountain View, CA, USA",
-      "remoteType": "onsite",
-      "salaryMin": 207000,
-      "salaryMax": 301000,
-      "aiRoleKind": "ai_explicit",
-      "postedAt": null,
-      "firstIndexedAt": "2026-07-11T06:16:54.767Z",
-      "url": "https://www.dreamworkhq.com/job/9aeb41a5-b275-4831-b407-320aa9885a28?utm_source=github&utm_campaign=gh-senior-swe"
-    },
-    {
       "id": "f9205ae8-0085-4a6c-888f-70ee99d1fb6f",
       "title": "Staff Software Engineer, Ads Modeling, Personalization, and Quality",
       "company": "Google",
@@ -7647,6 +7675,20 @@
       "postedAt": null,
       "firstIndexedAt": "2026-07-11T06:16:54.767Z",
       "url": "https://www.dreamworkhq.com/job/f9205ae8-0085-4a6c-888f-70ee99d1fb6f?utm_source=github&utm_campaign=gh-senior-swe"
+    },
+    {
+      "id": "9aeb41a5-b275-4831-b407-320aa9885a28",
+      "title": "Staff Software Engineer, Youtube Ads Surfaces and Experiences",
+      "company": "Google",
+      "companyDomain": "google.com",
+      "location": "Mountain View, CA, USA",
+      "remoteType": "onsite",
+      "salaryMin": 207000,
+      "salaryMax": 301000,
+      "aiRoleKind": "ai_explicit",
+      "postedAt": null,
+      "firstIndexedAt": "2026-07-11T06:16:54.767Z",
+      "url": "https://www.dreamworkhq.com/job/9aeb41a5-b275-4831-b407-320aa9885a28?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
       "id": "6d10e96a-7a4c-44af-8805-3ec019a3519e",
@@ -8209,20 +8251,6 @@
       "url": "https://www.dreamworkhq.com/job/4dd08530-9161-4191-8fcc-f20d03f64eb3?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
-      "id": "d9eb0cff-6f97-4169-b381-249edeac7e94",
-      "title": "Principal Full Stack Software Engineer (Hybrid)",
-      "company": "Broadridge",
-      "companyDomain": "broadridge.com",
-      "location": "Boston - 99 High Street",
-      "remoteType": "hybrid",
-      "salaryMin": 175000,
-      "salaryMax": 195000,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-07-10T06:58:31.573Z",
-      "firstIndexedAt": "2026-07-11T06:02:50.635Z",
-      "url": "https://www.dreamworkhq.com/job/d9eb0cff-6f97-4169-b381-249edeac7e94?utm_source=github&utm_campaign=gh-senior-swe"
-    },
-    {
       "id": "8cc05786-c29f-4498-8d1c-aa1c2c003052",
       "title": "Lead Software Engineer / Principal Software Engineer – Cloud Platforms (AWS) Newark, NJ (Hybrid)",
       "company": "Broadridge",
@@ -8235,6 +8263,20 @@
       "postedAt": "2026-07-11T06:58:31.575Z",
       "firstIndexedAt": "2026-07-11T06:02:50.635Z",
       "url": "https://www.dreamworkhq.com/job/8cc05786-c29f-4498-8d1c-aa1c2c003052?utm_source=github&utm_campaign=gh-senior-swe"
+    },
+    {
+      "id": "d9eb0cff-6f97-4169-b381-249edeac7e94",
+      "title": "Principal Full Stack Software Engineer (Hybrid)",
+      "company": "Broadridge",
+      "companyDomain": "broadridge.com",
+      "location": "Boston - 99 High Street",
+      "remoteType": "hybrid",
+      "salaryMin": 175000,
+      "salaryMax": 195000,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-07-10T06:58:31.573Z",
+      "firstIndexedAt": "2026-07-11T06:02:50.635Z",
+      "url": "https://www.dreamworkhq.com/job/d9eb0cff-6f97-4169-b381-249edeac7e94?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
       "id": "9ad50c07-9527-4140-8086-59244525528a",
@@ -8475,6 +8517,20 @@
       "url": "https://www.dreamworkhq.com/job/fd6bb359-cb27-4620-931e-56b39b642101?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
+      "id": "c7d38cfa-6b80-46e7-8d63-d32fb29f21a2",
+      "title": "Staff Software Engineer, Observability",
+      "company": "Temporal",
+      "companyDomain": "temporal.io",
+      "location": "United States",
+      "remoteType": "remote",
+      "salaryMin": 212000,
+      "salaryMax": 286200,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-04-29T17:03:48.470Z",
+      "firstIndexedAt": "2026-07-10T10:30:56.323Z",
+      "url": "https://www.dreamworkhq.com/job/c7d38cfa-6b80-46e7-8d63-d32fb29f21a2?utm_source=github&utm_campaign=gh-senior-swe"
+    },
+    {
       "id": "7122eeef-4c07-4a7d-9e3a-2139b791b2e0",
       "title": "Staff Developer Success Engineer - Seattle",
       "company": "Temporal",
@@ -8487,20 +8543,6 @@
       "postedAt": "2025-07-29T16:28:19.721Z",
       "firstIndexedAt": "2026-07-10T10:30:56.323Z",
       "url": "https://www.dreamworkhq.com/job/7122eeef-4c07-4a7d-9e3a-2139b791b2e0?utm_source=github&utm_campaign=gh-senior-swe"
-    },
-    {
-      "id": "1b88fa85-035b-4af7-b26a-62cb6ee865e5",
-      "title": "Staff Software Engineer, Infrastructure Foundations",
-      "company": "Temporal",
-      "companyDomain": "temporal.io",
-      "location": "United States",
-      "remoteType": "remote",
-      "salaryMin": 212000,
-      "salaryMax": 286000,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-04-14T17:00:17.263Z",
-      "firstIndexedAt": "2026-07-10T10:30:56.323Z",
-      "url": "https://www.dreamworkhq.com/job/1b88fa85-035b-4af7-b26a-62cb6ee865e5?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
       "id": "445a4399-14e7-4f8c-a26d-c8d7039a7c43",
@@ -8517,8 +8559,8 @@
       "url": "https://www.dreamworkhq.com/job/445a4399-14e7-4f8c-a26d-c8d7039a7c43?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
-      "id": "3b2eafaa-cc16-46fd-aad5-8f1008cf1a24",
-      "title": "Staff Software Engineer, Open Source Server",
+      "id": "1b88fa85-035b-4af7-b26a-62cb6ee865e5",
+      "title": "Staff Software Engineer, Infrastructure Foundations",
       "company": "Temporal",
       "companyDomain": "temporal.io",
       "location": "United States",
@@ -8526,9 +8568,9 @@
       "salaryMin": 212000,
       "salaryMax": 286000,
       "aiRoleKind": "non_ai",
-      "postedAt": "2023-12-28T21:54:00.422Z",
+      "postedAt": "2026-04-14T17:00:17.263Z",
       "firstIndexedAt": "2026-07-10T10:30:56.323Z",
-      "url": "https://www.dreamworkhq.com/job/3b2eafaa-cc16-46fd-aad5-8f1008cf1a24?utm_source=github&utm_campaign=gh-senior-swe"
+      "url": "https://www.dreamworkhq.com/job/1b88fa85-035b-4af7-b26a-62cb6ee865e5?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
       "id": "7e0f4bfc-7b59-4df7-9923-129df6aa34b9",
@@ -8545,18 +8587,18 @@
       "url": "https://www.dreamworkhq.com/job/7e0f4bfc-7b59-4df7-9923-129df6aa34b9?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
-      "id": "c7d38cfa-6b80-46e7-8d63-d32fb29f21a2",
-      "title": "Staff Software Engineer, Observability",
+      "id": "3b2eafaa-cc16-46fd-aad5-8f1008cf1a24",
+      "title": "Staff Software Engineer, Open Source Server",
       "company": "Temporal",
       "companyDomain": "temporal.io",
       "location": "United States",
       "remoteType": "remote",
       "salaryMin": 212000,
-      "salaryMax": 286200,
+      "salaryMax": 286000,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-04-29T17:03:48.470Z",
+      "postedAt": "2023-12-28T21:54:00.422Z",
       "firstIndexedAt": "2026-07-10T10:30:56.323Z",
-      "url": "https://www.dreamworkhq.com/job/c7d38cfa-6b80-46e7-8d63-d32fb29f21a2?utm_source=github&utm_campaign=gh-senior-swe"
+      "url": "https://www.dreamworkhq.com/job/3b2eafaa-cc16-46fd-aad5-8f1008cf1a24?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
       "id": "741212bf-ba6d-4489-85a8-fc2c83729c89",
@@ -8895,20 +8937,6 @@
       "url": "https://www.dreamworkhq.com/job/c9279d64-7a82-4aa4-8018-877c89b370ef?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
-      "id": "b1ac4fac-4e09-4023-b6cc-2fa5206713ac",
-      "title": "Principal Application Software Engineer",
-      "company": "Oracle",
-      "companyDomain": "oracle.com",
-      "location": "United States",
-      "remoteType": "remote",
-      "salaryMin": 99600,
-      "salaryMax": 209500,
-      "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-07-09T20:58:34.000Z",
-      "firstIndexedAt": "2026-07-10T06:07:07.247Z",
-      "url": "https://www.dreamworkhq.com/job/b1ac4fac-4e09-4023-b6cc-2fa5206713ac?utm_source=github&utm_campaign=gh-senior-swe"
-    },
-    {
       "id": "2bca3945-a6f8-404a-bf09-491965ccd01d",
       "title": "Principal Core Infrastructure Engineer",
       "company": "Oracle",
@@ -8921,6 +8949,20 @@
       "postedAt": "2026-07-08T21:06:04.000Z",
       "firstIndexedAt": "2026-07-10T06:07:07.247Z",
       "url": "https://www.dreamworkhq.com/job/2bca3945-a6f8-404a-bf09-491965ccd01d?utm_source=github&utm_campaign=gh-senior-swe"
+    },
+    {
+      "id": "b1ac4fac-4e09-4023-b6cc-2fa5206713ac",
+      "title": "Principal Application Software Engineer",
+      "company": "Oracle",
+      "companyDomain": "oracle.com",
+      "location": "United States",
+      "remoteType": "remote",
+      "salaryMin": 99600,
+      "salaryMax": 209500,
+      "aiRoleKind": "ai_explicit",
+      "postedAt": "2026-07-09T20:58:34.000Z",
+      "firstIndexedAt": "2026-07-10T06:07:07.247Z",
+      "url": "https://www.dreamworkhq.com/job/b1ac4fac-4e09-4023-b6cc-2fa5206713ac?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
       "id": "3a774350-3324-42a5-aab9-1e8f8d035212",
@@ -9021,20 +9063,6 @@
       "url": "https://www.dreamworkhq.com/job/11028131-fa58-4722-b032-0f7c83c7aef8?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
-      "id": "5111eed4-79ac-4308-9ee7-37b662b13f53",
-      "title": "Staff Software Assurance Engineer",
-      "company": "Aurora Innovation",
-      "companyDomain": "aurora.tech",
-      "location": "Pittsburgh, Pennsylvania",
-      "remoteType": "hybrid",
-      "salaryMin": 171000,
-      "salaryMax": 273000,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-07-09T22:30:47.000Z",
-      "firstIndexedAt": "2026-07-10T06:04:41.705Z",
-      "url": "https://www.dreamworkhq.com/job/5111eed4-79ac-4308-9ee7-37b662b13f53?utm_source=github&utm_campaign=gh-senior-swe"
-    },
-    {
       "id": "36ab4ae3-368c-4906-ab3b-a8a28edb2750",
       "title": "Staff Software Engineer - Core Services",
       "company": "Aurora Innovation",
@@ -9049,18 +9077,18 @@
       "url": "https://www.dreamworkhq.com/job/36ab4ae3-368c-4906-ab3b-a8a28edb2750?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
-      "id": "45268227-bcdc-4a28-82dd-373e048b6b76",
-      "title": "Senior Staff Database Engineer",
-      "company": "ServiceNow",
-      "companyDomain": "servicenow.com",
-      "location": "Santa Clara, California, United States",
-      "remoteType": "remote",
-      "salaryMin": 165500,
-      "salaryMax": 289600,
+      "id": "5111eed4-79ac-4308-9ee7-37b662b13f53",
+      "title": "Staff Software Assurance Engineer",
+      "company": "Aurora Innovation",
+      "companyDomain": "aurora.tech",
+      "location": "Pittsburgh, Pennsylvania",
+      "remoteType": "hybrid",
+      "salaryMin": 171000,
+      "salaryMax": 273000,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-07-09T21:14:08.836Z",
-      "firstIndexedAt": "2026-07-10T06:04:34.949Z",
-      "url": "https://www.dreamworkhq.com/job/45268227-bcdc-4a28-82dd-373e048b6b76?utm_source=github&utm_campaign=gh-senior-swe"
+      "postedAt": "2026-07-09T22:30:47.000Z",
+      "firstIndexedAt": "2026-07-10T06:04:41.705Z",
+      "url": "https://www.dreamworkhq.com/job/5111eed4-79ac-4308-9ee7-37b662b13f53?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
       "id": "e34b247a-4aca-4874-a721-56a1066edaf1",
@@ -9287,20 +9315,6 @@
       "url": "https://www.dreamworkhq.com/job/f36b2cfe-43eb-4215-80db-80084e7a7909?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
-      "id": "7df4c92c-70ce-478b-858a-b76f6afe6122",
-      "title": "Staff Data Engineer, Data Warehouse",
-      "company": "Pivotal Health",
-      "companyDomain": "pivotalhealth.com",
-      "location": "Remote - NY",
-      "remoteType": "remote",
-      "salaryMin": 200000,
-      "salaryMax": 230000,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-06-12T20:55:21.264Z",
-      "firstIndexedAt": "2026-07-10T06:02:57.575Z",
-      "url": "https://www.dreamworkhq.com/job/7df4c92c-70ce-478b-858a-b76f6afe6122?utm_source=github&utm_campaign=gh-senior-swe"
-    },
-    {
       "id": "e1d986fd-33cb-4b03-9e49-9368550b68a1",
       "title": "Staff Software Engineer, Data Warehouse",
       "company": "Pivotal Health",
@@ -9313,6 +9327,20 @@
       "postedAt": "2026-06-12T21:11:11.457Z",
       "firstIndexedAt": "2026-07-10T06:02:57.575Z",
       "url": "https://www.dreamworkhq.com/job/e1d986fd-33cb-4b03-9e49-9368550b68a1?utm_source=github&utm_campaign=gh-senior-swe"
+    },
+    {
+      "id": "7df4c92c-70ce-478b-858a-b76f6afe6122",
+      "title": "Staff Data Engineer, Data Warehouse",
+      "company": "Pivotal Health",
+      "companyDomain": "pivotalhealth.com",
+      "location": "Remote - NY",
+      "remoteType": "remote",
+      "salaryMin": 200000,
+      "salaryMax": 230000,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-06-12T20:55:21.264Z",
+      "firstIndexedAt": "2026-07-10T06:02:57.575Z",
+      "url": "https://www.dreamworkhq.com/job/7df4c92c-70ce-478b-858a-b76f6afe6122?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
       "id": "fc6eae2c-95bb-4925-b441-2d4e025984f0",
@@ -9343,20 +9371,6 @@
       "url": "https://www.dreamworkhq.com/job/482d2c69-97a5-4ba0-9c34-750309a0e588?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
-      "id": "8559a6ac-ecc5-41de-a846-486bcf72d2f3",
-      "title": "Principal Engineer Software (XSOAR)",
-      "company": "Palo Alto Networks",
-      "companyDomain": "paloaltonetworks.com",
-      "location": "Office - USA - CA - Headquarters",
-      "remoteType": "hybrid",
-      "salaryMin": 147000,
-      "salaryMax": 237500,
-      "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-07-08T07:59:18.927Z",
-      "firstIndexedAt": "2026-07-10T06:01:18.257Z",
-      "url": "https://www.dreamworkhq.com/job/8559a6ac-ecc5-41de-a846-486bcf72d2f3?utm_source=github&utm_campaign=gh-senior-swe"
-    },
-    {
       "id": "e63f506a-2a42-471a-869e-be77df142a5a",
       "title": "Principal Software Engineer - ADEM (Autonomous Digital Experience Management)",
       "company": "Palo Alto Networks",
@@ -9369,6 +9383,20 @@
       "postedAt": "2026-07-08T07:59:18.312Z",
       "firstIndexedAt": "2026-07-10T06:01:18.257Z",
       "url": "https://www.dreamworkhq.com/job/e63f506a-2a42-471a-869e-be77df142a5a?utm_source=github&utm_campaign=gh-senior-swe"
+    },
+    {
+      "id": "8559a6ac-ecc5-41de-a846-486bcf72d2f3",
+      "title": "Principal Engineer Software (XSOAR)",
+      "company": "Palo Alto Networks",
+      "companyDomain": "paloaltonetworks.com",
+      "location": "Office - USA - CA - Headquarters",
+      "remoteType": "hybrid",
+      "salaryMin": 147000,
+      "salaryMax": 237500,
+      "aiRoleKind": "ai_explicit",
+      "postedAt": "2026-07-08T07:59:18.927Z",
+      "firstIndexedAt": "2026-07-10T06:01:18.257Z",
+      "url": "https://www.dreamworkhq.com/job/8559a6ac-ecc5-41de-a846-486bcf72d2f3?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
       "id": "58eaffe9-bde3-4bf2-a196-0163805ab79f",
@@ -9469,20 +9497,6 @@
       "url": "https://www.dreamworkhq.com/job/79f3e71b-a9c7-4e97-824a-abd9489f8f07?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
-      "id": "28095816-60e4-49f5-a7d4-6cf41fb4134c",
-      "title": "Staff Software Engineer - Financial Systems",
-      "company": "Pivotal Health",
-      "companyDomain": "pivotalhealth.com",
-      "location": "Santa Monica, CA",
-      "remoteType": "hybrid",
-      "salaryMin": 200000,
-      "salaryMax": 220000,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-04-23T23:24:28.162Z",
-      "firstIndexedAt": "2026-07-10T05:11:46.078Z",
-      "url": "https://www.dreamworkhq.com/job/28095816-60e4-49f5-a7d4-6cf41fb4134c?utm_source=github&utm_campaign=gh-senior-swe"
-    },
-    {
       "id": "5b0b7fd5-1878-4fc4-a24c-44beea6f40a8",
       "title": "Full Stack Product Engineer",
       "company": "Pivotal Health",
@@ -9495,20 +9509,6 @@
       "postedAt": "2026-04-23T23:30:34.398Z",
       "firstIndexedAt": "2026-07-10T05:11:46.078Z",
       "url": "https://www.dreamworkhq.com/job/5b0b7fd5-1878-4fc4-a24c-44beea6f40a8?utm_source=github&utm_campaign=gh-senior-swe"
-    },
-    {
-      "id": "e19f0012-fe6d-4a1b-ba92-dcc1d469a7c8",
-      "title": "Staff Software Engineer - Growth + Onboarding",
-      "company": "Pivotal Health",
-      "companyDomain": "pivotalhealth.com",
-      "location": "Lower Manhattan, NY",
-      "remoteType": "hybrid",
-      "salaryMin": 210000,
-      "salaryMax": 240000,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-06-17T16:46:40.240Z",
-      "firstIndexedAt": "2026-07-10T05:11:46.078Z",
-      "url": "https://www.dreamworkhq.com/job/e19f0012-fe6d-4a1b-ba92-dcc1d469a7c8?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
       "id": "68fce289-814d-43ed-8885-41dd2be8cea9",
@@ -9525,6 +9525,34 @@
       "url": "https://www.dreamworkhq.com/job/68fce289-814d-43ed-8885-41dd2be8cea9?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
+      "id": "e19f0012-fe6d-4a1b-ba92-dcc1d469a7c8",
+      "title": "Staff Software Engineer - Growth + Onboarding",
+      "company": "Pivotal Health",
+      "companyDomain": "pivotalhealth.com",
+      "location": "Lower Manhattan, NY",
+      "remoteType": "hybrid",
+      "salaryMin": 210000,
+      "salaryMax": 240000,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-06-17T16:46:40.240Z",
+      "firstIndexedAt": "2026-07-10T05:11:46.078Z",
+      "url": "https://www.dreamworkhq.com/job/e19f0012-fe6d-4a1b-ba92-dcc1d469a7c8?utm_source=github&utm_campaign=gh-senior-swe"
+    },
+    {
+      "id": "28095816-60e4-49f5-a7d4-6cf41fb4134c",
+      "title": "Staff Software Engineer - Financial Systems",
+      "company": "Pivotal Health",
+      "companyDomain": "pivotalhealth.com",
+      "location": "Santa Monica, CA",
+      "remoteType": "hybrid",
+      "salaryMin": 200000,
+      "salaryMax": 220000,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-04-23T23:24:28.162Z",
+      "firstIndexedAt": "2026-07-10T05:11:46.078Z",
+      "url": "https://www.dreamworkhq.com/job/28095816-60e4-49f5-a7d4-6cf41fb4134c?utm_source=github&utm_campaign=gh-senior-swe"
+    },
+    {
       "id": "59f1eea0-bb05-46d6-81d6-eaffecd69338",
       "title": "Software Architect, SaaS Platform",
       "company": "NetBrain",
@@ -9537,20 +9565,6 @@
       "postedAt": "2026-06-15T15:37:14.000Z",
       "firstIndexedAt": "2026-07-10T05:11:45.929Z",
       "url": "https://www.dreamworkhq.com/job/59f1eea0-bb05-46d6-81d6-eaffecd69338?utm_source=github&utm_campaign=gh-senior-swe"
-    },
-    {
-      "id": "5cc0fe2d-c61a-4fef-aa6e-1c53be1538fe",
-      "title": "Staff Software Engineer, Perception",
-      "company": "Saildrone",
-      "companyDomain": "saildrone.com",
-      "location": "Alameda, California, United States",
-      "remoteType": "hybrid",
-      "salaryMin": 215000,
-      "salaryMax": 270000,
-      "aiRoleKind": "ai_first",
-      "postedAt": "2026-06-01T17:41:07.000Z",
-      "firstIndexedAt": "2026-07-10T05:03:38.603Z",
-      "url": "https://www.dreamworkhq.com/job/5cc0fe2d-c61a-4fef-aa6e-1c53be1538fe?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
       "id": "61cdfbcc-0bb9-4102-ad39-db3d7fad8587",
@@ -9567,20 +9581,6 @@
       "url": "https://www.dreamworkhq.com/job/61cdfbcc-0bb9-4102-ad39-db3d7fad8587?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
-      "id": "92008fb7-5276-47dc-b810-a18b69f2dc06",
-      "title": "Staff Software Engineer, Developer Experience - Bazel",
-      "company": "Saildrone",
-      "companyDomain": "saildrone.com",
-      "location": "Alameda, California, United States",
-      "remoteType": "hybrid",
-      "salaryMin": 176400,
-      "salaryMax": 226800,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-02-09T22:45:56.000Z",
-      "firstIndexedAt": "2026-07-10T05:03:38.603Z",
-      "url": "https://www.dreamworkhq.com/job/92008fb7-5276-47dc-b810-a18b69f2dc06?utm_source=github&utm_campaign=gh-senior-swe"
-    },
-    {
       "id": "a5da6b3d-b26b-4926-bce5-983f4037755e",
       "title": "Staff Embedded Software Engineer",
       "company": "Saildrone",
@@ -9595,18 +9595,32 @@
       "url": "https://www.dreamworkhq.com/job/a5da6b3d-b26b-4926-bce5-983f4037755e?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
-      "id": "353411cc-c3c1-43e4-b6cb-95bfad6598b4",
-      "title": "Principal AI Engineer - AI Creator",
-      "company": "DataCamp",
-      "companyDomain": "datacamp.com",
-      "location": "Belgium; Dubai; Portugal; United Kingdom; United States",
+      "id": "5cc0fe2d-c61a-4fef-aa6e-1c53be1538fe",
+      "title": "Staff Software Engineer, Perception",
+      "company": "Saildrone",
+      "companyDomain": "saildrone.com",
+      "location": "Alameda, California, United States",
       "remoteType": "hybrid",
-      "salaryMin": 205000,
-      "salaryMax": 295000,
+      "salaryMin": 215000,
+      "salaryMax": 270000,
       "aiRoleKind": "ai_first",
-      "postedAt": "2026-03-25T23:20:36.000Z",
-      "firstIndexedAt": "2026-07-10T05:03:37.676Z",
-      "url": "https://www.dreamworkhq.com/job/353411cc-c3c1-43e4-b6cb-95bfad6598b4?utm_source=github&utm_campaign=gh-senior-swe"
+      "postedAt": "2026-06-01T17:41:07.000Z",
+      "firstIndexedAt": "2026-07-10T05:03:38.603Z",
+      "url": "https://www.dreamworkhq.com/job/5cc0fe2d-c61a-4fef-aa6e-1c53be1538fe?utm_source=github&utm_campaign=gh-senior-swe"
+    },
+    {
+      "id": "92008fb7-5276-47dc-b810-a18b69f2dc06",
+      "title": "Staff Software Engineer, Developer Experience - Bazel",
+      "company": "Saildrone",
+      "companyDomain": "saildrone.com",
+      "location": "Alameda, California, United States",
+      "remoteType": "hybrid",
+      "salaryMin": 176400,
+      "salaryMax": 226800,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-02-09T22:45:56.000Z",
+      "firstIndexedAt": "2026-07-10T05:03:38.603Z",
+      "url": "https://www.dreamworkhq.com/job/92008fb7-5276-47dc-b810-a18b69f2dc06?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
       "id": "356e483a-c452-4ec2-a4af-68d185b88516",
@@ -9623,6 +9637,20 @@
       "url": "https://www.dreamworkhq.com/job/356e483a-c452-4ec2-a4af-68d185b88516?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
+      "id": "e0d51f6f-d5ae-48de-93d1-cb48f434f979",
+      "title": "Principal AI Engineer - AI Creator",
+      "company": "DataCamp",
+      "companyDomain": "datacamp.com",
+      "location": "Belgium; Dubai; Portugal; United Kingdom; United States",
+      "remoteType": "hybrid",
+      "salaryMin": 205000,
+      "salaryMax": 285000,
+      "aiRoleKind": "ai_first",
+      "postedAt": "2026-03-25T23:20:35.000Z",
+      "firstIndexedAt": "2026-07-10T05:03:37.676Z",
+      "url": "https://www.dreamworkhq.com/job/e0d51f6f-d5ae-48de-93d1-cb48f434f979?utm_source=github&utm_campaign=gh-senior-swe"
+    },
+    {
       "id": "17844b19-a40e-4c5a-9a9b-84d5c50d7979",
       "title": "Lead Software Engineer",
       "company": "Cox Enterprises",
@@ -9637,20 +9665,6 @@
       "url": "https://www.dreamworkhq.com/job/17844b19-a40e-4c5a-9a9b-84d5c50d7979?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
-      "id": "e1c14bd9-3748-484b-97ac-252aad3febab",
-      "title": "Staff HPC Systems Software Engineer",
-      "company": "Nscale",
-      "companyDomain": "nscale.com",
-      "location": "US",
-      "remoteType": "remote",
-      "salaryMin": 225000,
-      "salaryMax": 275000,
-      "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-06-16T23:21:50.000Z",
-      "firstIndexedAt": "2026-07-10T04:18:04.458Z",
-      "url": "https://www.dreamworkhq.com/job/e1c14bd9-3748-484b-97ac-252aad3febab?utm_source=github&utm_campaign=gh-senior-swe"
-    },
-    {
       "id": "3ee9b608-9f2d-40f6-850f-70a6bb6fd320",
       "title": "Staff Observability Platform Engineer",
       "company": "Nscale",
@@ -9663,6 +9677,20 @@
       "postedAt": "2026-06-09T13:52:45.000Z",
       "firstIndexedAt": "2026-07-10T04:18:04.458Z",
       "url": "https://www.dreamworkhq.com/job/3ee9b608-9f2d-40f6-850f-70a6bb6fd320?utm_source=github&utm_campaign=gh-senior-swe"
+    },
+    {
+      "id": "e1c14bd9-3748-484b-97ac-252aad3febab",
+      "title": "Staff HPC Systems Software Engineer",
+      "company": "Nscale",
+      "companyDomain": "nscale.com",
+      "location": "US",
+      "remoteType": "remote",
+      "salaryMin": 225000,
+      "salaryMax": 275000,
+      "aiRoleKind": "ai_explicit",
+      "postedAt": "2026-06-16T23:21:50.000Z",
+      "firstIndexedAt": "2026-07-10T04:18:04.458Z",
+      "url": "https://www.dreamworkhq.com/job/e1c14bd9-3748-484b-97ac-252aad3febab?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
       "id": "e320a3bd-65e0-4aaa-b3a7-3284ee41b400",
@@ -9721,7 +9749,7 @@
       "url": "https://www.dreamworkhq.com/job/ed466388-247e-4a7e-9cf9-fba59c989d44?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
-      "id": "e564cd0a-8070-4b55-907c-1f45cbe68a16",
+      "id": "5c0873ea-0478-4845-8d02-af29759724be",
       "title": "Principals, Software Development",
       "company": "Ingrammicro",
       "companyDomain": "ingrammicro.com",
@@ -9730,9 +9758,9 @@
       "salaryMin": 184558,
       "salaryMax": 226800,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-06-15T07:10:44.090Z",
+      "postedAt": "2026-06-18T07:10:43.778Z",
       "firstIndexedAt": "2026-07-10T00:36:04.091Z",
-      "url": "https://www.dreamworkhq.com/job/e564cd0a-8070-4b55-907c-1f45cbe68a16?utm_source=github&utm_campaign=gh-senior-swe"
+      "url": "https://www.dreamworkhq.com/job/5c0873ea-0478-4845-8d02-af29759724be?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
       "id": "0285a33d-7d81-4d45-a698-7d9f157e9af9",
@@ -9917,20 +9945,6 @@
       "url": "https://www.dreamworkhq.com/job/90e25bf6-03e0-4009-89b4-9497782dcc99?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
-      "id": "f5d92181-e8b6-4436-8be3-4077d5d530cf",
-      "title": "Lead Software Engineer",
-      "company": "Cadence Design Systems",
-      "companyDomain": "cadence.com",
-      "location": "SAN JOSE",
-      "remoteType": "onsite",
-      "salaryMin": 114800,
-      "salaryMax": 213200,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-07-08T08:56:18.724Z",
-      "firstIndexedAt": "2026-07-09T06:13:59.371Z",
-      "url": "https://www.dreamworkhq.com/job/f5d92181-e8b6-4436-8be3-4077d5d530cf?utm_source=github&utm_campaign=gh-senior-swe"
-    },
-    {
       "id": "8ca697fe-3396-4649-93b3-714d70780f5f",
       "title": "Lead Software Engineer - Partitioning and Optimization Algorithms",
       "company": "Cadence Design Systems",
@@ -9943,6 +9957,20 @@
       "postedAt": "2026-07-07T08:56:18.867Z",
       "firstIndexedAt": "2026-07-09T06:13:59.371Z",
       "url": "https://www.dreamworkhq.com/job/8ca697fe-3396-4649-93b3-714d70780f5f?utm_source=github&utm_campaign=gh-senior-swe"
+    },
+    {
+      "id": "f5d92181-e8b6-4436-8be3-4077d5d530cf",
+      "title": "Lead Software Engineer",
+      "company": "Cadence Design Systems",
+      "companyDomain": "cadence.com",
+      "location": "SAN JOSE",
+      "remoteType": "onsite",
+      "salaryMin": 114800,
+      "salaryMax": 213200,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-07-08T08:56:18.724Z",
+      "firstIndexedAt": "2026-07-09T06:13:59.371Z",
+      "url": "https://www.dreamworkhq.com/job/f5d92181-e8b6-4436-8be3-4077d5d530cf?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
       "id": "f0e9568f-8713-4d9d-bb16-4920fa741755",
@@ -10029,20 +10057,6 @@
       "url": "https://www.dreamworkhq.com/job/350f7c92-4e29-44ae-ae9b-ba85cdc7777d?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
-      "id": "19fe57e4-f52d-4dba-9ba0-3d0bb60c0656",
-      "title": "Staff Software Engineer-Android",
-      "company": "Scoutmotors",
-      "companyDomain": "scoutmotors.com",
-      "location": "Fremont, California, United States",
-      "remoteType": "remote",
-      "salaryMin": 165000,
-      "salaryMax": 200000,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-07-08T14:09:48.000Z",
-      "firstIndexedAt": "2026-07-09T06:10:35.603Z",
-      "url": "https://www.dreamworkhq.com/job/19fe57e4-f52d-4dba-9ba0-3d0bb60c0656?utm_source=github&utm_campaign=gh-senior-swe"
-    },
-    {
       "id": "d0db8041-e187-4d49-a1b6-9f90374197a9",
       "title": "Staff Software Engineer-iOS",
       "company": "Scoutmotors",
@@ -10069,6 +10083,34 @@
       "postedAt": "2026-07-08T17:33:11.000Z",
       "firstIndexedAt": "2026-07-09T06:10:35.603Z",
       "url": "https://www.dreamworkhq.com/job/ff25628a-e035-4aee-ab47-9add1567b337?utm_source=github&utm_campaign=gh-senior-swe"
+    },
+    {
+      "id": "19fe57e4-f52d-4dba-9ba0-3d0bb60c0656",
+      "title": "Staff Software Engineer-Android",
+      "company": "Scoutmotors",
+      "companyDomain": "scoutmotors.com",
+      "location": "Fremont, California, United States",
+      "remoteType": "remote",
+      "salaryMin": 165000,
+      "salaryMax": 200000,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-07-08T14:09:48.000Z",
+      "firstIndexedAt": "2026-07-09T06:10:35.603Z",
+      "url": "https://www.dreamworkhq.com/job/19fe57e4-f52d-4dba-9ba0-3d0bb60c0656?utm_source=github&utm_campaign=gh-senior-swe"
+    },
+    {
+      "id": "f9edd1d0-2c46-43f8-9e15-a14d1e17dbd5",
+      "title": "Senior Staff Software Engineer-Backend",
+      "company": "Scoutmotors",
+      "companyDomain": "scoutmotors.com",
+      "location": "Fremont, California, United States",
+      "remoteType": "hybrid",
+      "salaryMin": 180000,
+      "salaryMax": 220000,
+      "aiRoleKind": "ai_enabled",
+      "postedAt": "2026-07-08T20:44:12.000Z",
+      "firstIndexedAt": "2026-07-09T06:10:34.579Z",
+      "url": "https://www.dreamworkhq.com/job/f9edd1d0-2c46-43f8-9e15-a14d1e17dbd5?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
       "id": "ee5a4b30-11c2-4e71-a488-ad34ae087457",
@@ -10111,20 +10153,6 @@
       "postedAt": "2026-07-08T22:42:11.000Z",
       "firstIndexedAt": "2026-07-09T06:10:34.579Z",
       "url": "https://www.dreamworkhq.com/job/908e9051-bfea-4a37-9b02-149b9b5242ad?utm_source=github&utm_campaign=gh-senior-swe"
-    },
-    {
-      "id": "f9edd1d0-2c46-43f8-9e15-a14d1e17dbd5",
-      "title": "Senior Staff Software Engineer-Backend",
-      "company": "Scoutmotors",
-      "companyDomain": "scoutmotors.com",
-      "location": "Fremont, California, United States",
-      "remoteType": "hybrid",
-      "salaryMin": 180000,
-      "salaryMax": 220000,
-      "aiRoleKind": "ai_enabled",
-      "postedAt": "2026-07-08T20:44:12.000Z",
-      "firstIndexedAt": "2026-07-09T06:10:34.579Z",
-      "url": "https://www.dreamworkhq.com/job/f9edd1d0-2c46-43f8-9e15-a14d1e17dbd5?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
       "id": "1f25b2c3-92e0-40b9-b149-05ed2f26f060",
@@ -10323,20 +10351,6 @@
       "url": "https://www.dreamworkhq.com/job/80f0194b-c71b-480c-a1e3-81558fedfcc9?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
-      "id": "4043f4b6-a3df-47ae-9beb-1c71d5fe1a32",
-      "title": "Lead Software Engineer (Full Stack – Java/Spring Boot/React, AI/ML, AWS)",
-      "company": "JPMorgan Chase",
-      "companyDomain": "careers.jpmorgan.com",
-      "location": "Houston, TX, United States",
-      "remoteType": "onsite",
-      "salaryMin": 185000,
-      "salaryMax": 245000,
-      "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-07-08T13:58:13.000Z",
-      "firstIndexedAt": "2026-07-09T06:06:11.460Z",
-      "url": "https://www.dreamworkhq.com/job/4043f4b6-a3df-47ae-9beb-1c71d5fe1a32?utm_source=github&utm_campaign=gh-senior-swe"
-    },
-    {
       "id": "65258c41-90c8-4364-91eb-9eb5e41bf60b",
       "title": "Lead Software Engineer - Databricks/Snowflake/AWS",
       "company": "JPMorgan Chase",
@@ -10349,6 +10363,20 @@
       "postedAt": "2026-07-08T21:10:26.000Z",
       "firstIndexedAt": "2026-07-09T06:06:11.460Z",
       "url": "https://www.dreamworkhq.com/job/65258c41-90c8-4364-91eb-9eb5e41bf60b?utm_source=github&utm_campaign=gh-senior-swe"
+    },
+    {
+      "id": "4043f4b6-a3df-47ae-9beb-1c71d5fe1a32",
+      "title": "Lead Software Engineer (Full Stack – Java/Spring Boot/React, AI/ML, AWS)",
+      "company": "JPMorgan Chase",
+      "companyDomain": "careers.jpmorgan.com",
+      "location": "Houston, TX, United States",
+      "remoteType": "onsite",
+      "salaryMin": 185000,
+      "salaryMax": 245000,
+      "aiRoleKind": "ai_explicit",
+      "postedAt": "2026-07-08T13:58:13.000Z",
+      "firstIndexedAt": "2026-07-09T06:06:11.460Z",
+      "url": "https://www.dreamworkhq.com/job/4043f4b6-a3df-47ae-9beb-1c71d5fe1a32?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
       "id": "a23ac510-ae12-49d5-a850-b5c6e3db9ea9",
@@ -10407,18 +10435,18 @@
       "url": "https://www.dreamworkhq.com/job/a46c1f21-21a5-4faf-85e7-64e274d461b5?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
-      "id": "2cb515b2-2f6f-4b61-9cb7-bd10edb4a73c",
-      "title": "Staff Agentic Search Infrastructure Engineer - Moveworks",
+      "id": "df463182-9d32-4587-a17a-ab0a85f9b4eb",
+      "title": "Staff Software Engineer, Developer Experience — Moveworks",
       "company": "ServiceNow",
       "companyDomain": "servicenow.com",
       "location": "Mountain View, CALIFORNIA, United States",
-      "remoteType": "hybrid",
-      "salaryMin": 165500,
+      "remoteType": "onsite",
+      "salaryMin": 166500,
       "salaryMax": 291400,
       "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-07-08T18:43:31.083Z",
+      "postedAt": "2026-07-08T18:48:56.049Z",
       "firstIndexedAt": "2026-07-09T06:04:38.602Z",
-      "url": "https://www.dreamworkhq.com/job/2cb515b2-2f6f-4b61-9cb7-bd10edb4a73c?utm_source=github&utm_campaign=gh-senior-swe"
+      "url": "https://www.dreamworkhq.com/job/df463182-9d32-4587-a17a-ab0a85f9b4eb?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
       "id": "81ce4a09-d5a1-48b1-94bb-cc0466aef182",
@@ -10435,18 +10463,18 @@
       "url": "https://www.dreamworkhq.com/job/81ce4a09-d5a1-48b1-94bb-cc0466aef182?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
-      "id": "df463182-9d32-4587-a17a-ab0a85f9b4eb",
-      "title": "Staff Software Engineer, Developer Experience — Moveworks",
+      "id": "2cb515b2-2f6f-4b61-9cb7-bd10edb4a73c",
+      "title": "Staff Agentic Search Infrastructure Engineer - Moveworks",
       "company": "ServiceNow",
       "companyDomain": "servicenow.com",
       "location": "Mountain View, CALIFORNIA, United States",
-      "remoteType": "onsite",
-      "salaryMin": 166500,
+      "remoteType": "hybrid",
+      "salaryMin": 165500,
       "salaryMax": 291400,
       "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-07-08T18:48:56.049Z",
+      "postedAt": "2026-07-08T18:43:31.083Z",
       "firstIndexedAt": "2026-07-09T06:04:38.602Z",
-      "url": "https://www.dreamworkhq.com/job/df463182-9d32-4587-a17a-ab0a85f9b4eb?utm_source=github&utm_campaign=gh-senior-swe"
+      "url": "https://www.dreamworkhq.com/job/2cb515b2-2f6f-4b61-9cb7-bd10edb4a73c?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
       "id": "ad58b9e4-2ae4-4e25-a45d-bbf74a152d4d",
@@ -10911,20 +10939,6 @@
       "url": "https://www.dreamworkhq.com/job/81f42414-2b1c-47c1-afc4-b9eef313f23b?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
-      "id": "f27d377d-7e20-4a6e-8964-d61e4dd9edae",
-      "title": "Sr. Principal Software Engineer (SW Modeler/Developer)",
-      "company": "Northrop Grumman",
-      "companyDomain": "northropgrumman.com",
-      "location": "United States-California-Redondo Beach",
-      "remoteType": "onsite",
-      "salaryMin": 142200,
-      "salaryMax": 213400,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-07-07T07:32:16.093Z",
-      "firstIndexedAt": "2026-07-08T06:09:51.597Z",
-      "url": "https://www.dreamworkhq.com/job/f27d377d-7e20-4a6e-8964-d61e4dd9edae?utm_source=github&utm_campaign=gh-senior-swe"
-    },
-    {
       "id": "af272493-e13e-439b-a5fa-34263cfec120",
       "title": "Sr. Principal Software Engineer (Feature Lead)",
       "company": "Northrop Grumman",
@@ -10937,6 +10951,20 @@
       "postedAt": "2026-07-07T07:32:16.363Z",
       "firstIndexedAt": "2026-07-08T06:09:51.597Z",
       "url": "https://www.dreamworkhq.com/job/af272493-e13e-439b-a5fa-34263cfec120?utm_source=github&utm_campaign=gh-senior-swe"
+    },
+    {
+      "id": "f27d377d-7e20-4a6e-8964-d61e4dd9edae",
+      "title": "Sr. Principal Software Engineer (SW Modeler/Developer)",
+      "company": "Northrop Grumman",
+      "companyDomain": "northropgrumman.com",
+      "location": "United States-California-Redondo Beach",
+      "remoteType": "onsite",
+      "salaryMin": 142200,
+      "salaryMax": 213400,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-07-07T07:32:16.093Z",
+      "firstIndexedAt": "2026-07-08T06:09:51.597Z",
+      "url": "https://www.dreamworkhq.com/job/f27d377d-7e20-4a6e-8964-d61e4dd9edae?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
       "id": "e14867a2-4137-4ce9-9d5c-345c86f0e765",
@@ -10981,34 +11009,6 @@
       "url": "https://www.dreamworkhq.com/job/f7a822fd-75de-4e09-af1b-ee7a53fbb4f6?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
-      "id": "c43b69a2-b5e5-4a1b-9645-ef3d0252686a",
-      "title": "Staff Software Engineer, Product",
-      "company": "Atria Health",
-      "companyDomain": "atriahealth.com",
-      "location": "United States",
-      "remoteType": "remote",
-      "salaryMin": 200000,
-      "salaryMax": 280000,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2025-12-17T00:00:00.000Z",
-      "firstIndexedAt": "2026-07-08T06:09:30.858Z",
-      "url": "https://www.dreamworkhq.com/job/c43b69a2-b5e5-4a1b-9645-ef3d0252686a?utm_source=github&utm_campaign=gh-senior-swe"
-    },
-    {
-      "id": "cc4d1d95-0cd4-477e-b923-f0e89cc0dd75",
-      "title": "Staff Software Engineer, Product",
-      "company": "Atria Health",
-      "companyDomain": "atriahealth.com",
-      "location": "New York, New York, United States",
-      "remoteType": "hybrid",
-      "salaryMin": 230000,
-      "salaryMax": 290000,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2025-12-17T00:00:00.000Z",
-      "firstIndexedAt": "2026-07-08T06:09:30.858Z",
-      "url": "https://www.dreamworkhq.com/job/cc4d1d95-0cd4-477e-b923-f0e89cc0dd75?utm_source=github&utm_campaign=gh-senior-swe"
-    },
-    {
       "id": "eb00cf4c-3095-4dd7-bafc-20eaccb76a73",
       "title": "Staff Software Engineer, Agentic AI",
       "company": "Atria Health",
@@ -11035,6 +11035,34 @@
       "postedAt": "2026-04-02T00:00:00.000Z",
       "firstIndexedAt": "2026-07-08T06:09:30.858Z",
       "url": "https://www.dreamworkhq.com/job/19c49453-8b22-4ce8-8e86-87e046a4cc66?utm_source=github&utm_campaign=gh-senior-swe"
+    },
+    {
+      "id": "cc4d1d95-0cd4-477e-b923-f0e89cc0dd75",
+      "title": "Staff Software Engineer, Product",
+      "company": "Atria Health",
+      "companyDomain": "atriahealth.com",
+      "location": "New York, New York, United States",
+      "remoteType": "hybrid",
+      "salaryMin": 230000,
+      "salaryMax": 290000,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2025-12-17T00:00:00.000Z",
+      "firstIndexedAt": "2026-07-08T06:09:30.858Z",
+      "url": "https://www.dreamworkhq.com/job/cc4d1d95-0cd4-477e-b923-f0e89cc0dd75?utm_source=github&utm_campaign=gh-senior-swe"
+    },
+    {
+      "id": "c43b69a2-b5e5-4a1b-9645-ef3d0252686a",
+      "title": "Staff Software Engineer, Product",
+      "company": "Atria Health",
+      "companyDomain": "atriahealth.com",
+      "location": "United States",
+      "remoteType": "remote",
+      "salaryMin": 200000,
+      "salaryMax": 280000,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2025-12-17T00:00:00.000Z",
+      "firstIndexedAt": "2026-07-08T06:09:30.858Z",
+      "url": "https://www.dreamworkhq.com/job/c43b69a2-b5e5-4a1b-9645-ef3d0252686a?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
       "id": "18be4b8b-d8ef-434e-a2eb-dbf4267ca7f4",
@@ -11275,20 +11303,6 @@
       "url": "https://www.dreamworkhq.com/job/1b4b384a-b240-4d23-bc22-df6d0c9083cf?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
-      "id": "f505f6b3-0a86-4674-8e5f-126de452b10d",
-      "title": "Principal Software Engineer",
-      "company": "DTCC",
-      "companyDomain": "dtcc.com",
-      "location": "Jersey City, NJ, United States",
-      "remoteType": "hybrid",
-      "salaryMin": 195000,
-      "salaryMax": 265000,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-07-07T18:58:40.000Z",
-      "firstIndexedAt": "2026-07-08T06:03:37.077Z",
-      "url": "https://www.dreamworkhq.com/job/f505f6b3-0a86-4674-8e5f-126de452b10d?utm_source=github&utm_campaign=gh-senior-swe"
-    },
-    {
       "id": "a946b480-2d92-4fc1-8321-08de22400a0a",
       "title": "Principal Application Support Engineer / SRE Lead (2nd Shift)",
       "company": "DTCC",
@@ -11301,6 +11315,20 @@
       "postedAt": "2026-07-07T15:10:41.000Z",
       "firstIndexedAt": "2026-07-08T06:03:37.077Z",
       "url": "https://www.dreamworkhq.com/job/a946b480-2d92-4fc1-8321-08de22400a0a?utm_source=github&utm_campaign=gh-senior-swe"
+    },
+    {
+      "id": "f505f6b3-0a86-4674-8e5f-126de452b10d",
+      "title": "Principal Software Engineer",
+      "company": "DTCC",
+      "companyDomain": "dtcc.com",
+      "location": "Jersey City, NJ, United States",
+      "remoteType": "hybrid",
+      "salaryMin": 195000,
+      "salaryMax": 265000,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-07-07T18:58:40.000Z",
+      "firstIndexedAt": "2026-07-08T06:03:37.077Z",
+      "url": "https://www.dreamworkhq.com/job/f505f6b3-0a86-4674-8e5f-126de452b10d?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
       "id": "4364d9ba-f4f8-43fc-b123-39e51b932b40",
@@ -11625,8 +11653,8 @@
       "url": "https://www.dreamworkhq.com/job/136b52e1-598b-4630-bb8b-92ec84596102?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
-      "id": "025dc884-2db0-499e-ab7b-0094a7fbece4",
-      "title": "Principal Software Engineer, Cloud & Edge Backend",
+      "id": "2a5477fe-fbd3-4d03-af94-9721abe18a0e",
+      "title": "Principal Software Engineer, Platform Engineering & Edge Infrastructure",
       "company": "Saviynt",
       "companyDomain": "saviynt.com",
       "location": "Milpitas, California",
@@ -11634,9 +11662,9 @@
       "salaryMin": 240000,
       "salaryMax": 250000,
       "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-06-29T22:17:55.962Z",
+      "postedAt": "2026-06-29T22:22:29.250Z",
       "firstIndexedAt": "2026-07-07T06:08:53.582Z",
-      "url": "https://www.dreamworkhq.com/job/025dc884-2db0-499e-ab7b-0094a7fbece4?utm_source=github&utm_campaign=gh-senior-swe"
+      "url": "https://www.dreamworkhq.com/job/2a5477fe-fbd3-4d03-af94-9721abe18a0e?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
       "id": "0edaf170-4141-4fe7-b049-ef9dfb4d1821",
@@ -11653,8 +11681,8 @@
       "url": "https://www.dreamworkhq.com/job/0edaf170-4141-4fe7-b049-ef9dfb4d1821?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
-      "id": "2a5477fe-fbd3-4d03-af94-9721abe18a0e",
-      "title": "Principal Software Engineer, Platform Engineering & Edge Infrastructure",
+      "id": "025dc884-2db0-499e-ab7b-0094a7fbece4",
+      "title": "Principal Software Engineer, Cloud & Edge Backend",
       "company": "Saviynt",
       "companyDomain": "saviynt.com",
       "location": "Milpitas, California",
@@ -11662,9 +11690,9 @@
       "salaryMin": 240000,
       "salaryMax": 250000,
       "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-06-29T22:22:29.250Z",
+      "postedAt": "2026-06-29T22:17:55.962Z",
       "firstIndexedAt": "2026-07-07T06:08:53.582Z",
-      "url": "https://www.dreamworkhq.com/job/2a5477fe-fbd3-4d03-af94-9721abe18a0e?utm_source=github&utm_campaign=gh-senior-swe"
+      "url": "https://www.dreamworkhq.com/job/025dc884-2db0-499e-ab7b-0094a7fbece4?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
       "id": "5c844560-283f-4a4e-a266-fef67afeff1f",
@@ -11751,20 +11779,6 @@
       "url": "https://www.dreamworkhq.com/job/26c3a4aa-2cc4-4d2c-8ae9-d941babe93e8?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
-      "id": "5a87e0d0-9720-44b1-80ef-2ab9313c4709",
-      "title": "Product Engineering Team - Software Engineer (Staff)",
-      "company": "Sprinter Health",
-      "companyDomain": "sprinterhealth.com",
-      "location": "San Francisco, CA",
-      "remoteType": "hybrid",
-      "salaryMin": 220000,
-      "salaryMax": 260000,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-07-06T21:42:25.358Z",
-      "firstIndexedAt": "2026-07-07T06:07:48.886Z",
-      "url": "https://www.dreamworkhq.com/job/5a87e0d0-9720-44b1-80ef-2ab9313c4709?utm_source=github&utm_campaign=gh-senior-swe"
-    },
-    {
       "id": "43a748b3-ba8c-43b1-b443-329fa8190cbb",
       "title": "Growth Team- Software Engineer (Staff) ",
       "company": "Sprinter Health",
@@ -11791,6 +11805,20 @@
       "postedAt": "2026-07-06T22:25:19.704Z",
       "firstIndexedAt": "2026-07-07T06:07:48.886Z",
       "url": "https://www.dreamworkhq.com/job/ffba90c6-284e-43e3-a19d-a556707b9b85?utm_source=github&utm_campaign=gh-senior-swe"
+    },
+    {
+      "id": "5a87e0d0-9720-44b1-80ef-2ab9313c4709",
+      "title": "Product Engineering Team - Software Engineer (Staff)",
+      "company": "Sprinter Health",
+      "companyDomain": "sprinterhealth.com",
+      "location": "San Francisco, CA",
+      "remoteType": "hybrid",
+      "salaryMin": 220000,
+      "salaryMax": 260000,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-07-06T21:42:25.358Z",
+      "firstIndexedAt": "2026-07-07T06:07:48.886Z",
+      "url": "https://www.dreamworkhq.com/job/5a87e0d0-9720-44b1-80ef-2ab9313c4709?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
       "id": "6d5cd6b8-d732-4014-99f9-cf4024e63668",
@@ -11919,6 +11947,20 @@
       "url": "https://www.dreamworkhq.com/job/93afa806-d762-4c5c-b6ab-e92c3417a413?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
+      "id": "48c658e4-e052-42f2-a501-31293aae04d6",
+      "title": "Lead Software Engineer - Identity & Access Management",
+      "company": "JPMorgan Chase",
+      "companyDomain": "careers.jpmorgan.com",
+      "location": "OH, United States",
+      "remoteType": "onsite",
+      "salaryMin": 195000,
+      "salaryMax": 255000,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-07-06T14:03:55.000Z",
+      "firstIndexedAt": "2026-07-07T06:03:40.296Z",
+      "url": "https://www.dreamworkhq.com/job/48c658e4-e052-42f2-a501-31293aae04d6?utm_source=github&utm_campaign=gh-senior-swe"
+    },
+    {
       "id": "6cf66b65-03ee-4830-8ef5-41cb81ef307d",
       "title": "Lead Software Engineer - Infrastructure Platforms",
       "company": "JPMorgan Chase",
@@ -11945,20 +11987,6 @@
       "postedAt": "2026-07-07T00:27:16.000Z",
       "firstIndexedAt": "2026-07-07T06:03:40.296Z",
       "url": "https://www.dreamworkhq.com/job/6fac1f4b-a7da-4590-9d8d-da0ad5f21a37?utm_source=github&utm_campaign=gh-senior-swe"
-    },
-    {
-      "id": "48c658e4-e052-42f2-a501-31293aae04d6",
-      "title": "Lead Software Engineer - Identity & Access Management",
-      "company": "JPMorgan Chase",
-      "companyDomain": "careers.jpmorgan.com",
-      "location": "OH, United States",
-      "remoteType": "onsite",
-      "salaryMin": 195000,
-      "salaryMax": 255000,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-07-06T14:03:55.000Z",
-      "firstIndexedAt": "2026-07-07T06:03:40.296Z",
-      "url": "https://www.dreamworkhq.com/job/48c658e4-e052-42f2-a501-31293aae04d6?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
       "id": "9f5bdd4d-2af9-4320-8795-1367713a99f2",
@@ -12297,20 +12325,6 @@
       "url": "https://www.dreamworkhq.com/job/a3cfc295-0ab9-4e21-b698-ed162610b4cc?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
-      "id": "a6e2f302-b742-4e52-985b-7f5c770babf5",
-      "title": "Lead Software Engineer - Observability Platform Cloud Developer",
-      "company": "JPMorgan Chase",
-      "companyDomain": "careers.jpmorgan.com",
-      "location": "Wilmington, DE, United States",
-      "remoteType": "onsite",
-      "salaryMin": 185000,
-      "salaryMax": 235000,
-      "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-07-13T20:24:47.000Z",
-      "firstIndexedAt": "2026-07-04T06:06:31.250Z",
-      "url": "https://www.dreamworkhq.com/job/a6e2f302-b742-4e52-985b-7f5c770babf5?utm_source=github&utm_campaign=gh-senior-swe"
-    },
-    {
       "id": "93c40e9a-453d-4285-b1e0-eff22609d456",
       "title": "Lead Software Engineer - Engineering Advocacy Lead",
       "company": "Alumni",
@@ -12323,6 +12337,20 @@
       "postedAt": "2026-02-25T18:51:00.000Z",
       "firstIndexedAt": "2026-07-04T06:06:31.250Z",
       "url": "https://www.dreamworkhq.com/job/93c40e9a-453d-4285-b1e0-eff22609d456?utm_source=github&utm_campaign=gh-senior-swe"
+    },
+    {
+      "id": "a6e2f302-b742-4e52-985b-7f5c770babf5",
+      "title": "Lead Software Engineer - Observability Platform Cloud Developer",
+      "company": "JPMorgan Chase",
+      "companyDomain": "careers.jpmorgan.com",
+      "location": "Wilmington, DE, United States",
+      "remoteType": "onsite",
+      "salaryMin": 185000,
+      "salaryMax": 235000,
+      "aiRoleKind": "ai_explicit",
+      "postedAt": "2026-07-13T20:24:47.000Z",
+      "firstIndexedAt": "2026-07-04T06:06:31.250Z",
+      "url": "https://www.dreamworkhq.com/job/a6e2f302-b742-4e52-985b-7f5c770babf5?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
       "id": "fffd6d0a-5a7d-47d0-8b20-5b6c14eecef5",
@@ -12423,20 +12451,6 @@
       "url": "https://www.dreamworkhq.com/job/08dae6a2-b6ae-4980-ba61-d5b1654a7ca8?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
-      "id": "8ec68b70-0959-4d0a-a99b-9ff587ccda3c",
-      "title": "Principal Software Engineer - Global Finance Technology",
-      "company": "Alumni",
-      "companyDomain": "careers.jpmorgan.com",
-      "location": "OH, United States",
-      "remoteType": "onsite",
-      "salaryMin": 195000,
-      "salaryMax": 265000,
-      "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-04-06T21:13:12.000Z",
-      "firstIndexedAt": "2026-07-04T06:06:28.861Z",
-      "url": "https://www.dreamworkhq.com/job/8ec68b70-0959-4d0a-a99b-9ff587ccda3c?utm_source=github&utm_campaign=gh-senior-swe"
-    },
-    {
       "id": "c20f649d-5a20-4940-967f-9e98f84a104d",
       "title": "Sr Principal Software Engineer - Finance Technology Transformation Lead",
       "company": "Alumni",
@@ -12449,6 +12463,20 @@
       "postedAt": "2026-01-12T15:39:29.000Z",
       "firstIndexedAt": "2026-07-04T06:06:28.861Z",
       "url": "https://www.dreamworkhq.com/job/c20f649d-5a20-4940-967f-9e98f84a104d?utm_source=github&utm_campaign=gh-senior-swe"
+    },
+    {
+      "id": "8ec68b70-0959-4d0a-a99b-9ff587ccda3c",
+      "title": "Principal Software Engineer - Global Finance Technology",
+      "company": "Alumni",
+      "companyDomain": "careers.jpmorgan.com",
+      "location": "OH, United States",
+      "remoteType": "onsite",
+      "salaryMin": 195000,
+      "salaryMax": 265000,
+      "aiRoleKind": "ai_explicit",
+      "postedAt": "2026-04-06T21:13:12.000Z",
+      "firstIndexedAt": "2026-07-04T06:06:28.861Z",
+      "url": "https://www.dreamworkhq.com/job/8ec68b70-0959-4d0a-a99b-9ff587ccda3c?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
       "id": "206affea-c75f-40fe-86d3-51aa7761738f",
@@ -12479,20 +12507,6 @@
       "url": "https://www.dreamworkhq.com/job/7ddc7b88-ed14-476c-8917-6e039a10f894?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
-      "id": "0c0e24d1-bf1d-45e4-9594-33ec95dd0a42",
-      "title": "Lead Software Engineer -SRE/DevOps -Java/Python",
-      "company": "Alumni",
-      "companyDomain": "careers.jpmorgan.com",
-      "location": "Westerville, OH, United States",
-      "remoteType": "onsite",
-      "salaryMin": 190000,
-      "salaryMax": 230000,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2025-11-26T17:45:05.000Z",
-      "firstIndexedAt": "2026-07-04T06:06:28.073Z",
-      "url": "https://www.dreamworkhq.com/job/0c0e24d1-bf1d-45e4-9594-33ec95dd0a42?utm_source=github&utm_campaign=gh-senior-swe"
-    },
-    {
       "id": "02d70572-f192-4431-b7d9-624c00e61b36",
       "title": "Lead Software Engineer - Full Stack/Generative AI/LLM",
       "company": "Alumni",
@@ -12507,18 +12521,18 @@
       "url": "https://www.dreamworkhq.com/job/02d70572-f192-4431-b7d9-624c00e61b36?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
-      "id": "0e66e8b2-0d64-4039-a5b9-fd796abab64f",
-      "title": "Lead Software Engineer- Front End Platform",
+      "id": "0c0e24d1-bf1d-45e4-9594-33ec95dd0a42",
+      "title": "Lead Software Engineer -SRE/DevOps -Java/Python",
       "company": "Alumni",
       "companyDomain": "careers.jpmorgan.com",
-      "location": "New York, NY, United States",
+      "location": "Westerville, OH, United States",
       "remoteType": "onsite",
-      "salaryMin": 133760,
-      "salaryMax": 232200,
+      "salaryMin": 190000,
+      "salaryMax": 230000,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-03-02T15:17:12.000Z",
-      "firstIndexedAt": "2026-07-04T06:06:27.669Z",
-      "url": "https://www.dreamworkhq.com/job/0e66e8b2-0d64-4039-a5b9-fd796abab64f?utm_source=github&utm_campaign=gh-senior-swe"
+      "postedAt": "2025-11-26T17:45:05.000Z",
+      "firstIndexedAt": "2026-07-04T06:06:28.073Z",
+      "url": "https://www.dreamworkhq.com/job/0c0e24d1-bf1d-45e4-9594-33ec95dd0a42?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
       "id": "d22af730-d89a-430e-9333-578a7a5bbfd4",
@@ -12533,6 +12547,20 @@
       "postedAt": "2026-03-05T14:28:01.000Z",
       "firstIndexedAt": "2026-07-04T06:06:27.669Z",
       "url": "https://www.dreamworkhq.com/job/d22af730-d89a-430e-9333-578a7a5bbfd4?utm_source=github&utm_campaign=gh-senior-swe"
+    },
+    {
+      "id": "0e66e8b2-0d64-4039-a5b9-fd796abab64f",
+      "title": "Lead Software Engineer- Front End Platform",
+      "company": "Alumni",
+      "companyDomain": "careers.jpmorgan.com",
+      "location": "New York, NY, United States",
+      "remoteType": "onsite",
+      "salaryMin": 133760,
+      "salaryMax": 232200,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-03-02T15:17:12.000Z",
+      "firstIndexedAt": "2026-07-04T06:06:27.669Z",
+      "url": "https://www.dreamworkhq.com/job/0e66e8b2-0d64-4039-a5b9-fd796abab64f?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
       "id": "258d205c-934a-4b8b-bc0a-0e39e62f4ffc",
@@ -12675,20 +12703,6 @@
       "url": "https://www.dreamworkhq.com/job/bedb5e36-f6e7-4cde-b56a-bd72cb22ddcb?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
-      "id": "186117b6-c677-4c0b-a325-6dff44a566a8",
-      "title": "Staff Software Engineer, Banking",
-      "company": "Brex",
-      "companyDomain": "brex.com",
-      "location": "New York, New York, United States",
-      "remoteType": "hybrid",
-      "salaryMin": 240000,
-      "salaryMax": 285000,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-07-02T16:35:18.000Z",
-      "firstIndexedAt": "2026-07-03T06:13:19.641Z",
-      "url": "https://www.dreamworkhq.com/job/186117b6-c677-4c0b-a325-6dff44a566a8?utm_source=github&utm_campaign=gh-senior-swe"
-    },
-    {
       "id": "b285870c-9577-44fc-b0e8-78bc712b0a34",
       "title": "Staff Software Engineer, Banking",
       "company": "Brex",
@@ -12701,6 +12715,20 @@
       "postedAt": "2026-07-02T16:35:15.000Z",
       "firstIndexedAt": "2026-07-03T06:13:19.641Z",
       "url": "https://www.dreamworkhq.com/job/b285870c-9577-44fc-b0e8-78bc712b0a34?utm_source=github&utm_campaign=gh-senior-swe"
+    },
+    {
+      "id": "186117b6-c677-4c0b-a325-6dff44a566a8",
+      "title": "Staff Software Engineer, Banking",
+      "company": "Brex",
+      "companyDomain": "brex.com",
+      "location": "New York, New York, United States",
+      "remoteType": "hybrid",
+      "salaryMin": 240000,
+      "salaryMax": 285000,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-07-02T16:35:18.000Z",
+      "firstIndexedAt": "2026-07-03T06:13:19.641Z",
+      "url": "https://www.dreamworkhq.com/job/186117b6-c677-4c0b-a325-6dff44a566a8?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
       "id": "8e7d9b3c-8bd9-4f56-a58b-56466ab3ea4b",
@@ -12829,20 +12857,6 @@
       "url": "https://www.dreamworkhq.com/job/bbb8026a-52a7-4db3-aed8-f2b244a25715?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
-      "id": "8450439b-021a-4727-9e2b-1d22112d627c",
-      "title": "Software Engineer - Level 5",
-      "company": "Northrop Grumman",
-      "companyDomain": "northropgrumman.com",
-      "location": "United States-California-Redondo Beach",
-      "remoteType": "hybrid",
-      "salaryMin": 177000,
-      "salaryMax": 265600,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-07-02T07:32:22.551Z",
-      "firstIndexedAt": "2026-07-03T06:11:13.045Z",
-      "url": "https://www.dreamworkhq.com/job/8450439b-021a-4727-9e2b-1d22112d627c?utm_source=github&utm_campaign=gh-senior-swe"
-    },
-    {
       "id": "23fe0ce4-bda1-42a9-992f-944ab263517a",
       "title": "DevOps Engineer - Level 5",
       "company": "Northrop Grumman",
@@ -12855,6 +12869,20 @@
       "postedAt": "2026-07-02T07:32:22.009Z",
       "firstIndexedAt": "2026-07-03T06:11:13.045Z",
       "url": "https://www.dreamworkhq.com/job/23fe0ce4-bda1-42a9-992f-944ab263517a?utm_source=github&utm_campaign=gh-senior-swe"
+    },
+    {
+      "id": "8450439b-021a-4727-9e2b-1d22112d627c",
+      "title": "Software Engineer - Level 5",
+      "company": "Northrop Grumman",
+      "companyDomain": "northropgrumman.com",
+      "location": "United States-California-Redondo Beach",
+      "remoteType": "hybrid",
+      "salaryMin": 177000,
+      "salaryMax": 265600,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-07-02T07:32:22.551Z",
+      "firstIndexedAt": "2026-07-03T06:11:13.045Z",
+      "url": "https://www.dreamworkhq.com/job/8450439b-021a-4727-9e2b-1d22112d627c?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
       "id": "7d717b6d-8778-481d-a141-357796ee4ac8",
@@ -13123,20 +13151,6 @@
       "url": "https://www.dreamworkhq.com/job/0a01d59d-1b1e-4bc2-93ac-666ec2e0100a?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
-      "id": "a18edbb9-c8c3-45ff-83c1-9c89890767ca",
-      "title": "Software Engineer, Full Stack, Level 4",
-      "company": "Snap",
-      "companyDomain": "snap.com",
-      "location": "Los Angeles, California",
-      "remoteType": "onsite",
-      "salaryMin": 157000,
-      "salaryMax": 235000,
-      "aiRoleKind": "ai_enabled",
-      "postedAt": "2026-07-03T06:39:50.063Z",
-      "firstIndexedAt": "2026-07-03T06:06:37.377Z",
-      "url": "https://www.dreamworkhq.com/job/a18edbb9-c8c3-45ff-83c1-9c89890767ca?utm_source=github&utm_campaign=gh-senior-swe"
-    },
-    {
       "id": "f93e035a-ac77-4e4a-bcff-7a4645ca7c58",
       "title": "Software Engineer - Audio, Level 5",
       "company": "Snap",
@@ -13149,6 +13163,20 @@
       "postedAt": "2026-07-13T08:48:27.293Z",
       "firstIndexedAt": "2026-07-03T06:06:37.377Z",
       "url": "https://www.dreamworkhq.com/job/f93e035a-ac77-4e4a-bcff-7a4645ca7c58?utm_source=github&utm_campaign=gh-senior-swe"
+    },
+    {
+      "id": "a18edbb9-c8c3-45ff-83c1-9c89890767ca",
+      "title": "Software Engineer, Full Stack, Level 4",
+      "company": "Snap",
+      "companyDomain": "snap.com",
+      "location": "Los Angeles, California",
+      "remoteType": "onsite",
+      "salaryMin": 157000,
+      "salaryMax": 235000,
+      "aiRoleKind": "ai_enabled",
+      "postedAt": "2026-07-03T06:39:50.063Z",
+      "firstIndexedAt": "2026-07-03T06:06:37.377Z",
+      "url": "https://www.dreamworkhq.com/job/a18edbb9-c8c3-45ff-83c1-9c89890767ca?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
       "id": "bd378a02-e432-4eb4-bbc2-2a96c7075610",
@@ -13473,20 +13501,6 @@
       "url": "https://www.dreamworkhq.com/job/cbf46f25-70f7-41a3-a89f-21adc9b079cf?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
-      "id": "11dcc4c0-e0c3-4f51-ac96-99ccfd864963",
-      "title": "Robotics Software Engineer",
-      "company": "Anduril",
-      "companyDomain": "anduril.com",
-      "location": "Boston, Massachusetts, United States",
-      "remoteType": "onsite",
-      "salaryMin": 191000,
-      "salaryMax": 253000,
-      "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-07-02T20:13:35.000Z",
-      "firstIndexedAt": "2026-07-03T06:01:34.654Z",
-      "url": "https://www.dreamworkhq.com/job/11dcc4c0-e0c3-4f51-ac96-99ccfd864963?utm_source=github&utm_campaign=gh-senior-swe"
-    },
-    {
       "id": "64898f50-e2cf-4dea-9363-92da1e33c61f",
       "title": "Robotics Software Engineer",
       "company": "Anduril",
@@ -13499,6 +13513,20 @@
       "postedAt": "2026-07-02T20:12:00.000Z",
       "firstIndexedAt": "2026-07-03T06:01:34.654Z",
       "url": "https://www.dreamworkhq.com/job/64898f50-e2cf-4dea-9363-92da1e33c61f?utm_source=github&utm_campaign=gh-senior-swe"
+    },
+    {
+      "id": "11dcc4c0-e0c3-4f51-ac96-99ccfd864963",
+      "title": "Robotics Software Engineer",
+      "company": "Anduril",
+      "companyDomain": "anduril.com",
+      "location": "Boston, Massachusetts, United States",
+      "remoteType": "onsite",
+      "salaryMin": 191000,
+      "salaryMax": 253000,
+      "aiRoleKind": "ai_explicit",
+      "postedAt": "2026-07-02T20:13:35.000Z",
+      "firstIndexedAt": "2026-07-03T06:01:34.654Z",
+      "url": "https://www.dreamworkhq.com/job/11dcc4c0-e0c3-4f51-ac96-99ccfd864963?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
       "id": "d850480d-91dd-460c-9f8f-e17cdd6ac751",
@@ -13557,6 +13585,20 @@
       "url": "https://www.dreamworkhq.com/job/1c3797b9-402c-4f9c-b022-6c5f58080b79?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
+      "id": "62763ad3-f45c-46a1-8bb8-cd94d7abddba",
+      "title": "Full Stack Java Developer-Principal",
+      "company": "Netsage",
+      "companyDomain": "netsage.com",
+      "location": "Annapolis Junction, Maryland, United States",
+      "remoteType": "onsite",
+      "salaryMin": 185000,
+      "salaryMax": 255000,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-07-03T00:08:21.000Z",
+      "firstIndexedAt": "2026-07-03T06:00:31.626Z",
+      "url": "https://www.dreamworkhq.com/job/62763ad3-f45c-46a1-8bb8-cd94d7abddba?utm_source=github&utm_campaign=gh-senior-swe"
+    },
+    {
       "id": "4e14b615-c4cb-40d9-bac5-5bf31aac3fa0",
       "title": "Cyber Software Engineer-Principal",
       "company": "Netsage",
@@ -13583,20 +13625,6 @@
       "postedAt": "2026-07-03T00:10:44.000Z",
       "firstIndexedAt": "2026-07-03T06:00:31.626Z",
       "url": "https://www.dreamworkhq.com/job/1fe5fbeb-5480-44c0-b106-35a40b325d0b?utm_source=github&utm_campaign=gh-senior-swe"
-    },
-    {
-      "id": "62763ad3-f45c-46a1-8bb8-cd94d7abddba",
-      "title": "Full Stack Java Developer-Principal",
-      "company": "Netsage",
-      "companyDomain": "netsage.com",
-      "location": "Annapolis Junction, Maryland, United States",
-      "remoteType": "onsite",
-      "salaryMin": 185000,
-      "salaryMax": 255000,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-07-03T00:08:21.000Z",
-      "firstIndexedAt": "2026-07-03T06:00:31.626Z",
-      "url": "https://www.dreamworkhq.com/job/62763ad3-f45c-46a1-8bb8-cd94d7abddba?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
       "id": "4a6aca69-faa9-491e-87c3-00ede4a379bf",
@@ -13683,20 +13711,6 @@
       "url": "https://www.dreamworkhq.com/job/712bcfac-b44b-442c-8648-8d39fab39e63?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
-      "id": "90adad8b-de4d-4571-a035-0181a6140573",
-      "title": "Principal Cloud Platform Engineer - AI/ML",
-      "company": "Alumni",
-      "companyDomain": "campbellglobal.com",
-      "location": "Jersey City, NJ, United States",
-      "remoteType": "onsite",
-      "salaryMin": 200000,
-      "salaryMax": 325000,
-      "aiRoleKind": "ai_explicit",
-      "postedAt": "2025-03-20T22:00:08.000Z",
-      "firstIndexedAt": "2026-07-02T06:19:47.723Z",
-      "url": "https://www.dreamworkhq.com/job/90adad8b-de4d-4571-a035-0181a6140573?utm_source=github&utm_campaign=gh-senior-swe"
-    },
-    {
       "id": "e40b91b7-bc17-4237-bb61-d9f3b01192ab",
       "title": "Senior Principal Software Engineer - Spread Technology",
       "company": "Alumni",
@@ -13709,6 +13723,20 @@
       "postedAt": "2025-04-03T18:46:32.000Z",
       "firstIndexedAt": "2026-07-02T06:19:47.723Z",
       "url": "https://www.dreamworkhq.com/job/e40b91b7-bc17-4237-bb61-d9f3b01192ab?utm_source=github&utm_campaign=gh-senior-swe"
+    },
+    {
+      "id": "90adad8b-de4d-4571-a035-0181a6140573",
+      "title": "Principal Cloud Platform Engineer - AI/ML",
+      "company": "Alumni",
+      "companyDomain": "campbellglobal.com",
+      "location": "Jersey City, NJ, United States",
+      "remoteType": "onsite",
+      "salaryMin": 200000,
+      "salaryMax": 325000,
+      "aiRoleKind": "ai_explicit",
+      "postedAt": "2025-03-20T22:00:08.000Z",
+      "firstIndexedAt": "2026-07-02T06:19:47.723Z",
+      "url": "https://www.dreamworkhq.com/job/90adad8b-de4d-4571-a035-0181a6140573?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
       "id": "bceecbf7-3494-48c8-8bbf-120f4564d904",
@@ -13767,20 +13795,6 @@
       "url": "https://www.dreamworkhq.com/job/679c7712-71ba-467e-bde6-ebd55606ea41?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
-      "id": "cab2be34-5542-44e9-a997-3a0ac8fe8a50",
-      "title": "Principal DevOps Engineer",
-      "company": "Palo Alto Networks",
-      "companyDomain": "paloaltonetworks.com",
-      "location": "Office - USA - CA - Headquarters",
-      "remoteType": "hybrid",
-      "salaryMin": 147000,
-      "salaryMax": 237500,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-07-08T07:59:18.387Z",
-      "firstIndexedAt": "2026-07-02T06:15:15.219Z",
-      "url": "https://www.dreamworkhq.com/job/cab2be34-5542-44e9-a997-3a0ac8fe8a50?utm_source=github&utm_campaign=gh-senior-swe"
-    },
-    {
       "id": "e312a24c-65be-4220-a23f-40e6ecae1b38",
       "title": "Principal Engineer Software",
       "company": "Palo Alto Networks",
@@ -13793,6 +13807,20 @@
       "postedAt": "2026-07-01T07:59:21.172Z",
       "firstIndexedAt": "2026-07-02T06:15:15.219Z",
       "url": "https://www.dreamworkhq.com/job/e312a24c-65be-4220-a23f-40e6ecae1b38?utm_source=github&utm_campaign=gh-senior-swe"
+    },
+    {
+      "id": "cab2be34-5542-44e9-a997-3a0ac8fe8a50",
+      "title": "Principal DevOps Engineer",
+      "company": "Palo Alto Networks",
+      "companyDomain": "paloaltonetworks.com",
+      "location": "Office - USA - CA - Headquarters",
+      "remoteType": "hybrid",
+      "salaryMin": 147000,
+      "salaryMax": 237500,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-07-08T07:59:18.387Z",
+      "firstIndexedAt": "2026-07-02T06:15:15.219Z",
+      "url": "https://www.dreamworkhq.com/job/cab2be34-5542-44e9-a997-3a0ac8fe8a50?utm_source=github&utm_campaign=gh-senior-swe"
     },
     {
       "id": "caf2277e-6246-4756-b6fa-603964d1244a",
